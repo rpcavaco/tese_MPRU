@@ -1,0 +1,57 @@
+
+% Passar o título (variável Pandoc 'title') para a var. \THETITLE
+\def\title#1{\gdef\@title{#1}\gdef\THETITLE{#1}}
+
+
+% sectsty permite alterar os estilos dos section headers
+\usepackage{sectsty}
+
+\allsectionsfont{\sffamily}
+
+% titlesec permite formatar o heading de 'chapter'
+\usepackage{titlesec}
+
+% comando de titlesec para formatar o título de capítulo - remove 0 zero
+% \titleformat{\chapter}{\normalfont\sffamily\huge}{\thechapter.}{22pt}{\normalfont\sffamily\huge}
+\titleformat{\chapter}{\normalfont\sffamily\huge}{\ifnum\thechapter>0 \thechapter.\fi}{6pt}{\normalfont\sffamily\huge}
+
+% fontspec é necessário para alterar fontes com o XELATEX engine
+\usepackage{fontspec}
+\setmainfont{PT Sans}
+\setsansfont{PT Sans Narrow}
+
+% fancyhdr - cabeçalhos customizados
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+
+% Passar nome de capítulo e de seccao para variáveis
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+%\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+
+\fancyhf{}
+
+% Cabeçalho
+\fancyhead[RO,LE]{\THETITLE}
+
+% Rodapé
+\fancyfoot[LO,RE]{\MakeUppercase{\leftmark}}
+\fancyfoot[LE,RO]{\thepage}
+
+% traços de cabeçalho e rodapé
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+% Prefácio é capitulo zero
+\setcounter{chapter}{-1}
+
+
+% O template tem cancelada a geração da página de título
+% com os seguintes comentários após  begin{document}
+% %$if(title)$
+% %\maketitle
+% %$endif$
+
+

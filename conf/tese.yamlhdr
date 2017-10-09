@@ -1,0 +1,10 @@
+---
+title: Cobrança de portagens e mobilidade rodoviária
+author: Rui Pedro Cavaco Barrosa
+documentclass: book
+classoption: twoside
+fontsize: 12pt
+
+geometry: "left=2.5cm,right=2cm,top=2cm,bottom=2.5cm"
+output: pdf_document
+---
