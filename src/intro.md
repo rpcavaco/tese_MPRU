@@ -1,4 +1,18 @@
-# Prefácio
+
+# Resumo
+
+O modelo DBFO (Design Build Finance Operate) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha circa 1994 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. Da aplicação do modelo PPPR destaca-se a implementação, a partir de 1997 das chamadas SCUT, autoestradas sem custos diretos para o utente, cujo acesso livre contribuiria certamente para diminuição das marcantes assimetrias socioeconómicas entre regiões interiores e litorais do nosso país. A perspectiva deste acesso livre foi claramente ensombrecida a partir de 2006 quando entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um grave distanciamento entre custos previstos e custos efectivos da execução destes projectos. Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos, o acesso livre nos troços SCUT foi eliminado com a introdução de portagens. De imediato, em determinados troços, a procura caiu duma forma expressiva Em alguns troços a procura tem ficado mesmo abaixo dos limites técnicos  historicamente usados para​ justificar a criação de autoestradas, ameaçando quer o objectivo da própria colecta de portagem quer o efeito socioeconómico positivo que se pretendia provocar. 
+A presente dissertação pretende demonstrar a extensão de alguns efeitos nefastos, efectivos e previsíveis, da introdução de portagens nas antigas SCUT entre os quais poderá estar mesmo a ameaça à recuperação ou compensação da derrapagem financeira ocorrida. 
+
+**Palavras-chave**: Autoestrada, portagem, preço sombra 
+
+
+**Abstract:** "Design, Build, Finance, Operate" (DBFO) road projects where developed in Great Britain as public -private partnerships for construction and operation of a collection of new roads back in 1994. This served as an inspiration for the portuguese programme of road development based on public-private partnerships. Most relevant of these were the SCUT projects, completely accessible and free of tolls as an influence to diminish socioeconomic disparities between interior and coastal regions of the country. By 2006, as the effective costs of these projects  soared, domestic and international political pressure mounted for finantial equlibrium in this projects. As a result, tolls were introduced and are effective to this day. Upon toll activation
+
+**Keywords** Highway, toll, shadow pricing
+
+
+# Introdução
 
 Portugal era até ao início do século XXI um país com um défice crónico em infraestruturas de transporte. Esta deficiência atingia de igual modo os modos de transporte rodoviário e ferroviário, o transporte individual e coletivo.
 
