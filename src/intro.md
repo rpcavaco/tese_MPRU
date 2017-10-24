@@ -1,20 +1,22 @@
 
 # Resumo
 
-O modelo DBFO (Design Build Finance Operate) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha circa 1994 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. Da aplicação do modelo PPPR destaca-se a implementação, a partir de 1997 das chamadas SCUT, autoestradas sem custos diretos para o utente, cujo acesso livre contribuiria certamente para diminuição das marcantes assimetrias socioeconómicas entre regiões interiores e litorais do nosso país. A perspectiva deste acesso livre foi claramente ensombrecida a partir de 2006 quando entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um grave distanciamento entre custos previstos e custos efectivos da execução destes projectos. Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos, o acesso livre nos troços SCUT foi eliminado com a introdução de portagens. De imediato, em determinados troços, a procura caiu duma forma expressiva Em alguns troços a procura tem ficado mesmo abaixo dos limites técnicos  historicamente usados para​ justificar a criação de autoestradas, ameaçando quer o objectivo da própria colecta de portagem quer o efeito socioeconómico positivo que se pretendia provocar. 
-A presente dissertação pretende demonstrar a extensão de alguns efeitos nefastos, efectivos e previsíveis, da introdução de portagens nas antigas SCUT entre os quais poderá estar mesmo a ameaça à recuperação ou compensação da derrapagem financeira ocorrida. 
+O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha circa 1994 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. Da aplicação do modelo PPPR destaca-se a implementação, a partir de 1997 das chamadas SCUT, autoestradas sem custos diretos para o utente, cujo acesso livre contribuiria certamente para diminuição das marcantes assimetrias socioeconómicas existentes entre regiões interiores e litorais do nosso país. A perspectiva positiva deste acesso livre foi claramente ensombrecida a partir de 2006 quando entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um grave distanciamento entre custos previstos e custos efectivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos, o acesso livre nos troços SCUT foi eliminado com a introdução de portagens. De imediato, em determinados troços, a procura caiu duma forma expressiva Em alguns troços a procura tem ficado mesmo abaixo dos limites técnicos  historicamente usados para​ justificar a criação de autoestradas, ameaçando quer o objectivo da própria colecta de receitas quer o efeito socioeconómico positivo que se pretendia provocar.
+A presente dissertação pretende demonstrar a extensão de alguns dos efeitos nefastos, efectivos e previsíveis, da introdução de portagens nas antigas SCUT entre os quais poderá estar mesmo a ameaça à recuperação ou compensação da derrapagem financeira ocorrida.
 
-**Palavras-chave**: Autoestrada, portagem, preço sombra 
+**Palavras-chave**: Autoestrada, portagem, preço sombra
 
+## Abstract
 
-**Abstract:** "Design, Build, Finance, Operate" (DBFO) road projects where developed in Great Britain as public -private partnerships for construction and operation of a collection of new roads back in 1994. This served as an inspiration for the portuguese programme of road development based on public-private partnerships. Most relevant of these were the SCUT projects, completely accessible and free of tolls as an influence to diminish socioeconomic disparities between interior and coastal regions of the country. By 2006, as the effective costs of these projects  soared, domestic and international political pressure mounted for finantial equlibrium in this projects. As a result, tolls were introduced and are effective to this day. Upon toll activation
+"Design, Build, Finance, Operate" (DBFO) road projects where developed in Great Britain as public-private partnerships for construction and operation of a collection of new roads back in 1994. This served as an inspiration for the portuguese programme of road development based on public-private partnerships. Most relevant of these were the SCUT projects, completely accessible and free of tolls as an influence to diminish socioeconomic disparities between interior and coastal regions of the country. By 2006, multiple ill informed decisions had caused the effective costs of these projects to soar. Then, domestic and international political pressure mounted for the effecive control of such unexpected excessive costs. As a result, tolls were introduced and are effective to this day. Upon toll activation traffic decayed immediately, in some routes beyond technical limits that justify the development of a highway.
+This menaces both the positive regional integration objectives and also the objective of raising enough users money to compensate important and unexpected costs.
+This thesis tries to show the extent of some noxious effects of toll introduction, previsible or already effective.
 
 **Keywords** Highway, toll, shadow pricing
 
-
 # Introdução
 
-Portugal era até ao início do século XXI um país com um défice crónico em infraestruturas de transporte. Esta deficiência atingia de igual modo os modos de transporte rodoviário e ferroviário, o transporte individual e coletivo.
+Portugal era até ao início do século XXI um país com um défice crónico em infraestruturas de transporte. Esta deficiência atingia de igual forma os modos de transporte rodoviário e ferroviário, o transporte individual e coletivo.
 
 Na segunda metade do século XIX, o transporte coletivo em modo ferroviário cresceu de forma significativa [@cf1801_1930]. Contudo, um conjunto de vicissitudes ao longo do século XX até meados dos anos 90 levaram a que muitos serviços ferroviários em funcionamento acabassem encerrados e os planos de crescimento dos existentes abandonados [bib em falta].
 
@@ -22,7 +24,7 @@ O incremento do transporte rodoviário, possibilitado pela implementação de um
 
 O investimento na rodovia foi sucessivamente crescendo, sofrendo um fortíssimo incremento já no início do século XXI [@pordata:extaes]. Paralelamente a ferrovia foi deixada para segundo plano, acabando severamente depreciada com ajuda da concorrência directa do modo rodoviário.
 
-Até chegarmos às décadas finais do século XX, o investimento no modo rodoviário foi sendo sucessivamente incrementado, enquanto o sistema ferroviário atingia uma forte depreciação (tirar imagem do PDF pordata). A intensidade desta aposta e o esforço aplicado neste desígnio foram de tal ordem que hoje existe, em volta das principais àreas metropolitanas do nosso país periférico, uma densidade de vias da melhor qualidade, as chamadas "autoestradas", que rivaliza com a densidade das mesmas nas áreas metropolitanas mais ricas e populosas do centro da Europa Ocidental, centro económico da União Europeia a que hoje pertencemos.
+Até chegarmos às décadas finais do século XX, o investimento no modo rodoviário foi sendo sucessivamente incrementado, enquanto o sistema ferroviário atingia uma forte depreciação (FALTA: tirar imagem do PDF pordata). A intensidade desta aposta e o esforço aplicado neste desígnio foram de tal ordem que hoje existe, em volta das principais àreas metropolitanas do nosso país periférico, uma densidade de vias da melhor qualidade, as chamadas "autoestradas", que rivaliza com a densidade das mesmas nas áreas metropolitanas mais ricas e populosas do centro da Europa Ocidental, centro económico da União Europeia a que hoje pertencemos [@glease].
 
 
 ## Um esforço intenso
@@ -53,7 +55,7 @@ Na escala maior, a autoestrada enfrenta a concorrência directa das estradas pre
 
 No processo de substituição de vários destes percursos de "estrada nacional" por autoestrada, chegou a vigorar durante alguns anos o regime SCUT, sem portagem. Estas estradas encontravam-se maioritariamente degradadas, pelo que os utentes manifestaram sensível adesão às SCUT. Momentaneamente libertadas de parte do seu intenso tráfego anterior, as estradas nacionais abrangidas por esta transformação foram transferidas para a alçada dos respectivos municípios, repavimentadas, reperfiladas e transformadas em arruamentos com características urbanas. Além do mais foram-lhe aplicadas medidas de acalmia de tráfego como rotundas, passadeiras, semaforização, etc. que reduzem de forma clara a capacidade destas em volume de tráfego e aumentam significativamente os tempos de deslocação ao implicarem que os veículos se movam a menores velocidades.
 
-Com o fim do regime SCUT, em muitos troços, uma parte significativa dos utentes voltou a estas antigas estradas. O novo carácter de via urbana destas faz com que as baixas velocidades que dantes eram forçadas pela congestão rodoviária agora são de novo resultado da congestão à qual se soma o resultado das já referidas medidas de acalmia de tráfego. 
+Com o fim do regime SCUT, em muitos troços, uma parte significativa dos utentes voltou a estas antigas estradas. O novo carácter de via urbana destas faz com que as baixas velocidades que dantes eram forçadas pela congestão rodoviária agora são de novo resultado da congestão à qual se soma o resultado das já referidas medidas de acalmia de tráfego.
 
 Estamos assim perante um dilema.
 
@@ -75,4 +77,4 @@ A presente dissertação visa dar contributos para esta discussão, aplicando me
 
 A análise do cumprimento dos objectivos da colecta de portagem e da rentabilidade efectiva dos empreendimentos rodoviários são deliberadamente​ deixados de fora.
 
-# Bibliografia 
+# Bibliografia
