@@ -4,3 +4,4 @@ as estradas nacionais e as autoestradas são bens públicos concessionáveis a p
 
 a existência de troços de autoestrada e de estrada nacional mutuamente alternativos respresentam a disponibilidade de dois bens públicos mutuamente exclusivos
 
+Novidades?
