@@ -10,6 +10,15 @@
 
 \allsectionsfont{\sffamily}
 
+% --------------------
+\usepackage{framed}
+\usepackage{xcolor}
+\let\oldquote=\quote
+\let\endoldquote=\endquote
+\colorlet{shadecolor}{orange!15}
+\renewenvironment{quote}{\begin{shaded*}\begin{oldquote}}{\end{oldquote}\end{shaded*}}
+% -------------------------
+
 % titlesec permite formatar o heading de 'chapter'
 \usepackage{titlesec}
 

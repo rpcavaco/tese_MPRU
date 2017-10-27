@@ -1,14 +1,14 @@
 
 # Resumo
 
-O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha circa 1994 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. Da aplicação do modelo PPPR destaca-se a implementação, a partir de 1997 das chamadas SCUT, autoestradas sem custos diretos para o utente, cujo acesso livre contribuiria certamente para diminuição das marcantes assimetrias socioeconómicas existentes entre regiões interiores e litorais do nosso país. A perspectiva positiva deste acesso livre foi claramente ensombrecida a partir de 2006 quando entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um grave distanciamento entre custos previstos e custos efectivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos, o acesso livre nos troços SCUT foi eliminado com a introdução de portagens. De imediato, em determinados troços, a procura caiu duma forma expressiva Em alguns troços a procura tem ficado mesmo abaixo dos limites técnicos  historicamente usados para​ justificar a criação de autoestradas, ameaçando quer o objectivo da própria colecta de receitas quer o efeito socioeconómico positivo que se pretendia provocar.
+O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha *circa* 1992 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. Da aplicação do modelo PPPR destaca-se a implementação, a partir de 1997 das chamadas SCUT, autoestradas sem custos diretos para o utente, cujo acesso livre contribuiria certamente para diminuição das marcantes assimetrias socioeconómicas existentes entre regiões interiores e litorais do nosso país. A perspectiva positiva deste acesso livre foi claramente ensombrecida a partir de 2006 quando entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um grave distanciamento entre custos previstos e custos efectivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos, o acesso livre nos troços SCUT foi eliminado com a introdução de portagens. De imediato, em determinados troços, a procura caiu duma forma expressiva Em alguns troços a procura tem ficado mesmo abaixo dos limites técnicos  historicamente usados para​ justificar a criação de autoestradas, ameaçando quer o objectivo da própria colecta de receitas quer o efeito socioeconómico positivo que se pretendia provocar.
 A presente dissertação pretende demonstrar a extensão de alguns dos efeitos nefastos, efectivos e previsíveis, da introdução de portagens nas antigas SCUT entre os quais poderá estar mesmo a ameaça à recuperação ou compensação da derrapagem financeira ocorrida.
 
 **Palavras-chave**: Autoestrada, portagem, preço sombra
 
 ## Abstract
 
-"Design, Build, Finance, Operate" (DBFO) road projects where developed in Great Britain as public-private partnerships for construction and operation of a collection of new roads back in 1994. This served as an inspiration for the portuguese programme of road development based on public-private partnerships. Most relevant of these were the SCUT projects, completely accessible and free of tolls as an influence to diminish socioeconomic disparities between interior and coastal regions of the country. By 2006, multiple ill informed decisions had caused the effective costs of these projects to soar. Then, domestic and international political pressure mounted for the effecive control of such unexpected excessive costs. As a result, tolls were introduced and are effective to this day. Upon toll activation traffic decayed immediately, in some routes beyond technical limits that justify the development of a highway.
+"Design, Build, Finance, Operate" (DBFO) road projects where developed in Great Britain as public-private partnerships for construction and operation of a collection of new roads back in 1992. This served as an inspiration for the portuguese programme of road development based on public-private partnerships. Most relevant of these were the SCUT projects, completely accessible and free of tolls as an influence to diminish socioeconomic disparities between interior and coastal regions of the country. By 2006, multiple ill informed decisions had caused the effective costs of these projects to soar. Then, domestic and international political pressure mounted for the effecive control of such unexpected excessive costs. As a result, tolls were introduced and are effective to this day. Upon toll activation traffic decayed immediately, in some routes beyond technical limits that justify the development of a highway.
 This menaces both the positive regional integration objectives and also the objective of raising enough users money to compensate important and unexpected costs.
 This thesis tries to show the extent of some noxious effects of toll introduction, previsible or already effective.
 
@@ -24,16 +24,61 @@ O incremento do transporte rodoviário, possibilitado pela implementação de um
 
 O investimento na rodovia foi sucessivamente crescendo, sofrendo um fortíssimo incremento já no início do século XXI [@pordata:extaes]. Paralelamente a ferrovia foi deixada para segundo plano, acabando severamente depreciada com ajuda da concorrência directa do modo rodoviário.
 
-Até chegarmos às décadas finais do século XX, o investimento no modo rodoviário foi sendo sucessivamente incrementado, enquanto o sistema ferroviário atingia uma forte depreciação (FALTA: tirar imagem do PDF pordata). A intensidade desta aposta e o esforço aplicado neste desígnio foram de tal ordem que hoje existe, em volta das principais àreas metropolitanas do nosso país periférico, uma densidade de vias da melhor qualidade, as chamadas "autoestradas", que rivaliza com a densidade das mesmas nas áreas metropolitanas mais ricas e populosas do centro da Europa Ocidental, centro económico da União Europeia a que hoje pertencemos [@glease].
+Até chegarmos às décadas finais do século XX, o investimento no modo rodoviário foi sendo sucessivamente incrementado, enquanto o sistema ferroviário atingia uma forte depreciação (FALTA: tirar imagem do PDF pordata).
+
+A intensidade desta aposta e o esforço aplicado neste desígnio foram de tal ordem que hoje existe, em volta das principais àreas metropolitanas do nosso país periférico, uma densidade de vias da melhor qualidade, as chamadas "autoestradas", que rivaliza com a densidade das mesmas nas áreas metropolitanas mais ricas e populosas do centro da Europa Ocidental, centro económico da União Europeia a que hoje pertencemos [@glease].
 
 
-## Um esforço intenso
+## Um esforço demasiadamente intenso
 
-Contudo, o esforço aplicado no crescimento das infraestruturas rodoviárias sujeitou as contas do Estado a um esforço financeiro elevado, baseado em dívida e na preocupação de um suposto "custo zero": entidades privadas assumiram os elevados custos fixos, na expectativa da cobrança ao erário público de variadas rendas e compensações ao longo de décadas. Dessa forma, o impacto desses custos nas contas do Estado vai sendo diferido no tempo e suavizado, mesmo que à custa do pagamento de substanciais juros bancários.
+Contudo, o esforço aplicado no crescimento das infraestruturas rodoviárias sujeitou as contas do Estado a um esforço financeiro elevado, baseado em dívida e na preocupação de um suposto "custo zero": entidades privadas assumiram elevados custos fixos, na expectativa da cobrança ao erário público de variadas rendas e compensações ao longo de décadas. Dessa forma, o impacto desses custos nas contas do Estado vai sendo diferido no tempo e suavizado, mesmo que à custa do pagamento de substanciais juros bancários.
+
+O modelo DBFO (*Design, Build, Finance, Operate*) importado do Reino Unido [@dbfo_uk] serviu de inspiração ao desenvolvimento de parcerias publico-privadas nas quais, sem prescindir da posse dos terrenos e das construções realizadas, o estado entrega a uma entidade privada, sob concessão, as tarefas de projectar e construir, e o direito a explorar, novos empreendimentos rodoviários. Fica também do lado do privado obter o necessário financiamento.
+
+Os princípios e objectivos dos projectos DBFO eram:
+
+- garantir que cada rodovia seja projectada, mantida e gerida de forma satisfatória e segura
+- minimizar os impactos adversos no ambiente e maximizar o benefício aos utentes
+- transferir um nível apropriado de risco para o sector privado da economia
+- promover a inovação, não só em questões técnicas e operacionais mas também em aspectos de financiamento e comerciais
+- promover o desenvolvimento de um sector privado de operação rodoviária no Reino Unido
+- minimizar a contribuição financeira do erário público.
+
+Em 2008, num relatório de auditoria do Tribunal de Contas, [@TC2008] citado por [@hfernando], definia-se que:
+
+> *As parcerias público-privadas constituem um modelo de contratação que permite ao Estado promover a obtenção de serviço público, através de uma estrutura contratual firmada com um parceiro privado, na qual se estabelecem obrigações mútuas que refletem uma alocação, a ambas partes, dos riscos envolvidos*
+
+Na documentação sobre os projectos e contratos DBFO, é indicado, sobre a transferência de riscos, que:
+
+> *A alocação do risco e da recompensa entre as partes contratantes [Estado e privados] deverá ser claramente definida e os proveitos do sector privado deverão ser genuinamente sujeitos a riscos. Espera-se que os parceiros privados __assumam a maioria dos riscos__ associados ao projecto, construção , manutenção, operação e financiamento de cada projecto. Estes riscos incluirão desde riscos associados às obras de construção e de manutenção e respectivo ajuste aos tempos e fundos disponíveis e isto para um horizonte global de 30 anos de contrato.
+(tradução, sublinhado e nota do autor, [@dbfo_uk])*
+
+Esta indicação da **assunção da maioria dos riscos** pelo privado não parece ter sido um pouco suavizada, quer no discurso que encontramos em documentos oficiais sobre as PPP portuguesas que nos factos relatados mais à frente.
+
+Dentro do conjunto das parcerias publico-privadas rodoviárias (PPPR) previstas e realizadas tornaram-se notórios os empreendimentos SCUT, "Sem Custos para o UTente", nos quais a entidade concessionária recebe valores equivalentes a taxas de portagem, correspondentes à passagem de cada veículo, que lhe são entregues pelo Estado e não são cobrados aos utentes.
+
+Num relatório de auditoria à gestão das PPPr SCUT em 2003 é referida uma «*[...] __falta de poder negocial que o Estado tem revelado__ face ao sector privado*» e que «*programa [SCUT] foi lançado sem se avaliar se o mesmo acarretaria value for money para o Estado*» [@TC2003].
+
+Neste relatório são claramente assinalados diversos factores de risco desnecessariamente excessivo para o Estado e diversas situações absurdas, por exemplo, ao nível de atrasos no licenciamento ambiental dos projectos que levaram o Estado a ter de ressarcir os privados de forma totalmente previsível e desnecessária.
+
+Este relatório assinala também que:
+
+> *[...] merece reservas pelos elevados  custos  sociais daí resultantes, o  facto  de  o  Estado  assumir,  nestes  contratos,  durante  30  anos,  na prática, o risco de congelamento do Plano Rodoviário  Nacional  2000. Sucede,  com  efeito, que o Estado fica limitado  no  que  respeita  à melhoria do  nível  de  serviço  das  vias alternativas e impossibilitado  de construir novas vias , já que, para o concretizar, terá de compensar financeiramente as concessionárias.*
+
+Apesar dos defeitos apontados, como refere Paulo Trigo Pereira [@ptpereira] citado em [@mbalseiro], o modelo é intesivamente aplicado:
+
+> *[existe uma] tendência para os governos lançarem PPP em excesso, dado que podem retirar um benefício político no lançamento dos projetos, realizar algum encaixe financeiro imediato e transferir para os governos seguintes o ónus da despesa e dos eventuais impostos acrescidos necessários para os financiar*.
+
+
+
+
+Os contratos de concessão foram desenhados de forma a permitir passar para o Estado alguns elementos de risco financeiro que, assim se pensou na altura, pudessem inibir a maioria das investidores privados, Com o passar do tempo, estes elementos revelaram valores inesperadamente elevados. No ano de 2006 as entidades fiscalizadoras das contas do Estado revelaram valores preocupantes de derrapagem financeira que poderiam tornar a opção SCUT financeiramente insustentável para o Estado (FALTA: refer. Trib Contas ou Dir Tesouro).
+
+Prontamente foi decidido cobrar aos utentes de algumas de ***< ......... Frente de trabalho ........>***
 
 Após o ano de 2009, durante o qual as contas do Estado português ameaçaram falência, o governo que assumiu o resgate dessa situação penosa assumiu como prioridade a redução do impacto de múltiplas rendas e compensações regularmente pagas a entidades privadas que suportaram despesas pesadas de investimento em diversas áreas, incluindo a da infraestruturação rodoviária.
 
-De acordo com este princípio, foi decidida a cobrança de direitos de passagem em múltiplos troços de autoestrada por via da aplicação de portagens aos respectivos utilizadores. Esta medida política foi aplicada em troços para os quais a aplicação de portagens não tinha sido, na sua maioria, prevista, quer em projecto quer em obra. Em muitos destes troços ainda hoje não existem locais previamente configurados para a instalação de praças de portagem com cabinas de cobrança. Essa aparente dificuldade acabou por ser contornada com a implementação de sistemas electrónicos de cobrança recorrendo a dispositivos próprios carregados por cada veículo. Inicialmente, muitos destes troços de autoestrada eram mesmo designados como autoestradas SCUT ("Sem Custos para o UTente") para salientar o facto de não serem portajados.
+De acordo com este princípio, foi decidida a cobrança de direitos de passagem em múltiplos troços de autoestrada por via da aplicação de portagens aos respectivos utilizadores. Esta medida política foi aplicada em troços para os quais a aplicação de portagens não tinha sido, na sua maioria, prevista, quer em projecto quer em obra. Em muitos destes troços ainda hoje não existem locais previamente configurados para a instalação de praças de portagem com cabinas de cobrança. Essa aparente dificuldade acabou por ser contornada com a implementação de sistemas electrónicos de cobrança recorrendo a dispositivos próprios carregados por cada veículo. Inicialmente, muitos destes troços de autoestrada eram mesmo designados como autoestradas SCUT  para salientar o facto de não serem portajados.
 
 A implementação desta medida visou, portanto, conseguir uma contribuição dos utentes das autoestradas para compensar o Estado do enorme esforço de cobertura dos custos fixos destas infraestruturas.
 
