@@ -1,14 +1,22 @@
 
+
 % Passar o título (variável Pandoc 'title') para a var. \THETITLE
 \def\title#1{\gdef\@title{#1}\gdef\THETITLE{#1}}
 
 % suporte a multiplas notas de rodapé
 \usepackage[multiple]{footmisc}
 
+
+
 % sectsty permite alterar os estilos dos section headers
 \usepackage{sectsty}
 
 \allsectionsfont{\sffamily}
+
+
+\usepackage[table]{xcolor}
+
+\usepackage{threeparttable}
 
 % --------------------
 \usepackage{framed}
@@ -66,5 +74,6 @@
 % %$if(title)$
 % %\maketitle
 % %$endif$
+
 
 

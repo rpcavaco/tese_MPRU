@@ -4,6 +4,7 @@ author: Rui Pedro Cavaco Barrosa
 
 # configs gerais
 documentclass: book
+lang: pt-BR
 classoption: twoside
 fontsize: 12pt
 link-citations: true

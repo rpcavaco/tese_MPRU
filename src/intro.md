@@ -53,11 +53,11 @@ Na documentação sobre os projectos e contratos DBFO, é indicado, sobre a tran
 > *A alocação do risco e da recompensa entre as partes contratantes [Estado e privados] deverá ser claramente definida e os proveitos do sector privado deverão ser genuinamente sujeitos a riscos. Espera-se que os parceiros privados __assumam a maioria dos riscos__ associados ao projecto, construção , manutenção, operação e financiamento de cada projecto. Estes riscos incluirão desde riscos associados às obras de construção e de manutenção e respectivo ajuste aos tempos e fundos disponíveis e isto para um horizonte global de 30 anos de contrato.
 (tradução, sublinhado e nota do autor, [@dbfo_uk])*
 
-Esta indicação da **assunção da maioria dos riscos** pelo privado não parece ter sido um pouco suavizada, quer no discurso que encontramos em documentos oficiais sobre as PPP portuguesas que nos factos relatados mais à frente.
+Esta indicação da assunção da maioria dos riscos pelo privado não parece que tenha se verificado na realidade, como à frente o autor tenta demonstrar.
 
 Dentro do conjunto das parcerias publico-privadas rodoviárias (PPPR) previstas e realizadas tornaram-se notórios os empreendimentos SCUT, "Sem Custos para o UTente", nos quais a entidade concessionária recebe valores equivalentes a taxas de portagem, correspondentes à passagem de cada veículo, que lhe são entregues pelo Estado e não são cobrados aos utentes.
 
-Num relatório de auditoria à gestão das PPPr SCUT em 2003 é referida uma «*[...] __falta de poder negocial que o Estado tem revelado__ face ao sector privado*» e que «*programa [SCUT] foi lançado sem se avaliar se o mesmo acarretaria value for money para o Estado*» [@TC2003].
+Num relatório de auditoria à gestão das PPPR SCUT em 2003 é referida uma «*[...] __falta de poder negocial que o Estado tem revelado__ face ao sector privado*» e que «*programa [SCUT] foi lançado sem se avaliar se o mesmo acarretaria value for money para o Estado*» [@TC2003].
 
 Neste relatório são claramente assinalados diversos factores de risco desnecessariamente excessivo para o Estado e diversas situações absurdas, por exemplo, ao nível de atrasos no licenciamento ambiental dos projectos que levaram o Estado a ter de ressarcir os privados de forma totalmente previsível e desnecessária.
 
@@ -67,20 +67,58 @@ Este relatório assinala também que:
 
 Apesar dos defeitos apontados, como refere Paulo Trigo Pereira [@ptpereira] citado em [@mbalseiro], o modelo é intesivamente aplicado:
 
-> *[existe uma] tendência para os governos lançarem PPP em excesso, dado que podem retirar um benefício político no lançamento dos projetos, realizar algum encaixe financeiro imediato e transferir para os governos seguintes o ónus da despesa e dos eventuais impostos acrescidos necessários para os financiar*.
+> *[... existe uma] tendência para os governos lançarem PPP em excesso, dado que podem retirar um benefício político no lançamento dos projetos, realizar algum encaixe financeiro imediato e transferir para os governos seguintes o ónus da despesa e dos eventuais impostos acrescidos necessários para os financiar*.
+
+Estavam assim criadas condições para que as PPPR e os projectos SCUT em particular viessem a colocar problemas inesperados e a fomentar derrapagens nas contas do Estado. Em 2010, Carlos Moreno salienta a existência de derrapagens finaceiras nas SCUT que se trão ficado a dever a:
+
+> *[...] atrasos nos processos de expropriação, à ausência de corredores ambientais previamente aprovados, a decisões unilaterais dos estado concedente, no sentido de alterar projectos já aprovados -- sem prévia quantificação nem análise da racionalidade dos custos adicionais daí derivados, bem como a pedidos sucessivos de obras adicionais, por parte de autarquias locais interessadas nos projectos.* [@cmoreno].
+
+Muitas destas despesas não-previstas passariam, a dada altura, a ser enquadradas em contratos chamados de "reequilíbrio financeiro" (REF) nos quais o Estado compensava o custos adicionais do concessionário correspondentes às situações atrás citadas.
+
+No relatório anual da Direcção Geral do Tesouro e Finanças de de 2009 de acompanhamento e de reporte dos contratos de PPP em curso [@dgtf2009] é apresentado o seguinte quadro acerca da situação dos PPPR inicialmente definidos como SCUT.
+
+\begin{center}
+\begin{threeparttable}[h]
+\centering
+\caption{Pagamentos líquidos do Estado no exercício de 2008}
+\begin{tabular}{|lllllr|}
+\hline
+Concessões SCUT             & OE 2008 (A) & Executado & REF  & Total (B) & \% B/A \\ \hline
+Algarve (IC4/IP1)           & 45,4        & 43,3      &      & 43,3      & 95,4   \\
+Beira Interior (IP2/IP6)    & 138,8       & 136,4     & 1,5  & 137,9     & 99,4   \\
+Interior Norte (IP3)        & 107,5       & 92,4      &      & 92,4      & 86,0   \\
+Costa de Prata (IC1/IP5)    & 71,8        & 71,6      &      & 71,6      & 99,7   \\
+Grande Porto (IP4/IC24)     & 101,7       & 78,2      &      & 78,2      & 76,9   \\
+Norte Litoral (IP9/IC1)     & 44,2        & 42,4      & 21,8 & 64,2      & \cellcolor{orange} 145,2  \\
+Beiras Litoral e Alta (IP5) & 195,1       & 179,8     &      & 179,8     & 92,2   \\
+Total                       & 704,5       & 644,1     & 23,3 & 667,4     & 94,7   \\ \hline
+\end{tabular}
+
+\begin{tablenotes}\footnotesize
+    \item OE 2008 - Despesa prevista no Orçamento do Estado do ano de 2008
+    \item REF - Contratos de reequilíbrio financeiro
+    \item % B/A - Percentagem de execução real dos contratos
+ \end{tablenotes}
+
+\end{threeparttable}
+
+\end{center}
+
+Apesar da execução orçamental, de quase todos os empreendimentos, estar em linha com as previsões, vemos, no entanto, acerca da concessão Norte Litoral (IP9/IC1) (actual A29, célula assinalada a cor \colorbox{orange}{laranja} na tabela acima) temos, apenas neste ano de 2008, uma derrapagem de 45% devida aos atrás referidos problemas de licenciamento ambiental.
+
+## Perspectivas de alívio
+
+Perante este cenário de fragilidade e perante uma degradação geral das contas do Estado, que haveria de terminar no ano de 2010 com uma crise financeira grave, o governo português começou em 2009 a preparar a introdução de portagem em alguns dos troços de autostrada sujeitos ao regime SCUT.
+
+De acordo com este princípio, foi prevista a cobrança de direitos de passagem em múltiplos troços de autoestrada por via da aplicação de portagens aos respectivos utilizadores. Esta medida política foi aplicada em troços para os quais a aplicação de portagens não tinha sido, na sua maioria, prevista, quer em projecto quer em obra. Em muitos destes troços ainda hoje não existem locais previamente configurados para a instalação de praças de portagem com cabinas de cobrança. Essa aparente dificuldade acabou por ser contornada com a implementação de sistemas electrónicos de cobrança recorrendo a dispositivos próprios carregados por cada veículo.
+
+A implementação desta medida visou, portanto, conseguir uma contribuição dos utentes das autoestradas para compensar o Estado do enorme esforço de cobertura dos custos fixos destas infraestruturas e dos elevados riscos financeiros associados a estes projectos.
+
+Já em 2006 a empresa de capitais públicos Estradas de Portugal havia encomendado um estudo com o objectivo de preparar a introdução de portagens faseada nas SCUT. Este estudo preparado pela empresa F9 Consulting. Este estudo propunha-se fazer ...
+
+> *[...] o cômputo dos cálculos necessários para aplicação de um conjunto de critérios para determinação das concessões rodoviárias em regime SCUT em condições de passar a ser regidas pelo princípio do utilizador-pagador.* [@F9Consulting_2006]
 
 
-
-
-Os contratos de concessão foram desenhados de forma a permitir passar para o Estado alguns elementos de risco financeiro que, assim se pensou na altura, pudessem inibir a maioria das investidores privados, Com o passar do tempo, estes elementos revelaram valores inesperadamente elevados. No ano de 2006 as entidades fiscalizadoras das contas do Estado revelaram valores preocupantes de derrapagem financeira que poderiam tornar a opção SCUT financeiramente insustentável para o Estado (FALTA: refer. Trib Contas ou Dir Tesouro).
-
-Prontamente foi decidido cobrar aos utentes de algumas de ***< ......... Frente de trabalho ........>***
-
-Após o ano de 2009, durante o qual as contas do Estado português ameaçaram falência, o governo que assumiu o resgate dessa situação penosa assumiu como prioridade a redução do impacto de múltiplas rendas e compensações regularmente pagas a entidades privadas que suportaram despesas pesadas de investimento em diversas áreas, incluindo a da infraestruturação rodoviária.
-
-De acordo com este princípio, foi decidida a cobrança de direitos de passagem em múltiplos troços de autoestrada por via da aplicação de portagens aos respectivos utilizadores. Esta medida política foi aplicada em troços para os quais a aplicação de portagens não tinha sido, na sua maioria, prevista, quer em projecto quer em obra. Em muitos destes troços ainda hoje não existem locais previamente configurados para a instalação de praças de portagem com cabinas de cobrança. Essa aparente dificuldade acabou por ser contornada com a implementação de sistemas electrónicos de cobrança recorrendo a dispositivos próprios carregados por cada veículo. Inicialmente, muitos destes troços de autoestrada eram mesmo designados como autoestradas SCUT  para salientar o facto de não serem portajados.
-
-A implementação desta medida visou, portanto, conseguir uma contribuição dos utentes das autoestradas para compensar o Estado do enorme esforço de cobertura dos custos fixos destas infraestruturas.
 
 Contudo, tal medida não pode deixar de suscitar múltiplas e fundadas dúvidas no seu interesse e na sua capacidade para de facto alcançar os seus objectivos.
 
