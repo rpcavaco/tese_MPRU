@@ -14,6 +14,8 @@ This thesis tries to show the extent of some noxious effects of toll introductio
 
 **Keywords** Highway, toll, shadow pricing
 
+\onehalfspacing
+
 # Introdução
 
 Portugal era até ao início do século XXI um país com um défice crónico em infraestruturas de transporte. Esta deficiência atingia de igual forma os modos de transporte rodoviário e ferroviário, o transporte individual e coletivo.
@@ -104,7 +106,14 @@ Total                       & 704,5       & 644,1     & 23,3 & 667,4     & 94,7 
 
 \end{center}
 
-Apesar da execução orçamental, de quase todos os empreendimentos, estar em linha com as previsões, vemos, no entanto, acerca da concessão Norte Litoral (IP9/IC1) (actual A29, célula assinalada a cor \colorbox{orange}{laranja} na tabela acima) temos, apenas neste ano de 2008, uma derrapagem de 45% devida aos atrás referidos problemas de licenciamento ambiental.
+Apesar da execução orçamental, de quase todos os empreendimentos, estar em linha com as previsões, vemos, no entanto, acerca da concessão Norte Litoral (IP9/IC1) (actuais A27 e A28, célula assinalada a cor \colorbox{orange}{laranja} na tabela acima) temos, apenas neste ano de 2008, uma derrapagem de 45% devida aos atrás referidos problemas de licenciamento ambiental.
+
+Outros exemplos poderiam ser dados destas derrapagens e problemas financeiros destes empreendimentos. Contudo esta tarefa é dificuldade pela complexidade técnica dos respectivos contratos e da engenharia financeira associada. Além disso, como refere Moreno, a entrega à empresa Estradas de Portugal contribuiu para uma menor transparência das contas destes projectos.
+
+Basicamente Morento define como en encargos gerais
+
+(distribuição ao longo do tempo)
+
 
 ## Perspectivas de alívio
 
