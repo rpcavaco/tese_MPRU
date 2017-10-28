@@ -31,7 +31,7 @@ Até chegarmos às décadas finais do século XX, o investimento no modo rodovi�
 A intensidade desta aposta e o esforço aplicado neste desígnio foram de tal ordem que hoje existe, em volta das principais àreas metropolitanas do nosso país periférico, uma densidade de vias da melhor qualidade, as chamadas "autoestradas", que rivaliza com a densidade das mesmas nas áreas metropolitanas mais ricas e populosas do centro da Europa Ocidental, centro económico da União Europeia a que hoje pertencemos [@glease].
 
 
-## Um esforço demasiadamente intenso
+## Um esforço intenso
 
 Contudo, o esforço aplicado no crescimento das infraestruturas rodoviárias sujeitou as contas do Estado a um esforço financeiro elevado, baseado em dívida e na preocupação de um suposto "custo zero": entidades privadas assumiram elevados custos fixos, na expectativa da cobrança ao erário público de variadas rendas e compensações ao longo de décadas. Dessa forma, o impacto desses custos nas contas do Estado vai sendo diferido no tempo e suavizado, mesmo que à custa do pagamento de substanciais juros bancários.
 
@@ -108,14 +108,24 @@ Total                       & 704,5       & 644,1     & 23,3 & 667,4     & 94,7 
 
 Apesar da execução orçamental, de quase todos os empreendimentos, estar em linha com as previsões, vemos, no entanto, acerca da concessão Norte Litoral (IP9/IC1) (actuais A27 e A28, célula assinalada a cor \colorbox{orange}{laranja} na tabela acima) temos, apenas neste ano de 2008, uma derrapagem de 45% devida aos atrás referidos problemas de licenciamento ambiental.
 
-Outros exemplos poderiam ser dados destas derrapagens e problemas financeiros destes empreendimentos. Contudo esta tarefa é dificuldade pela complexidade técnica dos respectivos contratos e da engenharia financeira associada. Além disso, como refere Moreno, a adopção, a partir de 2007, de um novo modelo de financiamento do Estado às PPPR através da empresa Estradas de Portugal contribuiu para uma menor transparência orçamental destes projectos.
+Mais tarde, no relatório anual de 2012 *Parcerias Público-Privadas e Concessões* da Direcção Geral do Tesouro, [@dgtf2012] podemos ver que o conjunto das PPPR apresenta, nesse ano, uma derrapagem global de 30%.
 
-Contudo, Moreno calculava para a globalidade das PPPR um valor de encargos plurianuais de 25 mil milhões de euros ao longo de um prazo de 30 anos, uma média de cerca de 830 milhões de encargo anual. Sobre este valor existiria em 2010 uma derrapagem de 6%. [@cmoreno]
+Na figura \ref{fluxos2012} vemos os encargos líquidos das PPPR para o Estado desde 2012 até ao ano de 2040, valores do referido relatório de 2012. Este foi o primeiro documento deste género produzido seguindo indicações do *Memorando de Entendimento sobre as Condicionalidades da Política Económica* acordado com a Comissão Europeia, o Fundo Monetário Internacional e o Banco Central Europeu, em consequência duma grave crise financeira do Estado e perante um pedido de auxílio financeiro as ditas entidades. Supostamente este documento terá tido um grau de rigor superior aos anteriores e terá enovlvido uma equipa mais alargada que incluía, por exemplo, elementos do Banco de Portugal.
 
-(Pie das Ppp enc plurianuais)
+Não esquecendo que, desde 2012 ocorreram um conjunto de renegociações de contratos, podemos ver que nessa ocasião o Estado esperava ter um encargo líquido plurianual de mais de 13300 milhões de euros, correspondente a cerca de 16% da despesa do Estado em 2012 [^fn_desp].
+
+O ano de maior esforço terá já ocorrido em 2015 com 1076 milhões de euros de encargo líquido, cerca de 1,2% da despesa do Estado desse ano (base 2011, fonte Pordata).
+
+[^fn_desp]: A despesa do Estado em 2012 terá sido cerca de 83370 milhões de euros (base 2011, fonte Pordata)
+
+![Fluxos financeiros PPPR 2012 a 2040 (preços constantes 2012)\label{fluxos2012}](../src/images/fluxosPPPR_2012_2040.png)
+
+Outros exemplos poderiam ser dados destas derrapagens e dos problemas financeiros destes empreendimentos. Contudo esta tarefa é dificultada pela complexidade técnica dos respectivos contratos e da *engenharia financeira* associada. Além disso, como refere Moreno, a adopção, a partir de 2007, de um novo modelo de financiamento do Estado às PPPR através da criação da empresa Estradas de Portugal E.P. contribuiu para uma menor transparência orçamental destes projectos.
+
+Contudo, Moreno calculava para a globalidade das PPPR um valor de encargos plurianuais de 25 mil milhões de euros (valor nominal, preços correntes) ao longo de um prazo de 30 anos. Sobre este valor o mesmo autor estimava existir em 2010 uma derrapagem de cerca de 6%. [@cmoreno]
 
 
-## Perspectivas de alívio
+## Súbita mudança de orientação
 
 Perante este cenário de fragilidade e perante uma degradação geral das contas do Estado, que haveria de terminar no ano de 2010 com uma crise financeira grave, o governo português começou em 2009 a preparar a introdução de portagem em alguns dos troços de autostrada sujeitos ao regime SCUT.
 
