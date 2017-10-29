@@ -16,7 +16,7 @@ This thesis tries to show the extent of some noxious effects of toll introductio
 
 \onehalfspacing
 
-# Introdução
+# Enquadramento do tema
 
 Portugal era até ao início do século XXI um país com um défice crónico em infraestruturas de transporte. Esta deficiência atingia de igual forma os modos de transporte rodoviário e ferroviário, o transporte individual e colectivo.
 
@@ -69,7 +69,7 @@ Este relatório assinala também que:
 
 Apesar dos defeitos apontados, como refere Paulo Trigo Pereira [@ptpereira] citado em [@mbalseiro], o modelo é intensivamente aplicado:
 
-> *[... existe uma] tendência para os governos lançarem PPP em excesso, dado que podem retirar um benefício político no lançamento dos projetos, realizar algum encaixe financeiro imediato e transferir para os governos seguintes o ónus da despesa e dos eventuais impostos acrescidos necessários para os financiar*.
+> *[... existe uma] tendência para os governos lançarem PPP em excesso, dado que podem retirar um benefício político no lançamento dos projectos, realizar algum encaixe financeiro imediato e transferir para os governos seguintes o ónus da despesa e dos eventuais impostos acrescidos necessários para os financiar*.
 
 Estavam assim criadas condições para que as PPPR e os projectos SCUT em particular viessem a colocar problemas inesperados e a fomentar derrapagens nas contas do Estado. Em 2010, Carlos Moreno salienta a existência de derrapagens financeiras nas SCUT que se terão ficado a dever a:
 
@@ -113,9 +113,9 @@ Mais tarde, no relatório anual de 2012 *Parcerias Público-Privadas e Concessõ
 
 Na figura \ref{fluxos2012} vemos os encargos líquidos das PPPR para o Estado desde 2012 até ao ano de 2040, valores do referido relatório de 2012. Este foi o primeiro documento deste género produzido seguindo indicações do *Memorando de Entendimento sobre as Condicionalidades da Política Económica* acordado com a Comissão Europeia, o Fundo Monetário Internacional e o Banco Central Europeu, em consequência duma grave crise financeira do Estado e perante um pedido de auxílio financeiro as ditas entidades. Supostamente este documento terá tido um grau de rigor superior aos anteriores e terá envolvido uma equipa mais alargada que incluía, por exemplo, elementos do Banco de Portugal.
 
-Não esquecendo que, desde 2012 ocorreram um conjunto de renegociações de contratos, podemos ver que nessa ocasião o Estado esperava ter um encargo líquido plurianual de mais de 13300 milhões de euros, correspondente a cerca de 16% da despesa do Estado em 2012 [^fn_desp].
+Não esquecendo que, desde 2012 ocorreram um conjunto de renegociações de contratos, podemos ver que nessa ocasião o Estado esperava ter um encargo líquido plurianual de mais de 13300 milhões de euros, correspondente a cerca de 16% do total da despesa do Estado em 2012 [^fn_desp].
 
-O ano de maior esforço terá já ocorrido em 2015 com 1076 milhões de euros de encargo líquido, cerca de 1,2% da despesa do Estado desse ano (base 2011, fonte [Pordata](https://www.pordata.pt) ).
+Dividindo esse esforço em encargos anual líquidos, podemos ver que o ano de maior esforço terá já ocorrido em 2015 com 1076 milhões de euros de encargo líquido, cerca de **1,2% da despesa do Estado desse ano** (base 2011, fonte [Pordata](https://www.pordata.pt) ).
 
 [^fn_desp]: A despesa do Estado em 2012 terá sido cerca de 83370 milhões de euros (base 2011, fonte [Pordata](https://www.pordata.pt) )
 
@@ -152,7 +152,7 @@ Daí decorreria a necessidade clara de diminuir a despesa pública e o endividam
 
 \vspace*{1\baselineskip}
 
-Para além do proveito da cobrança de portagem permitir equilibrar os elevados encargos das ex-SCUT, esta medida de introdução de portagens tinha também argumentos políticos: com esta medida o governo em funções pretendia também responder às pressões da oposição no sentido de reduzir despesa pública e contrariar a ideia de desepesismo que publicamente vinha sendo associada às SCUT [@cmjornalScut]. A forças da oposição situadas mais à direita no espectro político faziam inclusivamente a defesa e promoção do chamado princípio do *utilizador-pagador*, perante o qual a situação ideal para controlar a despesa do Estado é garantir que os beneficiários de cada serviço público cubram os custos do mesmo, em oposição à ideia de que, essencialmente, os serviços públicos deverão ser pagos pelos impostos cobrados à generalidade dos cidadãos.
+Para além do proveito da cobrança de portagem permitir equilibrar os elevados encargos das ex-SCUT, esta medida de introdução de portagens tinha também argumentos políticos: com esta medida o governo em funções pretendia também responder às pressões da oposição no sentido de reduzir despesa pública e contrariar a ideia de despesismo que publicamente vinha sendo associada às SCUT [@cmjornalScut]. A forças da oposição situadas mais à direita no espectro político faziam inclusivamente a defesa e promoção do chamado princípio do *utilizador-pagador*, perante o qual a situação ideal para controlar a despesa do Estado é garantir que os beneficiários de cada serviço público cubram os custos do mesmo, em oposição à ideia de que, essencialmente, os serviços públicos deverão ser pagos pelos impostos cobrados à generalidade dos cidadãos.
 
 Assim, foi prevista a cobrança de direitos de passagem em múltiplos troços de autoestrada por via da aplicação de portagens aos respectivos utilizadores. Esta medida política foi aplicada em troços para os quais a aplicação de portagens não tinha sido, na sua maioria, prevista, quer em projecto quer em obra. Em muitos destes troços ainda hoje não existem locais previamente configurados para a instalação de praças de portagem com cabinas de cobrança. Essa aparente dificuldade acabou por ser contornada com a implementação de sistemas electrónicos de cobrança recorrendo a dispositivos próprios carregados por cada veículo.
 
@@ -162,7 +162,7 @@ Já em 2006 a empresa Estradas de Portugal havia encomendado um estudo com o obj
 
 > *[...] o cômputo dos cálculos necessários para aplicação de um conjunto de critérios para determinação das concessões rodoviárias em regime SCUT em condições de passar a ser regidas pelo princípio do utilizador-pagador.* [@F9Consulting_2006]
 
-Este estudo pretende sugerir que existe possibilidade de compatibilizar o objectivo de aumento de proveitos, com a cobrança de portagens, com os objectivos de discriminação positiva regional que nortearam a introdução das SCUT. A justificação da introdução de portagens não é minimamente descrita nem enquadrada neste trabalho, é apenas um dado adquirido. O estudo resume-se na sua essência à aplicação um método quantitativo aribtrário a um conjunto de indicadores regionais como:
+Este estudo pretende sugerir que existe possibilidade de compatibilizar o objectivo de aumento de proveitos, com a cobrança de portagens, com os objectivos de discriminação positiva regional que nortearam a introdução das SCUT. A justificação da introdução de portagens não é minimamente descrita nem enquadrada neste trabalho, é apenas um dado adquirido. O estudo resume-se na sua essência à aplicação um método quantitativo arbitrário a um conjunto de indicadores regionais como:
 
 - índices de disparidade do PIB per capita regional
 - índice do Poder de Compra Concelhio (IPCC)
@@ -172,29 +172,29 @@ Este estudo pretende sugerir que existe possibilidade de compatibilizar o object
 
 Das seis concessões/troços analisadas o estudo concluí pela introdução de portagem em três. Esta divisão acabou por ser, em grande parte, inútil uma vez que, em Outubro de 2010, estes troços passaram a ser portajados e, passado pouco mais de um ano, em Dezembro do ano seguinte, a cobrança de portagem foi alargada a todas as restantes ex-SCUT.
 
-Apesar da premente necessidade de obter proveitos que equlibrem os elevados encargos destes empreendimentos, tal medida não pode deixar de suscitar múltiplas e fundadas dúvidas quer no seu efeito sócioeconómico quer na sua capacidade para de facto alcançar os seus objectivos.
+Apesar da premente necessidade de obter proveitos que equilibrem os elevados encargos destes empreendimentos, tal medida não pode deixar de suscitar múltiplas e fundadas dúvidas quer no seu efeito socioeconómico quer na sua capacidade para de facto alcançar os seus objectivos.
 
 A implementação de tal medida, para que surta o desejado efeito de geração de proveitos, deve corresponder a definição de um preço de portagem que maximize esse proveito.
 
-Na figura \ref{maxportg} aplicamos ao bem "autoestrada" o que a teoria microeconómica apelida de curva de procura, de inclinação negativa. No eixo das abcissas temos quantidades de procura **Y**, correspondentes a número de veículos (volume de tráfego) que atravessam uma qualquer autoestrada enqupanto nas ordenadas valores de taxa de portagem **P~y~**. A curva tem inclinação negativa porque, com taxa zero (P~0~) temos um máximo de volume de tráfego Y~0~ enquanto que, a partir de uma determinada taxa máxima P~Max~, a autoestrada, espera-se, ficará vazia.
+Na figura \ref{maxportg} aplicamos ao bem "autoestrada" o que a teoria microeconómica apelida de curva de procura, de inclinação negativa. No eixo das abcissas temos quantidades de procura **Y**, correspondentes a número de veículos (volume de tráfego) que atravessam uma qualquer autoestrada enquanto nas ordenadas valores de taxa de portagem **P~y~**. A curva tem inclinação negativa porque, com taxa zero (P~0~) temos um máximo de volume de tráfego Y~0~ enquanto que, a partir de uma determinada taxa máxima P~Max~, a autoestrada, espera-se, ficará vazia.
 
-Com um valor de taxa P~3~ baixo a via em causa terá grande procura mas o rendimento de portagem, correspondente à àrea R~3~, será baixo. Com uma taxa de valor P~1~, teremos uma procura e um rendimento R~1~ ambos baixos. Com uma taxa P~2~, temos um rendimento máximo correspondente à maior das três áreas, R~2~. Há aqui que ter algum bom senso entre a maximização do rendimento e a evidência que, ao subir a taxa, estamos efectivamente a limitar o acesso a um bem que se supõe público (mais à frente isto será mais discutido).
+Com um valor de taxa P~3~ baixo a via em causa terá grande procura mas o rendimento de portagem, correspondente à área R~3~, será baixo. Com uma taxa de valor P~1~, teremos uma procura e um rendimento R~1~ ambos baixos. Com uma taxa P~2~, temos um rendimento máximo correspondente à maior das três áreas, R~2~. Há aqui que ter algum bom senso entre a maximização do rendimento e a evidência que, ao subir a taxa, estamos efectivamente a limitar o acesso a um bem que se supõe público (mais à frente isto será mais discutido).
 
 ![Maximização dos proveitos de portagem\label{maxportg}](../src/images/curva_procura_portagem_equilibrada.png){ width=300px height=300px }
 
 Contudo, para que os valores destes rendimentos R possam ser expressivos, necessitam-se de volumes de tráfego Y igualmente expressivos. Todavia algumas destas vias atravessam regiões que geram volumes de tráfego modestos. Além disso, existindo vias alternativas, estaremos aqui numa lógica de concorrência e de substituição entre "produtos" cujo resultado previsível, e verificado, é que a imposição ou o aumento de taxas de portagem tem um efeito de quebra no volume tráfego, correspondente a viagens que passam a fazer-se pelo trajecto alternativo.  
 
-A melhor efectivade da aplicação de taxas de portagem corresponde à situação em que a via portajada não tem alternativas e representa um acesso crucial a uma determinada região.
+A melhor efectividade da aplicação de taxas de portagem corresponde à situação em que a via portajada não tem alternativas e representa um acesso crucial a uma determinada região.
 
-Um exemplo disto pode ser dado pela Ponte 25 de Abril sobre o Tejo, cujo financiamento foi também suportado em dívida como as actuais PPPR, de forma a diferir os encargos financeiros por um período de tempo alargado. O Estado considerou esse investimento pago ao final de cerca de apenas **17 anos** [@rodriges_ponte25a], à custa da cobrança de taxas de portagem. Durante anos esta foi a solução exclusiva para o acesso rodoviário entre a cidade de Lisboa e a margem sul do Tejo, com uma muito tímida concorrência exercida pelo o atravessamento fluvial via *ferry-boats*. Com a construção da ponte, iniciou-se uma ocupação de zonas residenciais da margem sul do Tejo das quais muitos moradores trabalham em Lisboa e nos concelhos limítrofes da margem norte do rio. Em resultado deste fenóomeno, esta via está  sujeita a um astronómico volume de tráfego médio diário anual (TMDA) que, por exemplo, em 2015 atingia **135000 veículos** [@imt20153T]. A elevada procura potencial e a inexistência de alternativas permitiu colectar a totalidade dos proveitos necessários num prazo inferior em 13 anos ao prazo dos PPPR actuais.
+Um exemplo disto pode ser dado pela Ponte 25 de Abril sobre o Tejo, cujo financiamento foi também suportado em dívida como as actuais PPPR, de forma a diferir os encargos financeiros por um período de tempo alargado. O Estado considerou esse investimento pago ao final de cerca de apenas **17 anos** [@rodriges_ponte25a], à custa da cobrança de taxas de portagem. Durante anos esta foi a solução exclusiva para o acesso rodoviário entre a cidade de Lisboa e a margem sul do Tejo, com uma muito tímida concorrência exercida pelo o atravessamento fluvial via *ferry-boats*. Com a construção da ponte, iniciou-se uma ocupação de zonas residenciais da margem sul do Tejo das quais muitos moradores trabalham em Lisboa e nos concelhos limítrofes da margem norte do rio. Em resultado deste fenómeno, esta via está  sujeita a um astronómico volume de tráfego médio diário anual (TMDA) que, por exemplo, em 2015 atingia **135000 veículos** [@imt20153T]. A elevada procura potencial e a inexistência de alternativas permitiu colectar a totalidade dos proveitos necessários num prazo inferior em 13 anos ao prazo dos PPPR actuais.
 
 A maioria dos troços de ex-SCUT, apesar de terem custos de construção por unidade de comprimento substancialmente inferiores aos duma travessia do estuário do Tejo, estão todavia sujeitas a um volume de tráfego comparativamente muito reduzido. Eis alguns exemplos, dados de 2015  [@imt20153T]:
 
-- autoestrada A23 (antida SCUT Beira Interior) - valores de TMD mensal inferiores a 10000 numa grande parte dos troços, no inverno alguns destes troços apresentam valores próximos de 4000;
-- autoestrada A24 (antida SCUT Interior) - valores de TMD mensal globalmente inferiores a 10000 , no inverno alguns destes troços apresentam valores próximos de 2000;
+- autoestrada A23 (antiga SCUT Beira Interior) - valores de TMD mensal inferiores a 10000 numa grande parte dos troços, no inverno alguns destes troços apresentam valores próximos de 4000;
+- autoestrada A24 (antiga SCUT Interior) - valores de TMD mensal globalmente inferiores a 10000 , no inverno alguns destes troços apresentam valores próximos de 2000;
 - autoestrada A17 (parte da antiga SCUT Costa de Prata) - valores de TMD mensal globalmente inferiores a 10000 excepto em troços em volta da cidade de Aveio, no inverno alguns destes troços apresentam valores próximos de 2000.
 
- Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas faixas de circulação por uma via de 2 ou mais faixas [@romana_hernando] [@visao_atdesertas] [^fn_critSinistralidade]. Muitos troços de autoestrada existentes não chegam a cumprir minimamente este critério.
+ Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas faixas de circulação por uma via de 2 ou mais faixas (@romana_hernando, @visao_atdesertas e [*Numbers every traffic engineer should know*](http://www.mikeontraffic.com/numbers-every-traffic-engineer-should-know/) ) [^fn_critSinistralidade]. Muitos troços de autoestrada existentes não chegam a cumprir minimamente este critério.
 
 [^fn_critSinistralidade]: Este não será o único critério, esta decisão poderá ser tomada por outros factores como questões peculiares de sinistralidade ou outras
 
@@ -204,7 +204,7 @@ Assim, várias dúvidas podem imediatamente surgir relativamente quer à introdu
 - quais serão os limites razoáveis para o valor da taxa, como a calcular?
 - definido um valor de taxa qual seria o limite máximo viável para o período de aplicação da mesma?
 
-Como vimos na figura \label{maxportg} as taxas de portagem de valores P~1~ e P~3~ produziriam os mesmos proveitos, é indiferente aplicar uma ou outra do ponto de vista do financiamento do empreendimento. Apesar disso, a utilizade social da autoestrada fica largamente reduzida se a taxa aplicada for P~3~ e não P~1~, uma vez que apenas nela circula um número muito reduzido de veículos. Assim, mais importante do que a decisão de portajar um troço de autoestrada é a decisão do valor efectivo a aplicar, de forma a reduzir a utilidade da infraestrutura o mínimo possível.
+Como vimos na figura \label{maxportg} as taxas de portagem de valores P~1~ e P~3~ produziriam os mesmos proveitos, é indiferente aplicar uma ou outra do ponto de vista do financiamento do empreendimento. Apesar disso, a utilidade social da autoestrada fica largamente reduzida se a taxa aplicada for P~3~ e não P~1~, uma vez que apenas nela circula um número muito reduzido de veículos. Assim, mais importante do que a decisão de portajar um troço de autoestrada é a decisão do valor efectivo a aplicar, de forma a reduzir a utilidade da infraestrutura o mínimo possível.
 
 ## Utilidade social em causa
 
@@ -218,26 +218,42 @@ No processo de substituição de vários destes percursos de "estrada nacional" 
 
 Libertadas de parte do seu intenso tráfego anterior e em linha com o disposto no Plano Rodoviário Nacional ([PRN2000, Dec.Lei 222/98](http://www.imt-ip.pt/sites/IMTT/Portugues/InfraestruturasRodoviarias/RedeRodoviaria/Documents/Plano_Rodoviario_Nacional.pdf)), as estradas nacionais abrangidas por esta transformação foram transferidas para a alçada dos respectivos municípios. Neste processo, muitas delas, repavimentadas, reperfiladas e, em parte, transformadas em arruamentos com características urbanas. Além do mais foram-lhe aplicadas medidas de acalmia de tráfego como rotundas, passadeiras, semaforização, etc. que reduzem de forma clara a capacidade destas em volume de tráfego e aumentam significativamente os tempos de deslocação ao forçarem uma circulação mais segura, a menores velocidades.
 
-Com o fim do regime SCUT e a imposição de autoestradas, em muitos troços, uma parte significativa dos utentes voltou a estas antigas estradas. O mesmo aconteceu em novos troços de autoestrada (exemplos: A17 Mira - Leiria Norte e A41 Alfena - Nogueira) que cobrem zonas de procura reduzida e foram abertos já em regime de cobrança de portagem: o efeito de substituição das estradas pre-existentes não chegou a ser significativo.
+Com o fim do regime SCUT e a imposição de autoestradas, em muitos troços, uma parte significativa dos utentes voltou a estas antigas estradas. O mesmo aconteceu em novos troços de autoestrada (exemplos: A17 Mira - Leiria Norte e A41 Alfena - Nogueira) que cobrem zonas de procura reduzida e foram abertos já em regime de cobrança de portagem: o efeito de substituição das estradas pré-existentes não chegou a ser significativo.
 
-O novo carácter de via urbana de algumas das vias pre-existentes faz com que as baixas velocidades, demasiadamente baixas para quem está numa viagem de médio ou longo curso, que dantes eram forçadas pela congestão rodoviária, são agora resultado das já referidas medidas de acalmia de tráfego a que se junta o tráfego.
+O novo carácter de via urbana de algumas das vias pré-existentes faz com que as baixas velocidades, demasiadamente baixas para quem está numa viagem de médio ou longo curso, que dantes eram forçadas pela congestão rodoviária são agora resultado das já referidas medidas de acalmia de tráfego a que se junta o tráfego que não segue pelas autoestradas, devido à aplicação de portagem.
+
+## O dilema da aplicação de portagens
 
 Estamos assim perante um dilema.
 
 O país empenhou-se fortemente, endividando-se, na construção de uma rede de autoestradas que nos aproximasse dos níveis de serviço rodoviário existentes em muitos dos países nossos parceiros europeus. O crescimento desta parte da rede rodoviária visava proporcionar uma oferta de ligações de carácter regional, nacional e internacional com uma qualidade de serviço impossível na rede de estradas preexistente. Libertadas de parte substancial do antigo tráfego intenso, as antigas estradas ficariam disponíveis para ligações de carácter urbano e periurbano.
 
+O objectivo de nível de serviço foi conseguido e até ultrapassado, com a contrapartida de um importante esforço financeiro que impactou nas contas públicas portuguesas, na pior das alturas, em pleno caminho para uma grave crise financeira.
+
 Perante a necessidade urgente de reduzir custos de endividamento, o poder executivo decidiu promover a cobrança de portagens em troços inicialmente não abrangidos por tal exigência, cuja receita permitiria contribuir para amortizar esses custos.
 
-Contudo, a imposição deste custo diminui drasticamente a utilidade destes troços de estrada melhorada. À vantagem de uma deslocação mais rápida e em melhores condições de segurança opõe-se a desvantagem do custo da portagem.	Nos casos em que troços de autoestrada competem directamente com troços de estrada nacional alternativos, se os utentes considerarem que o valor da portagem paga não corresponde ao real benefício obtido em melhoria de tempo de deslocação e de condições de segurança, irão querer voltar aos antigos trajectos de estrada na nacional. Tendo em conta que estes sofreram um conjunto de alterações que diminuíram as velocidades praticáveis e a sua capacidade efectiva, neste caso, estes troços ficam de novo sujeitos a uma saturação que degrada o nível de serviço oferecido e que tem profundo impacto na qualidade de vida das populações residentes nas imediações.
+Contudo, a imposição deste custo diminui drasticamente a utilidade destes troços de estrada melhorada. À vantagem de uma deslocação mais rápida e em melhores condições de segurança opõe-se a desvantagem do custo da portagem.	Nos casos em que troços de autoestrada competem directamente com troços de estrada nacional alternativos, se os utentes considerarem que o valor da portagem paga não corresponde ao real benefício obtido em melhoria de tempo de deslocação e de condições de segurança, irão querer voltar aos antigos trajectos de estrada na nacional. Tendo em conta que estes sofreram um conjunto de alterações que diminuíram as velocidades praticáveis e a sua capacidade efectiva, neste caso, estes troços ficam de novo sujeitos a uma saturação que degrada o nível de serviço por estes oferecido e que tem profundo impacto na qualidade de vida das populações residentes nas imediações.
 
-Neste caso, um investimento que tanto custou ao país ficará por rentabilizar na sua plenitude e gera-se uma profunda contradição no sistema rodoviário ao permitir a continuada congestão de vias que deveriam ter sido libertadas para cumprir funções de ligação essencialmente local e urbana.
+Assim, privado de parte da sua utilidade, privado de utentes, um investimento que teve custos significativos ficará por rentabilizar na sua plenitude e gera-se uma profunda contradição no sistema rodoviário ao permitir a continuada congestão de vias que deveriam ter sido libertadas para cumprir funções de ligação essencialmente local e urbana.
 
-Eventualmente, nem mesmo o objectivo de colecta de fundos, com a cobrança de portagens, será cumprido em suficiência uma vez que, na realidade, os volumes de tráfego são, em vários troços, bastante baixos. Este facto sugere que a introdução de cobrança de portagem, em certos troços, pode mesmo ser contraproducente: nem há verdadeira colecta, nem as autoestradas  cumprem cabalmente o objectivo para que foram criadas, o investimento realizado fica longe de ser rentabilizado.
+Eventualmente, nem mesmo o objectivo de colecta de fundos, com a cobrança de portagens, será cumprido em suficiência uma vez que, na realidade, os volumes de tráfego são, em vários troços, bastante baixos. Este facto sugere que a introdução de cobrança de portagem, em certos troços, pode mesmo ser contraproducente: nem há colecta substancial, nem as autoestradas cumprem cabalmente o objectivo para que foram criadas, o investimento realizado fica por rentabilizar.
 
-Esta tese visa dar contributos para esta discussão, pela análise dos mecanismos de concorrência em pares de troço de estrada e troço de autoestrada mutuamente alternativos, perante diferentes cenários de introdução de portagens no troço de autoestrada e de congestão / degradação da circulação em ambos. Estes pares serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade e dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestão de tráfego em troços adutores das áreas em estudo, etc.
+Não podemos deixar de sublinhar que, apesar dos múltiplos aspectos de má gestão salientados pelo Tribunal de Contas e outros, dando a azo a opiniões fortemente negativas muito propaladas na comunicação social, o real esforço financeiro não parece exagerado ao não ultrapassar os 1,5% da despesa do Estado no ano de maior esforço.
 
-A análise do cumprimento dos objectivos da colecta de portagem e da rentabilidade efectiva dos empreendimentos rodoviários são deliberadamente​ deixados de fora.
+Poder-se-ia ter tido uma gestão muito diferente e mais eficiente? Certamente. Deveríamos não ter construído, com  perfil de autoestrada, troços de utilidade discutível como os do sul da A17, o interior da A41 / CREP ou a "Ponte da Lezíria" (A10)? Provavelmente. No entanto não podemos fingir que esta infraestrutura não existe: da mesma maneira que a temos de pagar temos a obrigação de dela tirar o melhor partido.
+
+Esta dissertação visa trazer novos contributos a este debate.
+
+## Objectivo desta dissertação
+
+De tudo o que para trás ficou dito nesta Introdução, as análise de maior premência e que parecem inexistentes ou muito incompletas são:
+
+a) a da real importância da colecta de portagem no equilíbrio financeiro dos projectos de PPPR;
+b) a do cálculo dum valor de taxa de portagem a cobrar que, para cada caso, maximize a colecta sem prejudicar demasiado a utilidade pública do empreendimento;
+c) a do equilíbrio, ou da competição, entre a oferta de autoestrada e a oferta de estradas alternativas.
+
+A análise c) é importante também para aferir a utilidade dos empreendimentos e, por isso, certamente deveria contribuir para b) na definição de valores de taxa adequados.
+
+O autor escolheu assim prosseguir pela análise de equilíbrio c), ou seja, pela análise dos mecanismos de concorrência em pares de troço de estrada e troço de autoestrada mutuamente alternativos, perante diferentes cenários de introdução de portagens no troço de autoestrada e de congestão / degradação da circulação em ambos. Estes pares serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade e dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestão de tráfego em troços adutores das áreas em estudo, etc.
 
 A presente dissertação visa dar contributos para esta discussão, aplicando metodologias de análise do âmbito da microeconomia e da "economia do bem estar" à concorrência entre pares troço de estrada nacional versus troço de autoestrada mutuamente alternativos, perante diferentes cenários de custo de portagens nas autoestradas, custo de deslocação decorrentes da introdução de medidas de acalmia de tráfego nas estradas nacionais e os correspondentes resultados, efectivos ou previsíveis, de congestão / degradação da circulação. Estes pares "autoestrada vs. estrada nacional" serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade, dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestão de tráfego em troços adutores das áreas em estudo, etc.
-
-A análise do cumprimento dos objectivos da colecta de portagem e da rentabilidade efectiva dos empreendimentos rodoviários são deliberadamente​ deixados de fora.
