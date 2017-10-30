@@ -194,9 +194,12 @@ A maioria dos troços de ex-SCUT, apesar de terem custos de construção por uni
 - autoestrada A24 (antiga SCUT Interior) - valores de TMD mensal globalmente inferiores a 10000 , no inverno alguns destes troços apresentam valores próximos de 2000;
 - autoestrada A17 (parte da antiga SCUT Costa de Prata) - valores de TMD mensal globalmente inferiores a 10000 excepto em troços em volta da cidade de Aveio, no inverno alguns destes troços apresentam valores próximos de 2000.
 
- Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas faixas de circulação por uma via de 2 ou mais faixas (@romana_hernando, @visao_atdesertas e [*Numbers every traffic engineer should know*](http://www.mikeontraffic.com/numbers-every-traffic-engineer-should-know/) ) [^fn_critSinistralidade]. Muitos troços de autoestrada existentes não chegam a cumprir minimamente este critério.
+ Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas faixas de circulação por uma via de 2 ou mais faixas (@romana_hernando, @visao_atdesertas e [*Numbers every traffic engineer should know*](http://www.mikeontraffic.com/numbers-every-traffic-engineer-should-know/)). [^fn_critSinistralidade][^fnTRB]
+
+ Muitos troços de autoestrada existentes não chegam a cumprir minimamente este critério.
 
 [^fn_critSinistralidade]: Este não será o único critério, esta decisão poderá ser tomada por outros factores como questões peculiares de sinistralidade ou outras
+[^fnTRB]: A generalidade das metodologias de planeamento de rodovias usadas em todo mundo baseiam-se no trabalho pioneiro do Transportation Research Board americano, reflectido, nomeadamente em [@HCM_SpRep209]), também referenciado no PRN2000 nacional.
 
 Assim, várias dúvidas podem imediatamente surgir relativamente quer à introdução de portagens nas SCUT quer mesmo à criação de novos troços de autoestrada portajada em zonas de reduzida procura:
 
@@ -220,7 +223,7 @@ Libertadas de parte do seu intenso tráfego anterior e em linha com o disposto n
 
 Com o fim do regime SCUT e a imposição de autoestradas, em muitos troços, uma parte significativa dos utentes voltou a estas antigas estradas. O mesmo aconteceu em novos troços de autoestrada (exemplos: A17 Mira - Leiria Norte e A41 Alfena - Nogueira) que cobrem zonas de procura reduzida e foram abertos já em regime de cobrança de portagem: o efeito de substituição das estradas pré-existentes não chegou a ser significativo.
 
-O novo carácter de via urbana de algumas das vias pré-existentes faz com que as baixas velocidades, demasiadamente baixas para quem está numa viagem de médio ou longo curso, que dantes eram forçadas pela congestão rodoviária são agora resultado das já referidas medidas de acalmia de tráfego a que se junta o tráfego que não segue pelas autoestradas, devido à aplicação de portagem.
+O novo carácter de via urbana de algumas das vias pré-existentes faz com que as baixas velocidades, demasiadamente baixas para quem está numa viagem de médio ou longo curso, que dantes eram resultado do excesso de procura são agora resultado das já referidas medidas de acalmia de tráfego a que se junta uma procura inesperadamente elevada, do tráfego que não segue pelas autoestradas, devido à aplicação das portagem.
 
 ## O dilema da aplicação de portagens
 
@@ -228,7 +231,7 @@ Estamos assim perante um dilema.
 
 O país empenhou-se fortemente, endividando-se, na construção de uma rede de autoestradas que nos aproximasse dos níveis de serviço rodoviário existentes em muitos dos países nossos parceiros europeus. O crescimento desta parte da rede rodoviária visava proporcionar uma oferta de ligações de carácter regional, nacional e internacional com uma qualidade de serviço impossível na rede de estradas preexistente. Libertadas de parte substancial do antigo tráfego intenso, as antigas estradas ficariam disponíveis para ligações de carácter urbano e periurbano.
 
-O objectivo de nível de serviço foi conseguido e até ultrapassado, com a contrapartida de um importante esforço financeiro que impactou nas contas públicas portuguesas, na pior das alturas, em pleno caminho para uma grave crise financeira.
+O objectivo de melhoria substancial do nível de serviço foi conseguido e até ultrapassado, com a contrapartida de um importante esforço financeiro que impactou nas contas públicas portuguesas, na pior das alturas, em pleno caminho para uma grave crise financeira.
 
 Perante a necessidade urgente de reduzir custos de endividamento, o poder executivo decidiu promover a cobrança de portagens em troços inicialmente não abrangidos por tal exigência, cuja receita permitiria contribuir para amortizar esses custos.
 
@@ -238,22 +241,26 @@ Assim, privado de parte da sua utilidade, privado de utentes, um investimento qu
 
 Eventualmente, nem mesmo o objectivo de colecta de fundos, com a cobrança de portagens, será cumprido em suficiência uma vez que, na realidade, os volumes de tráfego são, em vários troços, bastante baixos. Este facto sugere que a introdução de cobrança de portagem, em certos troços, pode mesmo ser contraproducente: nem há colecta substancial, nem as autoestradas cumprem cabalmente o objectivo para que foram criadas, o investimento realizado fica por rentabilizar.
 
-Não podemos deixar de sublinhar que, apesar dos múltiplos aspectos de má gestão salientados pelo Tribunal de Contas e outros, dando a azo a opiniões fortemente negativas muito propaladas na comunicação social, o real esforço financeiro não parece exagerado ao não ultrapassar os 1,5% da despesa do Estado no ano de maior esforço.
+Não podemos deixar de sublinhar que, apesar dos múltiplos e evitáveis aspectos de má gestão salientados pelo Tribunal de Contas e outros, dando a azo a opiniões fortemente negativas muito propaladas na comunicação social, o real esforço financeiro não parece exagerado ao não ultrapassar os 1,5% da despesa do Estado no ano de maior esforço.
 
-Poder-se-ia ter tido uma gestão muito diferente e mais eficiente? Certamente. Deveríamos não ter construído, com  perfil de autoestrada, troços de utilidade discutível como os do sul da A17, o interior da A41 / CREP ou a "Ponte da Lezíria" (A10)? Provavelmente. No entanto não podemos fingir que esta infraestrutura não existe: da mesma maneira que a temos de pagar temos a obrigação de dela tirar o melhor partido.
+Poder-se-ia ter tido uma gestão muito diferente e mais eficiente? Certamente. Deveríamos não ter construído, com  perfil de autoestrada, troços de utilidade discutível como os do sul da A17, o interior da A41 / CREP ou a "Ponte da Lezíria" (A10)? Provavelmente. No entanto, não podemos fingir que esta infraestrutura não existe: da mesma maneira que a temos de pagar, temos a obrigação de dela tirar o melhor partido.
 
 Esta dissertação visa trazer novos contributos a este debate.
 
 ## Objectivo desta dissertação
 
-De tudo o que para trás ficou dito nesta Introdução, as análise de maior premência e que parecem inexistentes ou muito incompletas são:
+De tudo o que para trás ficou dito nesta Introdução, as análise de maior premência e que parecem inexistentes ou incompletas são:
 
 a) a da real importância da colecta de portagem no equilíbrio financeiro dos projectos de PPPR;
 b) a do cálculo dum valor de taxa de portagem a cobrar que, para cada caso, maximize a colecta sem prejudicar demasiado a utilidade pública do empreendimento;
 c) a do equilíbrio, ou da competição, entre a oferta de autoestrada e a oferta de estradas alternativas.
 
-A análise c) é importante também para aferir a utilidade dos empreendimentos e, por isso, certamente deveria contribuir para b) na definição de valores de taxa adequados.
+A análise c) é importante também para aferir a real utilidade dos empreendimentos e, por isso, certamente deveria contribuir para b) na definição de valores de taxa adequados.
 
-O autor escolheu assim prosseguir pela análise de equilíbrio c), ou seja, pela análise dos mecanismos de concorrência em pares de troço de estrada e troço de autoestrada mutuamente alternativos, perante diferentes cenários de introdução de portagens no troço de autoestrada e de congestão / degradação da circulação em ambos. Estes pares serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade e dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestão de tráfego em troços adutores das áreas em estudo, etc.
+O autor escolheu assim prosseguir pela análise de equilíbrio c), ou seja, pela análise dos mecanismos de concorrência entre pares de troço de estrada e troço de autoestrada mutuamente alternativos, perante diferentes cenários de introdução de portagens no troço de autoestrada e de congestão / degradação da circulação em ambos. Estes pares serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade e dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestão de tráfego em troços adutores das áreas em estudo, etc.
 
-A presente dissertação visa dar contributos para esta discussão, aplicando metodologias de análise do âmbito da microeconomia e da "economia do bem estar" à concorrência entre pares troço de estrada nacional versus troço de autoestrada mutuamente alternativos, perante diferentes cenários de custo de portagens nas autoestradas, custo de deslocação decorrentes da introdução de medidas de acalmia de tráfego nas estradas nacionais e os correspondentes resultados, efectivos ou previsíveis, de congestão / degradação da circulação. Estes pares "autoestrada vs. estrada nacional" serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade, dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestão de tráfego em troços adutores das áreas em estudo, etc.
+A presente dissertação visa dar contributos para esta discussão, aplicando metodologias de análise do âmbito da microeconomia e da "economia do bem estar" à concorrência entre pares troço de estrada nacional versus troço de autoestrada mutuamente alternativos, perante diferentes cenários de custo de portagens nas autoestradas, custo de deslocação decorrentes da introdução de medidas de acalmia de tráfego nas estradas nacionais e os correspondentes resultados, efectivos ou previsíveis, de congestão / degradação da circulação.
+
+Estes pares "autoestrada vs. estrada nacional" serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade, dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestão de tráfego em troços adutores das áreas em estudo, etc.
+
+Adicionalmente pretende-se desmontar a aplicação do comumente chamado "princípio do utilizador-pagador" a estas questões, com qual, grupos bem identificados, pretendem dar um disfarce de aparente valor científico a algo que pertence sobretudo ao domínio da ideologia.
