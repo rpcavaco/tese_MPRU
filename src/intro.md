@@ -265,24 +265,28 @@ N_{D} =  \frac{R}{V_{TMDA} * P_{max}}
 Segundo \ref{nD}, o valor de $N_{D}$ será de 8740 dias ou cerca de 24 anos. Tudo isto parece bem: a portagem em cobrança parece permitir cobrir o investimento inicial em menos de 30 anos (prazo habitual das concessões PPPR portuguesas). Não nos podemos esquecer de dois detalhes:
 
 - os custos da infraestrutura não tem apenas a ver com o investimento incial;
-- a portagem atualmente cobrada na A17 está **muito acima** da tarifa de referência para o valor por quilómetro (€0,1510 €/km > €0,082/km com IVA), é mesmo sensivelmente o dobro.
+- a portagem atualmente cobrada na A17 está **acima** da tarifa de referência para o valor por quilómetro actualizado para 2016 com IVA (€0,1510/km > €0,098/km).
 
-O facto de, em grande parte, não ter sido uma ex-SCUT mantém esta autoestrada fora das polémicas da aplicação de portagens.
+Se usarmos o dito valor de referência actualizado para o mesmo cálculo, teríamos $N_{D}$ igual a 13665 dias, o que significa **mais de 37 anos**.
 
-Assim, várias dúvidas podem imediatamente surgir relativamente quer à introdução de portagens, quer nas ex-SCUT quer mesmo nos novos troços de autoestrada portajada em zonas de reduzida procura:
+Apesar disso, talvez pelo facto de, em grande parte do seu traçado, esta autoestrada não ter sido SCUT, estes novos valores de portagem em cobrança são mantidos fora das polémicas mais ruidosas da aplicação de portagens.
+
+Estes cálculos são executados sobre valores médios e apenas pretendem dar uma ideia genérica das questões sobre as quais decisores políticos e técnicos são chamados a pronunciar-se. Mesmo assim, várias dúvidas podem imediatamente surgir relativamente à introdução de portagens, quer nas ex-SCUT quer mesmo nos novos troços de autoestrada portajada em zonas de reduzida procura:
 
 - será possível pagar a totalidade de um investimento deste tipo com portagens ou apenas será viável cobrir uma parte dos custos?
 - quais serão os limites razoáveis para o valor da taxa, como a calcular, sem perder de vista a utilidade social?
 - definido um valor de taxa qual seria o limite máximo viável para o período de aplicação da mesma?
 
-Como vimos na figura \ref{maxportg} as taxas de portagem de valores P~1~ e P~3~ produziriam os mesmos proveitos, é indiferente aplicar uma ou outra do ponto de vista do financiamento do empreendimento. Apesar disso, a utilidade social da autoestrada fica largamente reduzida se a taxa aplicada for P~3~ e não P~1~, uma vez que apenas nela circula um número muito reduzido de veículos. 
+Como vimos na figura \ref{maxportg} as taxas de portagem de valores P~1~ e P~3~ produziriam os mesmos proveitos, é indiferente aplicar uma ou outra do ponto de vista do financiamento do empreendimento. Apesar disso, a utilidade social da autoestrada fica largamente reduzida se a taxa aplicada for P~3~ e não P~1~, uma vez que apenas nela circula um número reduzido de veículos. 
 
-Assim, assumindo que a decisão de portajar um troço de autoestrada nestas condições é racional, mais importante do que esta decisão seria a escolha do valor efectivo de taxa de portagem a aplicar, de forma a reduzir ao mínimo possível a quebra na utilidade pública da infraestrutura.
+Assim, assumindo que a decisão de portajar um troço de autoestrada nestas condições é racional, tão importante como  a decisão de portajar seria a escolha do valor efectivo de taxa de portagem a aplicar, reduzindo ao mínimo possível a quebra na utilidade pública da infraestrutura.
+
+Contudo poderemos considerar inaceitável qualquer quebra na utilidade da infraestrutura.
 
 
 ## Utilidade social em causa
 
-Analisemos agora brevemente o problema das autoestradas e da imposição de portagens agora do ponto de vista do impacto socioeconómico.
+Analisemos agora brevemente o problema do provimento de autoestradas e da imposição de portagens agora do ponto de vista da sua utilidade social e do impacto socioeconómico.
 
 A construção de autoestradas visa genericamente providenciar melhorias de acessibilidade a regiões ou locais para os quais se considera que o sistema de transportes existente, sem autoestrada, não responde às necessidades das populações e dos agentes económicos. Esta é uma visão de escala maior, regional. A uma escala nacional e internacional, a disponibilização de autoestradas visa melhorias de ligação entre centros urbanos e regiões distantes entre si ou a melhoria de interligação entre países, no nosso caso, com o país nosso vizinho, Espanha.
 
@@ -302,7 +306,7 @@ O novo carácter de via urbana de algumas das vias pré-existentes faz com que a
 
 Estamos assim perante um dilema.
 
-O país empenhou-se fortemente, endividando-se, na construção de uma rede de autoestradas que nos aproximasse dos níveis de serviço rodoviário existentes em muitos dos países nossos parceiros europeus. O crescimento desta parte da rede rodoviária visava proporcionar uma oferta de ligações de carácter regional, nacional e internacional com uma qualidade de serviço impossível na rede de estradas preexistente. Libertadas de parte substancial do antigo tráfego intenso, as antigas estradas ficariam disponíveis para ligações de carácter urbano e periurbano.
+O país empenhou-se fortemente, endividando-se, na construção de uma rede de autoestradas que nos aproximasse dos níveis de serviço rodoviário existentes em muitos dos países nossos parceiros europeus. O crescimento desta parte da rede rodoviária visava proporcionar uma oferta de ligações de carácter regional, nacional e internacional com uma qualidade de serviço impossível na rede de estradas preexistente. ...... coesão territorial .... Libertadas de parte substancial do antigo tráfego intenso, as antigas estradas ficariam disponíveis para ligações de carácter urbano e periurbano.
 
 O objectivo de melhoria substancial do nível de serviço foi conseguido e até ultrapassado, com a contrapartida de um importante esforço financeiro que impactou nas contas públicas portuguesas, na pior das alturas, em pleno caminho para uma grave crise financeira.
 
