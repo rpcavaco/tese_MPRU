@@ -269,9 +269,7 @@ Segundo \ref{nD}, o valor de $N_{D}$ será de 8740 dias ou cerca de 24 anos. Tud
 
 Se usarmos o dito valor de referência actualizado para o mesmo cálculo, teríamos $N_{D}$ igual a 13665 dias, o que significa **mais de 37 anos**.
 
-Apesar disso, talvez pelo facto de, em grande parte do seu traçado, esta autoestrada não ter sido SCUT, estes novos valores de portagem em cobrança são mantidos fora das polémicas mais ruidosas da aplicação de portagens.
-
-Estes cálculos são executados sobre valores médios e apenas pretendem dar uma ideia genérica das questões sobre as quais decisores políticos e técnicos são chamados a pronunciar-se. Mesmo assim, várias dúvidas podem imediatamente surgir relativamente à introdução de portagens, quer nas ex-SCUT quer mesmo nos novos troços de autoestrada portajada em zonas de reduzida procura:
+Estes cálculos são executados sobre valores médios e apenas pretendem dar uma ideia genérica das questões sobre as quais decisores políticos e técnicos são chamados a pronunciar-se. Mesmo assim, várias dúvidas podem imediatamente surgir relativamente à introdução de portagens, quer nas ex-SCUT quer nos novos troços de autoestrada portajada em zonas de reduzida procura:
 
 - será possível pagar a totalidade de um investimento deste tipo com portagens ou apenas será viável cobrir uma parte dos custos?
 - quais serão os limites razoáveis para o valor da taxa, como a calcular, sem perder de vista a utilidade social?
@@ -279,28 +277,30 @@ Estes cálculos são executados sobre valores médios e apenas pretendem dar uma
 
 Como vimos na figura \ref{maxportg} as taxas de portagem de valores P~1~ e P~3~ produziriam os mesmos proveitos, é indiferente aplicar uma ou outra do ponto de vista do financiamento do empreendimento. Apesar disso, a utilidade social da autoestrada fica largamente reduzida se a taxa aplicada for P~3~ e não P~1~, uma vez que apenas nela circula um número reduzido de veículos. 
 
-Assim, assumindo que a decisão de portajar um troço de autoestrada nestas condições é racional, tão importante como  a decisão de portajar seria a escolha do valor efectivo de taxa de portagem a aplicar, reduzindo ao mínimo possível a quebra na utilidade pública da infraestrutura.
+Assim, assumindo que a decisão de portajar um troço de autoestrada nestas condições é racional, tão importante como  a decisão de portajar seria a escolha de um valor efectivo de taxa de portagem a aplicar a qual, esperançadamente, deveria permitir a redução, ao mínimo possível, da quebra na utilidade pública da infraestrutura.
 
-Contudo poderemos considerar inaceitável qualquer quebra na utilidade da infraestrutura.
+Contudo, poderemos considerar inaceitável qualquer quebra na utilidade da infraestrutura.
 
 
 ## Utilidade social em causa
 
-Analisemos agora brevemente o problema do provimento de autoestradas e da imposição de portagens agora do ponto de vista da sua utilidade social e do impacto socioeconómico.
+Analisemos agora, de forma breve, o problema do provimento de autoestradas do ponto de vista da sua utilidade social e do seu impacto socioeconómico.
 
-A construção de autoestradas visa genericamente providenciar melhorias de acessibilidade a regiões ou locais para os quais se considera que o sistema de transportes existente, sem autoestrada, não responde às necessidades das populações e dos agentes económicos. Esta é uma visão de escala maior, regional. A uma escala nacional e internacional, a disponibilização de autoestradas visa melhorias de ligação entre centros urbanos e regiões distantes entre si ou a melhoria de interligação entre países, no nosso caso, com o país nosso vizinho, Espanha.
+A construção de autoestradas visa genericamente providenciar melhorias de acessibilidade a regiões ou locais para os quais se considera que o sistema de infraestrutura rodoviária existente, sem autoestrada, não responde às necessidades das populações e dos agentes económicos. Esta é uma visão de escala maior, mais detalhada, a nível regional. A uma escala menor, nacional e internacional, a disponibilização de autoestradas visa melhorias de ligação entre centros urbanos e regiões distantes entre si ou a melhoria de interligação entre países, no nosso caso, com o país nosso vizinho, Espanha.
 
-Do ponto de vista da escala nacional e internacional, as ligações criadas pela rede de autoestradas tem um carácter largamente insubstituível, uma vez que não existe verdadeira oferta concorrente quer de outras estradas, quer do modo ferroviário, quer do transporte aéreo. Este último apenas concorre nas ligações às principais cidades do país vizinho. Aqui, as estradas alternativas não permitem as velocidades elevadas admissíveis na autoestrada, tão necessárias à redução dos tempos de viagem nas deslocações de longo curso para valores considerados aceitáveis nos nossos dias (exemplo: 5:30 horas para viajar de Aveiro a Madrid, indicação do serviço pesquisa de rotas online [Via Michelin](https://www.viamichelin.pt) ).
+Do ponto de vista da escala nacional e internacional, as ligações criadas pela rede de autoestradas tem um carácter largamente insubstituível, uma vez que não existe verdadeira oferta concorrente quer de outras estradas, quer do modo ferroviário, quer do transporte aéreo. Este último apenas concorre nas ligações às principais cidades do país vizinho. Aqui, as estradas alternativas não permitem as velocidades elevadas admissíveis na autoestrada, tão necessárias à redução dos tempos de viagem nas deslocações de longo curso para valores considerados aceitáveis nos nossos dias. 
 
-Na escala maior, a autoestrada enfrenta a concorrência directa das estradas preexistentes, nos casos em que estas não chegaram a ser substituídas. Nesta escala e nestes casos, os utentes podem livremente optar entre usar as estradas antigas ou a autoestrada.
+Vejamos o exemplo da ligação entre Aveiro e Madrid: 5:30 horas para vencer 520 km de estradas, na  indicação do serviço pesquisa de rotas online [Via Michelin](https://www.viamichelin.pt. A velocidade média desse trajecto é assim de 96 km/h. Fazendo este trajecto por estradas alternativas seria difícil manter uma velocidade média de 50 km/h pelo que o tempo de deslocação seria superior ao dobro, mais de 11 horas, algo verdadeiramente fora dos nossos padrões actuais.
 
-Nestes casos, quando a autoestrada foi disponibilizada, ainda como SCUT, os utentes aderiram massivamente, abandonando os troços de estrada nacional que, maioritariamente, se encontravam degradados.
+Na escala maior, a autoestrada enfrenta a concorrência directa das estradas preexistentes, nos casos em que estas não chegaram a ser substituídas por autoestrada construída por cima. Nesta escala e nestes casos, os utentes podem livremente optar entre usar as estradas antigas ou a autoestrada.
 
-Libertadas de parte do seu intenso tráfego anterior e em linha com o disposto no Plano Rodoviário Nacional ([PRN2000, Dec.Lei 222/98](http://www.imt-ip.pt/sites/IMTT/Portugues/InfraestruturasRodoviarias/RedeRodoviaria/Documents/Plano_Rodoviario_Nacional.pdf)), as estradas nacionais abrangidas por esta transformação foram transferidas para a alçada dos respectivos municípios. Neste processo, muitas delas, repavimentadas, reperfiladas e, em parte, transformadas em arruamentos com características urbanas. Além do mais foram-lhe aplicadas medidas de acalmia de tráfego como rotundas, passadeiras, semaforização, etc. que reduzem de forma clara a capacidade destas em volume de tráfego e aumentam significativamente os tempos de deslocação ao forçarem uma circulação mais segura, a menores velocidades.
+Nestes casos, quando a autoestrada foi disponibilizada, ainda como SCUT, os utentes aderiram massivamente, abandonando em grande número os troços de estrada nacional que, maioritariamente, se encontravam degradados.
+
+Libertadas de parte do seu intenso tráfego anterior e em linha com o disposto no Plano Rodoviário Nacional ([PRN2000, Dec.Lei 222/98](http://www.imt-ip.pt/sites/IMTT/Portugues/InfraestruturasRodoviarias/RedeRodoviaria/Documents/Plano_Rodoviario_Nacional.pdf)), as estradas nacionais abrangidas por esta transformação foram transferidas para a alçada dos respectivos municípios. Neste processo, muitas delas foram repavimentadas, reperfiladas e, em parte, transformadas em arruamentos com características urbanas. Além do mais foram-lhe aplicadas medidas de acalmia de tráfego como rotundas, passadeiras, semaforização, etc. que reduzem de forma clara a capacidade destas em volume de tráfego e aumentam significativamente os tempos de deslocação ao forçarem uma circulação mais segura, a menores velocidades.
 
 Com o fim do regime SCUT e a imposição de portagens, uma parte significativa dos utentes voltou a estas antigas estradas. O mesmo aconteceu em novos troços de autoestrada (exemplos: A17 Mira - Leiria Norte e A41 Alfena - Nogueira) que cobrem zonas de procura reduzida e foram abertos já em regime de cobrança de portagem: o efeito de substituição do uso das estradas pré-existentes pelo das autoestradas não chegou a ser significativo.
 
-O novo carácter de via urbana de algumas das vias pré-existentes faz com que as baixas velocidades, demasiadamente baixas para quem está numa viagem de médio ou longo curso, produzam novamente uma congestão assinalável. Dantes a congestão era resultado do excesso de procura, agora é resultado das já referidas medidas de acalmia de tráfego às quais se junta uma procura inesperadamente elevada, resultante do tráfego que não segue pelas autoestradas, face à aplicação de portagens.
+O novo carácter de via urbana de algumas das vias pré-existentes faz com que as baixas velocidades, demasiadamente baixas para quem está numa viagem de médio ou longo curso, produzam novamente uma congestão assinalável. Dantes a congestão era resultado do excesso de procura, agora resulta das já referidas medidas de acalmia de tráfego às quais se junta uma procura inesperadamente elevada, resultante do tráfego que não segue pelas autoestradas, face à aplicação de portagens.
 
 ## O dilema da aplicação de portagens
 
