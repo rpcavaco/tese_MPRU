@@ -1,13 +1,3 @@
-a contrução e manutenção da rede rodoviária é resp pública (ver lei de bases ...)
+Equidade .... não portajar à bruta excluíndo todos
 
-as estradas nacionais e as autoestradas são bens públicos concessionáveis a privados que se substituem ao estado nas tarefasa de construção e manutenção
-
-a existência de troços de autoestrada e de estrada nacional mutuamente alternativos respresentam a disponibilidade de dois bens públicos mutuamente exclusivos
-
-
------------------------------------------
-
-
-Conflito político
-
-FAlta de transparÊncia
+No entanto, os sistemas digitais da actualidade possibilitam a imposição de portagem variável. .......
