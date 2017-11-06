@@ -94,15 +94,15 @@ A opção tomada e as projecções de tráfego são ainda mais incompreensíveis
 - a ponte Marechal Carmona da EN10 (sem portagem, muito próxima a sul)
 - a ponte Vasco da Gama (mais a sul, com portagem mais cara)
 
-Dada a coincidência dos valores de tráfego indicados e das opções de perfil tomadas, o autor alvitra que os valores do estudo de tráfego original, que terá justificado a decisão em favor da construção desta obra, seriam muito semelhantes aos deste estudo atrás indicado.
+Dada a coincidência dos valores de tráfego indicados e das opções de perfil tomadas, uma vez que as 2x3 faixas existentes são compatíveis com uma previsão superior 30000 veículos/dia TMDA, o autor está convicto que os valores do estudo de tráfego original, que terá justificado a decisão em favor da construção desta obra, seriam idênticos aos do estudo atrás referido.
 
-Analisando o referido estudo de 2007 e recorrendo a valores recentes para alguns dos indicadores quantitativos usados como base nas previsões efectuadas, podemos identificar diversas assumpções erradas:
+Analisando esse estudo e recorrendo a valores recentes para alguns dos indicadores quantitativos usados como base nas previsões efectuadas, podemos identificar diversas assunções erradas:
 
-- A assunção de uma correlação forte entre PIB, consumo de combustível e volume de tráfego geral
+- A existência de uma correlação forte entre PIB, consumo de combustível e volume de tráfego geral
 
-	O PIB português caiu fortemente de 175 mil milhões de euros de 2007 (ano do referido estudo) para menos cerca de 170 mil milhões em 2013, tendo vindo a crescer paulatinamente desde então, tendo ultrapassado os 185 mil milhões de euros em 2016 ([fonte PORDATA: Evolução do PIB](https://www.pordata.pt/Portugal/PIB+(base+2011)-130)). Apesar disso, o consumo de combustíveis diminuiu ligeiramente, por exemplo, no gasóleo rodoviário de 4860 kt em 2017 para 4780 kt em Agosto de 2017 (fontes: [PORDATA - Venda de cobustíveis](http://www.pordata.pt/Portugal/Venda+de+combust%c3%adveis+para+consumo-1131) e estatísticas rápidas Agosto de 2017 da [Direcção Geral de Energia e Geologia](http://www.dgeg.gov.pt/)).
+	A realidade actual nega esta possibilidade: o PIB português caiu fortemente de 175 mil milhões de euros de 2007 (ano do referido estudo) para menos cerca de 170 mil milhões em 2013, tendo vindo a crescer paulatinamente desde então, tendo ultrapassado os 185 mil milhões de euros em 2016 ([fonte PORDATA: Evolução do PIB](https://www.pordata.pt/Portugal/PIB+(base+2011)-130)). Apesar disso, o consumo de combustíveis diminuiu ligeiramente, por exemplo, no gasóleo rodoviário de 4860 kt em 2017 para 4780 kt em Agosto de 2017 (fontes: [PORDATA - Venda de cobustíveis](http://www.pordata.pt/Portugal/Venda+de+combust%c3%adveis+para+consumo-1131) e estatísticas rápidas Agosto de 2017 da [Direcção Geral de Energia e Geologia](http://www.dgeg.gov.pt/)).
 	
-	Com o advento dos veículos eléctricos e as perspectivas de crescimento do transporte ferroviário, decorrentes exactamente da necessidade do cumprimento das metas de redução de gases com efeitos de estufa que o país se comprometeu no âmbito de protocolos e acordos internacionais, o próprio consumo de combustível deverá passar a ser um estimador cada vez menos eficaz do tráfego rodoviário em geral. 
+	Com o advento dos veículos eléctricos e as perspectivas de crescimento do transporte ferroviário, decorrentes exactamente da necessidade do cumprimento das metas de redução de gases com efeitos de estufa com as quais o país se comprometeu no âmbito de protocolos e acordos internacionais, o próprio consumo de combustível deverá passar a ser um estimador cada vez menos eficaz do tráfego rodoviário em geral. 
 	
 - O crescimento contínuo da taxa de motorização
 
@@ -160,5 +160,4 @@ A necessidade destas medidas de exclusão decorre também de externalidades deco
 As medidas de exclusão não têm de passar apenas pela colocação de um preço no acesso à infraestrutura. Em várias cidades do mundo tem vindo ao longo dos anos a ser implementados múltiplas formas de exclusão como, por exemplo, a proibição de circular veículos consoante a paridade dos números da matrícula, ou do ano de fabrico, etc. Em algumas cidades como, por exemplo, Lisboa avançou-se para a proibição total da circulação de veículos antigos sem catalisador de gases de escape.
 
 ## Exclusão decorrente da rivalidade: portajar o congestionamento
-
 
