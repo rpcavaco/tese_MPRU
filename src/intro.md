@@ -141,6 +141,8 @@ Outros exemplos poderiam ser dados destas derrapagens e dos problemas financeiro
 
 Contudo, Moreno calculava para a globalidade das PPPR um valor de encargos plurianuais de 25 mil milhões de euros (valor nominal, preços correntes) ao longo de um prazo de 30 anos. Sobre este valor o mesmo autor estimava existir em 2010 uma derrapagem de cerca de 6%. [@cmoreno]
 
+Convém salientar, como é demosntrado mais à frente, que parte da derrapagem nos encargos do Estado no provimento de infraestrutura rodoviária vem de empreendimentos completamente fora do universo SCUT, em autoestradas que foram abertas já com cobrança de portagem como é o caso da A10 Arruda - Benavente.
+
 
 ## Súbita mudança de orientação
 
@@ -249,7 +251,7 @@ A maioria dos troços de ex-SCUT, apesar de terem custos de construção por uni
 Façamos então um pequeno ensaio para uma das novas autoestradas sujeitas a pagamento de portagem para as quais os volumes de tráfego não atingem sequer os 10000 TMDA: a autoestrada A17. Por consulta do sítio web da  [concessionária](http://www.brisa.pt/pt/Empresa-e-estrat%C3%A9gia/Atividade-empresarial/Concess%C3%B5es-rodovi%C3%A1rias/Brisal), vemos os seguinte números (Outubro de 2016):
 
 - volume de tráfego TMDA: 5558 veículos/dia
-- 575 milhões de euros (2004), 690 milhões ajustados a 2016 
+- custo de construção: 575 milhões de euros (2004), 690 milhões ajustados a 2016 
 - portagem €14
 - comprimento de 92,7 km
 

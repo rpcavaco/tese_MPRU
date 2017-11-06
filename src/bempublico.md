@@ -110,7 +110,7 @@ Analisando esse estudo e recorrendo a valores recentes para alguns dos indicador
 	
 Perante estas duas fortes influências, a ideia peregrina que a procura de viagens na rede rodoviária deverá continuar a crescer nos próximos anos é errada e profundamente enganadora. Perante estas condicionantes, o aumento de tráfego numa determinada área do país, a existir, deverá dever-se quase exclusivamente a fenómenos de geração de tráfego ou de atractividade de âmbito meramente local.
 
-Dado o fenómeno recente do crescimento da procura do nosso país por elevado número de turistas, poderão surgir impactos de crescimento de procura, decorrentes deste fenómeno, em locais com atractividade turística.
+Dado o fenómeno recente do crescimento da procura do nosso país por elevado número de turistas, poderão surgir impactos de crescimento de procura, decorrentes deste fenómeno, em locais com potencial atractividade turística ainda por explorar.
 
 # A infraestrutura rodoviária como bem público
 
@@ -122,7 +122,7 @@ Ao promover a construção de uma autoestrada está o governo de um país a prov
 
 Um indivíduo não pode ser excluído do acesso a um bem público como a defesa ou a mitigação dos efeitos de uma catástrofe natural por não pagar um determinado preço, por isso falamos de não-exclusão neste tipo de bens. De igual forma a não-exaustão também se aplica: mais um carro a passar numa infraestrutura não impede a passagem de outros carros.
 
-Será mesmo assim? Depende, no caso das infraestruturas rodoviárias a *não-rivalidade* depende do estado de congestão do tráfego que a atravessa. Se o grau de congestão for elevado, um número elevado de veículos que se encontram a "consumir" o bem infraestrutura, atravessando-o, vão colocando entraves ao consumo por outros veículos adicionais, de forma crescente até se formar um engarrafamento e o fluxo de tráfego parar por bons minutos ou horas, durante as quais a velocidade efectiva de deslocação pode ser inferior ao andar a pé. Neste caso, o bem não estará efectivamente a ser consumido, uma vez que cada consumidor não se consegue realmente tirar o benefício esperado: deslocar-se como seria suposto.
+Será mesmo assim? Depende, no caso das infraestruturas rodoviárias a *não-rivalidade* depende do estado de congestão do tráfego que a atravessa. Se o grau de congestão for elevado, um número elevado de veículos que se encontram a "consumir" o bem infraestrutura, atravessando-o, vão colocando entraves ao consumo por outros veículos adicionais, de forma crescente até se formar um engarrafamento e o fluxo de tráfego parar por bons minutos ou horas, durante as quais a velocidade efectiva de deslocação pode ser inferior ao andar a pé. Neste caso, o bem não estará efectivamente a ser consumido, uma vez que cada consumidor não consegue realmente tirar o benefício esperado: deslocar-se como seria suposto.
 
 O tema desta dissertação envolve autoestradas sujeitas a pagamento de portagem. O pagamento de uma taxa de portagem corresponde ao pagamento de um preço pelo atravessamento da infraestrutura, pelo seu "consumo".
 
@@ -136,6 +136,9 @@ Esta posse das parcelas de terreno que suportam a infraestrutura e que obrigator
 
 É absolutamente impensável a existência no futuro de um provimento totalmente privado de autoestradas quer porque a aquisição de terrenos de acordo com as regras de mercado, fora de processos de expropriação, levaria a investimentos iniciais ainda mais elevados quer porque a natural exiguidade dos corredores de território disponível levaria à impossibilidade do surgimento de concorrentes e à formação de monopólios privados com efeitos colaterais ainda mais absurdos do que os efeitos do monopólio do Estado discutidos nesta dissertação.
 
+## O monopólio "natural" do provimento de infraestrutura rodoviária
+
+........
 
 ## Congestão de tráfego como rivalidade no consumo
 
