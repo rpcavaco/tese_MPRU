@@ -3,7 +3,7 @@
 Ao analisar a história da implementação das PPPR em particular e da disponibilização de autoestradas em geral, é saliente uma precipitação e uma má qualidade gerais nos processos de tomada de decisão sobre a construção dessas infraestruturas, gritantemente manifestas em aspectos como:
 
 - previsões de tráfego inverosímeis
-- opções evidentemente injustificadas pelo "perfil de autoestrada"
+- opções injustificadas pelo "perfil de autoestrada"
 
 em que as opções, tomadas há anos, pelo "perfil de autoestrada" surgem justificadas com as referidas previsões de tráfego, que à data da decisão não eram tão nitidamente inverosímeis como são hoje. 
 
@@ -55,7 +55,7 @@ A24 – Vila Real Fortunhos – VP Aguiar     & 54                              
 
 Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil de via rápida, perfeitamente adequado aos volumes de veículos TMDA significativamente abaixo dos 10000 veículos / dia que encontramos em muitos troços da nossa actual rede de autoestradas, representa uma despesa de construção, no mínimo, **três vezes superior** ao que seria necessário.
 
-Estes é um **aspecto muito crítico** da tomada de decisão sobre desenvolvimentos da rede de infraestruturas rodoviária. Uma decisão errada a este nível lança o país num claro desperdício financeiro que começa num investimento inicial desnecessariamente alto, com impacto nos pagamentos a efectuar por uma geração de portugueses. A necessidade do pagamento generalizado de portagens poderia ter sido contornada também se, a este nível, tivesse havido uma ponderação mais cuidada.
+Este é um **aspecto muito crítico** da tomada de decisão sobre desenvolvimentos da rede de infraestruturas rodoviária. Uma decisão errada a este nível lança o país num claro desperdício financeiro que começa num investimento inicial desnecessariamente alto, com impacto nos pagamentos a efectuar por uma geração de portugueses. A necessidade do pagamento generalizado de portagens poderia ter sido contornada também se, a este nível, tivesse havido uma ponderação mais cuidada.
 
 Contudo esta opção relativa ao "perfil" escolhido terá, em muitos casos, assentado em previsões de tráfego as quais, supostamente, terão fornecido argumentos decisivos em favor das decisões assim tomadas.
 
@@ -163,4 +163,3 @@ A necessidade destas medidas de exclusão decorre também de externalidades deco
 As medidas de exclusão não têm de passar apenas pela colocação de um preço no acesso à infraestrutura. Em várias cidades do mundo tem vindo ao longo dos anos a ser implementados múltiplas formas de exclusão como, por exemplo, a proibição de circular veículos consoante a paridade dos números da matrícula, ou do ano de fabrico, etc. Em algumas cidades como, por exemplo, Lisboa avançou-se para a proibição total da circulação de veículos antigos sem catalisador de gases de escape.
 
 ## Exclusão decorrente da rivalidade: portajar o congestionamento
-
