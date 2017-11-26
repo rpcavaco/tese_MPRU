@@ -136,12 +136,40 @@ A posse das parcelas de terreno que suportam a infraestrutura é do Estado [^fnE
 
 [^fnExprBrisa]: Para o caso da concessão BRISA, consultar o [Decreto-Lei n.º 294/97](http://data.dre.pt/eli/dec-lei/294/1997/10/24/p/dre/pt/html) - Anexo Base IV "Natureza dos bens que integram a concessão"
 
-É absolutamente impensável a existência no futuro de um provimento totalmente privado de autoestradas quer porque a aquisição de terrenos de acordo com as regras de mercado, fora de processos de expropriação, levaria a investimentos iniciais ainda mais elevados quer porque a natural exiguidade dos corredores de território disponível levaria à impossibilidade do surgimento de concorrentes e à formação de monopólios privados com efeitos colaterais ainda mais absurdos do que os efeitos do monopólio do Estado discutidos nesta dissertação.
+É absolutamente impensável a existência no futuro de um provimento totalmente privado de autoestradas quer porque a aquisição de terrenos de acordo com as regras de mercado, fora de processos de expropriação, levaria a investimentos iniciais ainda mais elevados quer porque a natural exiguidade dos corredores de território disponível levaria à impossibilidade do surgimento de infraestruturas concorrentes.
 
 ## O monopólio "natural" do provimento de infraestrutura rodoviária
 
-Como referido por Abel Mateus [@mateus_mateus p. 628], as economias modernas são economias mistas constituídas por uma mistura entre sector privado e sector públco, não existindo um consenso sobre a linha divisória de separação entre ambos.
-........
+Como referido por Abel Mateus, as economias modernas são economias mistas constituídas por uma mistura entre sector privado e sector públco, não existindo um consenso sobre a linha divisória de separação entre ambos.
+
+Este é aliás ainda hoje o domínio de um intenso debate político no qual os defensores de uma maior prevalência do Estado alinham com as chamadas tendências ideológicas de esquerda, enquanto que a "direita" defende a prevalência do sector privado. É hoje impensável pensar numa economia exclusivamente de sector privado ou exclusivamente de sector público [@mateus_mateus pp. 628-629].
+
+Desde o final da Segunda Guerra nos anos de 1940 que tem existido um peso crescente das despesas totais do Estado, o que tem introduzido no debate político contemporâneo a ideia de, em certos países, ter-se ultrapassado um limite razoável ao crescimento do sector público.
+
+Esta noção conduz parte da opinião pública a ser favorável	à diminuição desse peso do Estado. Os momentos de crise económica sentidos desde 2009, na qual o nosso país esteve envolvido de forma destacada, certamente terão agudizado esta percepção.
+
+Todavia esta preocupação, saudável, com as contas do Estado não pode desviar a atenção que, por outro lado, o público tem vindo a adquirir nas últimas décadas sobre a necessidade do Estado intervir para corrigir múltiplas situações ditas de *falência do mercado* quer na provisão de bens públicos quer na correcção de externalidades negativas. Ref bib mateus
+
+Apesar de, tanto quanto aqui nos interessa e como já vimos, as infraestruturas rodoviárias acabarem por não encaixar na definição de bens públicos puros, o caso do provimento de infraestruturas rodoviárias que nos preocupa nesta dissertação encaixa neste papel interventor do Estado em dois aspectos:
+
+- a provisão de bens:
+	- a disponibilidade de solo na forma de corredores viários é muito escassa, de tal forma que a existência duma oferta por múltiplas infraestruturas competidoras entre si, em mercado aberto, pela mesma procura é obviamente impossível [^fnProvCorr];
+
+- a correcção de externalidades negativas, em múltiplos aspectos, como, por exemplo:
+	- garantir condições de circulação em segurança;
+	- evitar a congestão das vias;
+	- garantir que as vias existentes se adequam à sua finalidade (vias de carácter urbano com tráfego local e de baixa velocidade, vias de ligação regional com tráfego segregado não afectado pela circulação local, etc.);
+	- minimizar a poluição e a produção de gases com efeito de estufa.
+
+[^fnProvCorr]: Além do mais, a necessidade de corredores viários é naturalmente crescente perante densidades populacionais igualmente crescentes, fazendo com que compita de forma progressivamente mais intensa com outros usos do solo o que tornando o seu provimento progressivamente mais difícil.
+
+Perante estas circunstâncias, a provisão de infraestruturas rodoviárias exige uma forte e clara intervenção do Estado no seu provimento, sobrando a questão de como financiar esse provimento da forma mais eficaz e equitativa.
+
+Como já vimos, estes equipamentos tem elevados valores de investimento inicial, que dificulta o seu financiamento, sobretudo no quadro de uma necessidade política de redução da despesa do Estado.
+
+A introdução de portagens parece, para muitos, a solução de financiamento mais fácil e equitativa, ao retirar o peso dessa despesa das contas do Estado e ao fazê-la​ incidir sobre a comunidade dos utentes do equipamento
+
+
 
 ## Congestão de tráfego como rivalidade no consumo
 
