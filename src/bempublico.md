@@ -148,7 +148,7 @@ Desde o final da Segunda Guerra nos anos de 1940 que tem existido um peso cresce
 
 Esta noção conduz parte da opinião pública a ser favorável	à diminuição desse peso do Estado. Os momentos de crise económica sentidos desde 2009, na qual o nosso país esteve envolvido de forma destacada, certamente terão agudizado esta percepção.
 
-Todavia esta preocupação, saudável, com as contas do Estado não pode desviar a atenção que, por outro lado, o público tem vindo a adquirir nas últimas décadas sobre a necessidade do Estado intervir para corrigir múltiplas situações ditas de *falência do mercado* quer na provisão de bens públicos quer na correcção de externalidades negativas. Ref bib mateus
+Todavia esta preocupação, saudável, com as contas do Estado não pode desviar a atenção que, por outro lado, o público tem vindo a adquirir nas últimas décadas sobre a necessidade do Estado intervir para corrigir múltiplas situações ditas de *falência do mercado* quer na provisão de bens públicos quer na correcção de externalidades negativas [@mateus_mateus pp. 601 e seguintes].
 
 Apesar de, tanto quanto aqui nos interessa e como já vimos, as infraestruturas rodoviárias acabarem por não encaixar na definição de bens públicos puros, o caso do provimento de infraestruturas rodoviárias que nos preocupa nesta dissertação encaixa neste papel interventor do Estado em dois aspectos:
 
