@@ -114,7 +114,7 @@ Dado o fenómeno recente do crescimento da procura do nosso país por elevado n�
 
 # A infraestrutura rodoviária como bem público
 
-Ao promover a construção de uma autoestrada está o governo de um país a prover um bem público ao conjunto dos seus cidadãos? A teoria económica define duas propriedades que são fundamentais na definição e entendimento do que é um bem público [@mateus_mateus]:
+Ao promover a construção de uma autoestrada está o governo de um país a prover um bem público ao conjunto dos seus cidadãos? A teoria económica define duas propriedades que são fundamentais na definição e entendimento do que é um bem público [@mateus_mateus p. 634]:
 
 - **não-exclusão**: o bem público não pode ser excluído a um indivíduo que não o pague, ao contrário do bem privado, cujo consumo é exclusivo de quem se dispõe a pagar o respectivo preço
 
@@ -130,23 +130,23 @@ Então, sendo assim, a estrada portajada é efectivamente um bem *rival* e um be
 
 Qual o real papel das empresas privadas nos empreendimentos PPPR? Na verdade, estas empresas são apenas concessionários: durante um período de 20 ou 30 anos, as empresas envolvidas prestam um leque de serviços, que inclui adiantar ao Estado, a troco de juros, a enorme soma de dinheiro do investimento inicial, necessária à construção e equipamento da infraestrutura de forma a que possa ser vir a ser posta ao serviço dos condutores e seus veículos. Mais tarde, com a obra concluída, prestam serviços de manutenção: ajuda aos condutores, limpeza, reparações de pavimento e sinalização, etc.
 
-No final da concessão tudo o que foi construído reverte para o Estado. Algo muito importante e essencial em tudo isto: os terrenos sobre os quais a infraestrutura foi construída, são expropriados pelo concessionário em nome do Estado, sendo-lhes permitido recorrer aos mecanismos de expropriação que o próprio Estado possuí para retirar a posse de terrenos privados aos respectivos proprietários, em nome do superior interesse público. Existem assim disposições legais que asseguram ao Estado a possibilidade de ele tomar posse de todas as terras privadas necessárias à construção de uma infraestrutura desde que compense os antigos proprietários por um valor justo definido de forma arbitral, fora de regras de mercado. Os contratos de concessão dão a possibilidade ao concessionário de se substituir ao Estado neste processo de expropriação.
+No final da concessão tudo o que foi construído reverte para o Estado. Algo muito importante e essencial em tudo isto: os terrenos sobre os quais a infraestrutura foi construída, são expropriados pelo concessionário em nome do Estado, sendo-lhes permitido recorrer aos mecanismos de expropriação que o próprio Estado possuí para retirar a posse de terrenos privados aos respectivos proprietários, em nome do superior interesse público. Existem assim disposições legais que asseguram ao Estado a possibilidade de este tomar posse de todas as terras privadas necessárias à construção de uma infraestrutura, desde que compense os antigos proprietários por um valor justo definido de forma arbitral, fora de regras de mercado [@expropriacao]. Os contratos de concessão dão a possibilidade ao concessionário de se substituir ao Estado neste processo de expropriação.
 
-A posse das parcelas de terreno que suportam a infraestrutura é do Estado [^fnExprBrisa] ou reverterá para o Estado no fim dos contratos. Esta é uma garantia básica que a globalidade da infraestrutura construída é, no essencial, pública, independentemente de quaisquer outros arranjos e negociações com privados que possam ser postas em prática para que tudo esteja pronto a ser disponibilizado ao público consumidor.
+A posse das parcelas de terreno que suportam a infraestrutura é do Estado [^fnExprBrisa] ou, no máximo, reverterá para o Estado no fim dos contratos. Esta é uma garantia básica que a globalidade da infraestrutura construída é, no essencial, pública, independentemente de quaisquer outros arranjos e negociações com privados que possam ser postas em prática para que tudo esteja pronto a ser disponibilizado ao público consumidor.
 
 [^fnExprBrisa]: Para o caso da concessão BRISA, consultar o [Decreto-Lei n.º 294/97](http://data.dre.pt/eli/dec-lei/294/1997/10/24/p/dre/pt/html) - Anexo Base IV "Natureza dos bens que integram a concessão"
 
-É absolutamente impensável a existência no futuro de um provimento totalmente privado de autoestradas quer porque a aquisição de terrenos de acordo com as regras de mercado, fora de processos de expropriação, levaria a investimentos iniciais ainda mais elevados quer porque a natural exiguidade dos corredores de território disponível levaria à impossibilidade do surgimento de infraestruturas concorrentes.
+É absolutamente impensável a existência, no futuro, de um provimento totalmente privado de autoestradas quer porque a aquisição de terrenos de acordo com as regras de mercado, fora de processos de expropriação, levaria a investimentos iniciais ainda mais elevados quer porque a natural exiguidade dos corredores de território disponível levaria à impossibilidade do surgimento de infraestruturas concorrentes.
 
 ## O monopólio "natural" do provimento de infraestrutura rodoviária
 
 Como referido por Abel Mateus, as economias modernas são economias mistas constituídas por uma mistura entre sector privado e sector públco, não existindo um consenso sobre a linha divisória de separação entre ambos.
 
-Este é aliás ainda hoje o domínio de um intenso debate político no qual os defensores de uma maior prevalência do Estado alinham com as chamadas tendências ideológicas de esquerda, enquanto que a "direita" defende a prevalência do sector privado. É hoje impensável pensar numa economia exclusivamente de sector privado ou exclusivamente de sector público [@mateus_mateus pp. 628-629].
+Este é, ainda hoje, o domínio de um intenso debate político no qual os defensores de uma maior prevalência do Estado alinham com as chamadas tendências ideológicas de esquerda, enquanto que a "direita" defende a prevalência do sector privado. É hoje impensável pensar numa economia exclusivamente de sector privado ou exclusivamente de sector público [@mateus_mateus pp. 628-629].
 
 Desde o final da Segunda Guerra nos anos de 1940 que tem existido um peso crescente das despesas totais do Estado, o que tem introduzido no debate político contemporâneo a ideia de, em certos países, ter-se ultrapassado um limite razoável ao crescimento do sector público.
 
-Esta noção conduz parte da opinião pública a ser favorável	à diminuição desse peso do Estado. Os momentos de crise económica sentidos desde 2009, na qual o nosso país esteve envolvido de forma destacada, certamente terão agudizado esta percepção.
+Esta noção conduz parte da opinião pública a ser favorável à diminuição desse peso do Estado. Os momentos de crise económica sentidos desde 2009, na qual o nosso país esteve envolvido de forma destacada, certamente terão agudizado esta percepção.
 
 Todavia esta preocupação, saudável, com as contas do Estado não pode desviar a atenção que, por outro lado, o público tem vindo a adquirir nas últimas décadas sobre a necessidade do Estado intervir para corrigir múltiplas situações ditas de *falência do mercado* quer na provisão de bens públicos quer na correcção de externalidades negativas [@mateus_mateus pp. 601 e seguintes].
 
@@ -167,25 +167,25 @@ Perante estas circunstâncias, a provisão de infraestruturas rodoviárias exige
 
 Como já vimos, estes equipamentos tem elevados valores de investimento inicial, que dificulta o seu financiamento, sobretudo no quadro de uma necessidade política de redução da despesa do Estado.
 
-A introdução de portagens parece, para muitos, a solução de financiamento mais fácil e equitativa, ao retirar o peso dessa despesa das contas do Estado e ao fazê-la​ incidir sobre a comunidade dos utentes do equipamento
+A introdução de portagens parece, para muitos, a solução de financiamento mais fácil e equitativa, ao retirar o peso dessa despesa das contas do Estado e ao fazê-la​ incidir sobre a comunidade dos utentes do equipamento.
 
+Nesta perspectiva redutora falta contabilizar algo de muito importante: as referidas externalidades, das quais se destaca a  congestão rodoviária. Ao penalizar o atravessamento duma autoestrada, sujeitando os respectivos utentes ao pagamento de uma portagem, certamente uma parte do tráfego que poderia atravessar a autoestrada vai acumular-se em estradas alternativas, provocando o seu congestionamento.
 
+Apesar de a administração destas estradas ser, na sua maioria, responsabilidade dos municípios, o Estado é igualmente o último responsável pela oferta de infraestrutura, quer se trate de autoestradas ou outras estradas de categoria inferior. Assim, se conseguirmos atribuir um custo a esta congestão, com a introdução de portagens o Estado está a impor simultâneamente dois custos aos cidadãos: a portagem e a congestão das vias alternativas. No fundo, ao introduzir a limitação que a portagem constitui, o Estado está a falhar ou recuar na missão de prover infraestrutura rodoviária.
 
 ## Congestão de tráfego como rivalidade no consumo
 
 No tempo, cada vez mais longínquo, em que a posse de um automóvel, como bem pessoal ou familiar correspondia à aquisição de um bem de luxo, ao alcance de um número reduzido de famílias, a congestão das vias era uma situação pontual, decorrente de situações acidentais ou da impreparação da sociedade para conviver ocasionalmente com o automóvel.
 
-Neste estado de coisas, nessas épocas, claramente a parca infraestrutura rodoviária disponível correspondia a bens não-rivais e não-exclusivos: não existiam restrições sistemáticas à circulação e, portanto, não fazia qualquer sentido estar a estabelecer limitações. De igual forma não existia despesa substancial em novas infraestruturas, pelo que não haveria necessidade de colectar taxas especificas para as cobrir.
-
-Contudo, a cobrança de portagens tinha ampla aplicação: as entradas na cidade do Porto, por exemplo, foram portajadas até à década de 1940. A intenção deste tipo de portagem não tinha nada a ver com condições de circulação automóvel, tinha como objectivo impor taxas municipais às mercadorias que entrassem na cidade.
+Neste estado de coisas, nessas épocas, claramente a parca infraestrutura rodoviária disponível correspondia a bens não-rivais e não-exclusivos: não existiam externalidades negativas importantes nem quaisquer restrições sistemáticas à circulação e, portanto, não fazia qualquer sentido estar a estabelecer qualquer tipo de limitações. De igual forma não existia despesa substancial em novas infraestruturas, pelo que não haveria necessidade de colectar taxas especificas para as cobrir.
 
 Portugal foi um dos primeiros países do mundo a ter a sua própria autoestrada em 1944: um curto troço entre Lisboa e o estádio nacional do Jamor, que demorou quase outros 15 anos a ser acompanhado de outros troços. Era uma via largamente desimpedida e claramente *não-rival*.
 
-Hoje, dado o elevado número de mais de 5 milhões (5 milhões só de veículos ligeiros) em circulação no nosso país, é muito fácil ocorrerem situações de congestão, especialmente tendo em conta a forma muito desequilibrada como a nossa população se distribui, em maior quantidade junto das grandes cidades e do litoral do país.
+Hoje, dado o elevado número de mais de 5 milhões (só de veículos ligeiros) em circulação no nosso país, é muito fácil ocorrerem situações de congestão, especialmente tendo em conta a forma muito desequilibrada como a nossa população se distribui, em maior quantidade junto das grandes cidades e do litoral do país.
 
 Apesar do intenso programa de desenvolvimento de autoestradas e do restante plano rodoviário nacional, existem troços de estrada nacional em áreas críticas, com apenas duas faixas de rodagem sujeitos a volumes de tráfego muito elevados da ordem dos 40000 veículos/dia TMDA e superiores. Em alguns destes troços, a elevada procura local soma-se a tráfego evadido das autoestradas próximas em resultado da inconveniência da cobrança de portagens.
 
-De igual forma, a circulação em volta e junto das duas grandes cidades apresenta fenómenos de absoluta saturação: volumes de tráfego TMDA superiores a 150000 veículos (além do já referido caso da Ponte 25 de Abril, o mesmo acontece na Autoestrada do Estoril A5 em Lisboa e na VCI, via de circulação à cidade do Porto). Dentro destas cidades são muito frequentes os episódio de bloqueio de algumas vias principais em hora de ponta, devido a acidentes ou à mera saturação.
+De igual forma, a circulação em volta e junto das duas grandes cidades apresenta fenómenos de absoluta saturação: volumes de tráfego TMDA superiores a 150000 veículos (além do já referido caso da Ponte 25 de Abril, o mesmo acontece na Autoestrada do Estoril A5 em Lisboa e na VCI, via de circulação à cidade do Porto). Dentro destas cidades são muito frequentes os episódios de bloqueio de algumas vias principais em hora de ponta, devido a acidentes ou à mera saturação.
 
 Este estado de coisas coloca-nos perante uma situação nova: a congestão além de ser um factor de rivalidade no acesso à infraestrutura rodoviária, pode atingir um nível tal que passa a exigir medidas de exclusão para literalmente estancar, de forma sistemática e repetida, o acesso de um número de veículos que teima em se tornar excessivamente elevado.
 
