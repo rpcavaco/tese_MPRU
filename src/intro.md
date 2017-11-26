@@ -1,5 +1,17 @@
 
-# Resumo
+\begin{aquote}{David M. Newbery}
+*If road users paid the true social cost of transport, perhaps urban geography, commuting patterns, and even the sizes of towns would be radically different from the present*
+\end{aquote}
+
+\pagenumbering{roman}
+
+\renewcommand\contentsname{}
+\tableofcontents
+
+\addtocontents{toc}{~\hfill\textbf{Página}\par}
+
+
+\chapter*{Resumo}
 
 Portugal foi sujeito, até ao final do século XX, a um défice crónico de infraestruturas, nomeadamente de transporte. No dealbar do século XXI, sucessivos governos colocaram em marcha um programa muito ambicioso de construção rodoviária, com recurso a entidades privadas, que implicou investimentos de montante elevado, suportado em crédito. Uma pressão política inexorável, interna e externa, no final da década de 2010 forçou a redução do elevado grau de endividamento da República. Neste processo, o Estado promoveu fortemente a redução de todo o tipo de encargos e a obtenção de fontes de receita adicional. Como aquele programa de construção rodoviária tinha (e tem) um peso importante no dito endividamento, por decisão política, promoveu-se a taxação geral, via portagens, de todos os troços de autoestrada. Alguns troços tinham sido disponibilizados em acesso livre e grátis, essa situação foi alterada não restando hoje nenhuma ligação de autoestrada que não seja portajada.
 A aplicação do chamado "princípio do utilizador-pagador" orienta politicamente estas decisões. Segundo este, os serviços e bens públicos devem ser financiados essencialmente por quem os realmente utiliza / consome. Este princípio parece gozar de aceitação significativa na sociedade portuguesa. Assim a introdução de portagens ocorreu apenas sob o protesto local das populações das áreas de influência mais atingidas pela medida.
@@ -8,11 +20,12 @@ Esta atitude da governação está em linha com a tendência de privatização s
 
 Esta dissertação pretende contribuir para este debate com o ensaio de metodologias de contabilização de externalidades decorrentes da introdução de portagens, e de análise de custos e benefícios específicas para o âmbito rodoviário que ajudem a demonstrar como, de forma global, todos nós ficamos a perder com a situação presente da aplicação de portagens.
 
-
-
 **Palavras-chave**: Autoestrada, portagem, benefício social líquido, custos de congestão
 
-## Abstract
+
+
+
+\section*{Abstract}
 
 Up to late XX^th^ century, Portugal lagged behind most european counterparts in road infraestructure. An ambitious plan of investment with private-public credit-funded partnerships was put in place. At the end of 2010 decade, the Republic's debt was internationally considered excessive, internal and external political pressure forced it to be reduced. Government pursued overall relaxation of State costs and the maximizing of additional revenue sources. An important part of public debt originated from the road infraestruture programme, the government decided that additional revenue should come from tolling. In the first years of the programme, several new highway routes were free from tolls. After this decision no toll-free highway routes were left. This change was faced with mild opposition from public, only locally affected social groups organized some protests, of little impact.
 As the general tolling scheme was imposed immediately highway demand fell sharply. Before this, when free highways were available , alternative roads were freed from previous traffic congestion and were handed from central government administration to municipalities, who implemented changes like new pavements and traffic calming measures, making them even less appropriate for medium or long distance road journeys. When the all-tolling scheme started, part of the highway-going traffic returned back to these alternative roads, restoring the previous congestion levels on an even less favourable environment, for exemaple, forcing even slower average speeds than before.
@@ -25,12 +38,15 @@ This dissertation tries to contribute to this debate by essaying analysis and va
 
 \onehalfspacing
 
+
 # Introdução
 
 O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha *circa* 1992 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. A intenção dos promotores políticos destas iniciativas era conseguir, em prazo curto, vencer a significativa desvantagem do país, face aos parceiros europeus, em infraestruturas de transporte. A aplicação do modelo PPP aos projectos rodoviários, ao permitir ultrapassar certas limitações à despesa de um estado significativamente endividado, surgiu como única possibilidade de resolver este problema. Na implementação de PPPR destacam-se, a partir de 1997, as chamadas SCUT, autoestradas sem custos directos para o utente, cujo acesso livre poderia contribuir para diminuir as marcantes assimetrias socioeconómicas das regiões interiores do país. A perspectiva positiva deste acesso livre foi ensombrecida quando, a partir de 2006, entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um crescente distanciamento entre custos previstos e custos efectivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos e a atenção pública focada no descontrole da despesa em PPPR os executivos em funções em 2010 e 2011 cancelaram o acesso livre nos troços SCUT com a introdução de portagens. De imediato, em determinados troços, a procura caiu duma forma expressiva, ficando mesmo abaixo dos limites técnicos de referência que justificam a criação de autoestradas, ameaçando quer o objectivo da própria colecta de receitas quer o efeito socioeconómico positivo que se pretendia provocar. Esta atitude do poder político revela uma visão estreita apenas preocupada com "fluxos de caixa" e que despreza quer os benefícios da existência de autoestradas quer os custos de congestão e sobre-ocupação das vias alternativas causados por haver exclusão do acesso à autoestrada de todos aqueles que não estiverem dispostos a pagar a respectiva taxa de portagem.
 
 Começaremos por enquadrar historicamente a situação das infraestruturas rodoviárias portuguesas. 
 
+\setcounter{page}{1}
+\pagenumbering{arabic}
 
 # Enquadramento histórico do tema
 
@@ -144,7 +160,7 @@ Contudo, Moreno calculava para a globalidade das PPPR um valor de encargos pluri
 Convém salientar, como é demosntrado mais à frente, que parte da derrapagem nos encargos do Estado no provimento de infraestrutura rodoviária vem de empreendimentos completamente fora do universo SCUT, em autoestradas que foram abertas já com cobrança de portagem como é o caso da A10 Arruda - Benavente.
 
 
-## Súbita mudança de orientação
+## Súbita mudança de orientação política
 
 Perante este cenário de fragilidade dos contratos das PPPR e perante uma degradação geral das contas do Estado, que levaria à já referida crise financeira grave, o governo português começou em 2009 a preparar a introdução de portagem em alguns dos troços de autoestrada sujeitos ao regime SCUT. Não serão alheias a estas medidas as pressões externas que se fazem sentir dos restantes países europeus para que Portugal cumprisse objectivos decorrentes do Pacto de Estabilidade e Crescimento, no qual cada estado-membro se compromete a conter o seu défice público e dívida pública dentro de limites bem definidos. Durante anos Portugal não cumpriu um ou ambos destes limites em especial o limite do défice a partir de 2001.
 

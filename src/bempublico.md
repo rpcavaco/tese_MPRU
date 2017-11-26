@@ -1,15 +1,15 @@
-# A qualidade das decisões públicas
+# A fundamentação das decisões públicas
 
-Ao analisar a história da implementação das PPPR em particular e da disponibilização de autoestradas em geral, é saliente uma precipitação e uma má qualidade gerais nos processos de tomada de decisão sobre a construção dessas infraestruturas, gritantemente manifestas em aspectos como:
+Ao analisar a história da implementação das PPPR em particular e da disponibilização de autoestradas em geral, é saliente uma precipitação e uma má fundamentação gerais nos processos de tomada de decisão sobre a construção dessas infraestruturas, gritantemente manifestas em aspectos como:
 
 - previsões de tráfego inverosímeis
 - opções injustificadas pelo "perfil de autoestrada"
 
-em que as opções, tomadas há anos, pelo "perfil de autoestrada" surgem justificadas com as referidas previsões de tráfego, que à data da decisão não eram tão nitidamente inverosímeis como são hoje. 
+em que as opções tomadas, há anos, pelo "perfil de autoestrada" surgem justificadas com previsões de tráfego que hoje sabemos estarem fora da realidade mas que, à data da decisão, não eram tão nitidamente inverosímeis como são hoje. 
 
-Este processo de decisão é completamente opaco: apesar de os contratos das PPPR estarem hoje todos disponíveis online, os estudos de base que levaram às opções de construção firmadas nesses contratos são literalmente impossíveis de encontrar. O mesmo para as concessões de autoestrada de portagem real da Brisa, extra PPPR. 
+Este processo de decisão é completamente opaco: apesar de os contratos das PPPR estarem hoje todos disponíveis online, os estudos de base que levaram às opções de construção firmadas nesses contratos são literalmente impossíveis de encontrar. O mesmo para as concessões de autoestrada de portagem real da Brisa, historicamente muito anterior ao desenho das PPPR. 
 
-Sobram apenas alguns estudos, indicadores e meros comentários na comunicação social que surgem a público por razões paralelas como a polémica em torno do Novo Aeroporto de Lisboa (NAL) ou da preparação para a construção de vias eternamente adiadas como é o caso do IC4 na Costa Vicentina. Também não existem publicadas nenhumas estimativas oficiais de custos por quilómetro de construção de rodovias, algo fundamental na hora de decidir o nível de serviço ou as características técnicas de uma ligação rodoviária a construir.
+Sobram apenas alguns estudos, indicadores e meros comentários na comunicação social que surgem a público por razões paralelas como a polémica em torno do Novo Aeroporto de Lisboa (NAL) ou da preparação para a construção de vias eternamente adiadas como é o caso do IC4 na Costa Vicentina. O autor não conseguiu encontrar publicadas nenhumas estimativas oficiais de custos por quilómetro de construção de rodovias, algo fundamental a ter em conta na decisão sobre o nível de serviço ou as características técnicas de uma ligação rodoviária a construir.
 
 ## Custos da opção pelo "perfil de autoestrada"
 
@@ -20,9 +20,9 @@ Os resultados dessa estimativa estão patentes na tabela \ref{tabcustokm}. Vemos
 - para construção com características de "IC" ou via rápida: **um milhão de euros** por km;
 - para construção com características de estrada nacional: **700 mil euros** por km.
 
-Os valores indicados são obviamente genéricos e indicativos, actualizados para 2016 seriam genericamente idênticos: 1039 e 726 mil euros, respectivamente.
+Os valores indicados são obviamente genéricos e indicativos. Actualizados para 2016 seriam genericamente idênticos: **1039** e **726** mil euros, respectivamente.
 
-Não podemos esquecer na produção deste tipo de estimativas que estes custos, além do custos de construção civil, incluem os custos de expropriação de terrenos, o que ajuda a explicar o altíssimo valor encontrada para o IC17/CRIL, que atravessa uma área densamente urbanizada em terrenos muito valorizados na capital do país, enquanto o lanço Fortunhos – VP Aguiar da A24, que atravessa paisagem com uma ocupação humana de baixa densidade, tem um valor comparativamente muito mais baixo.
+Não podemos esquecer na produção deste tipo de estimativas que estes custos, além dos custos de construção civil, incluem os custos de expropriação de terrenos, o que ajuda a explicar o altíssimo valor encontrado para o fecho do IC17/CRIL, que atravessa uma área densamente urbanizada em terrenos muito valorizados na capital do país, enquanto o lanço *Fortunhos – VP Aguiar* da A24, que atravessa paisagem com uma ocupação humana de baixa densidade, tem um valor comparativamente muito mais baixo.
 
 \begin{center}
 \begin{threeparttable}[h]
@@ -53,9 +53,9 @@ A24 – Vila Real Fortunhos – VP Aguiar     & 54                              
 \end{center}
 
 
-Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil de via rápida, perfeitamente adequado aos volumes de veículos TMDA significativamente abaixo dos 10000 veículos / dia que encontramos em muitos troços da nossa actual rede de autoestradas, representa uma despesa de construção, no mínimo, **três vezes superior** ao que seria necessário.
+Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil alternativo de via rápida, seguindo o já referido critério de valor de TMDA 10000 veículos / dia, nos troços que não cumprem esse critério representa uma despesa de construção, no mínimo, **três vezes superior** ao que seria necessário. Como já foi atrás explicado, esta condição de volume de tráfego é encontrada em vários troços na nossa actual rede de autoestradas.
 
-Este é um **aspecto muito crítico** da tomada de decisão sobre desenvolvimentos da rede de infraestruturas rodoviária. Uma decisão errada a este nível lança o país num claro desperdício financeiro que começa num investimento inicial desnecessariamente alto, com impacto nos pagamentos a efectuar por uma geração de portugueses. A necessidade do pagamento generalizado de portagens poderia ter sido contornada também se, a este nível, tivesse havido uma ponderação mais cuidada.
+Este é um **aspecto muito crítico** da tomada de decisão sobre desenvolvimentos da rede de infraestruturas rodoviária. Uma decisão errada a este nível lança o país num claro desperdício financeiro que começa num investimento inicial desnecessariamente alto, com impacto nos pagamentos a efectuar por uma geração de portugueses. Talvez a necessidade do pagamento generalizado de portagens pudesse ter sido contornada também se, a este nível, tivesse havido uma ponderação mais cuidada.
 
 Contudo esta opção relativa ao "perfil" escolhido terá, em muitos casos, assentado em previsões de tráfego as quais, supostamente, terão fornecido argumentos decisivos em favor das decisões assim tomadas.
 
@@ -78,15 +78,15 @@ Estas previsões cobriam um conjunto de cenários, quer de localização do NAL 
 
 Num cenário coincidente com a situação actual, sem NAL e sem novas travessias do Tejo, para o ano de 2032, previam-se 13624 veículos/dia TMDA. 
 
-Do ponto de vista destes resultados, próximos de 30000 veículos/dia, supondo que poderia ainda haver crescimento no futuro, a opção por um perfil de 2x3 vias estaria adequada. 
+Do ponto de vista destes resultados, próximos de 30000 veículos/dia, supondo que poderia ainda haver crescimento no futuro, a opção pelo perfil existente de 2x3 vias estaria adequada. 
 
 Duas questões graves se levantam todavia:
 
-- passados dez anos o tráfego verificado é muito inferior a 13000 -- é mesmo inferior a 6000 veículos/dia TMDA, abaixo da justificação técnica para a construção de uma autoestrada (!);
-- entre, por exemplo, 2009 e 2017 o volume de tráfego manteve-se praticamente inalterado, teria de subir sustentadamente entre 400 e 500 veículos todos os anos até 2032 para a atingir os previstos 13000 veículos / dia;
-- a zona atravessada é ambientalmente muito sensível pelo que se optou por uma construção toda em viaduto, atingindo o exorbitante custo médio de **29 milhões de euros por quilómetro** (!).
+- passados dez anos o tráfego verificado é muito inferior a 13000 -- é mesmo inferior a 6000 veículos/dia TMDA, marcadamente abaixo da justificação técnica para a construção de uma autoestrada;
+- entre, por exemplo, 2009 e 2017 o volume de tráfego manteve-se praticamente inalterado; no entanto, teria de subir sustentadamente entre 400 e 500 veículos todos os anos até 2032 para a atingir os previstos 13000 veículos / dia;
+- a zona atravessada é ambientalmente muito sensível pelo que se optou por uma construção toda em viaduto, atingindo o altíssimo custo médio de **29 milhões de euros por quilómetro**.
 
-Para o reduzido baixo tráfego certamente concorrerá também a imposição de uma taxa de portagem de cerca de €1,5, apesar de aproximadamente em linha com a aplicação da tarifa legal de referência com o valor de €0,098/km.
+Para o reduzido baixo tráfego certamente concorrerá também a imposição de uma taxa de portagem de cerca de €1,5, apesar de, aproximadamente, estar em linha com a aplicação da tarifa legal de referência com o valor de €0,098/km.
 
 A opção tomada e as projecções de tráfego são ainda mais incompreensíveis se repararmos que esta obra entra em concorrência directa com outras **três** travessias do Tejo, duas das quais sem portagem:
 
@@ -120,24 +120,27 @@ Ao promover a construção de uma autoestrada está o governo de um país a prov
 
 - **não-rivalidade** (ou *não-exaustão*): o consumo do bem por um indivíduo não evita ou diminui o consumo do mesmo bem por outra pessoa
 
-Um indivíduo não pode ser excluído do acesso a um bem público como a defesa ou a mitigação dos efeitos de uma catástrofe natural por não pagar um determinado preço, por isso falamos de não-exclusão neste tipo de bens. De igual forma a não-exaustão também se aplica: mais um carro a passar numa infraestrutura não impede a passagem de outros carros.
+Um indivíduo não pode ser excluído do acesso a um bem público como a defesa ou a mitigação dos efeitos de uma catástrofe natural por não pagar um determinado preço, por isso falamos de *não-exclusão* neste tipo de bens. De igual forma a *não-exaustão* também se aplica: em princípio e em condições ditas "normais", diriamos que mais um carro a passar numa infraestrutura não impediria a passagem de outros carros.
 
-Será mesmo assim? Depende, no caso das infraestruturas rodoviárias a *não-rivalidade* depende do estado de congestão do tráfego que a atravessa. Se o grau de congestão for elevado, um número elevado de veículos que se encontram a "consumir" o bem infraestrutura, atravessando-o, vão colocando entraves ao consumo por outros veículos adicionais, de forma crescente até se formar um engarrafamento e o fluxo de tráfego parar por bons minutos ou horas, durante as quais a velocidade efectiva de deslocação pode ser inferior ao andar a pé. Neste caso, o bem não estará efectivamente a ser consumido, uma vez que cada consumidor não consegue realmente tirar o benefício esperado: deslocar-se como seria suposto.
+Será mesmo assim? No caso das infraestruturas rodoviárias a *não-rivalidade* depende do estado de congestão do tráfego que a atravessa. Se o grau de congestão for elevado, um número elevado de veículos que se encontram a "consumir" o bem infraestrutura, atravessando-o, vão colocando entraves ao consumo por outros veículos adicionais, de forma crescente até se formar um engarrafamento e o fluxo de tráfego parar por bons minutos ou horas, durante as quais a velocidade efectiva de deslocação pode ser inferior ao andar a pé. Neste caso, o bem não estará efectivamente a ser consumido, uma vez que cada consumidor não consegue realmente tirar o benefício esperado: deslocar-se.
 
 O tema desta dissertação envolve autoestradas sujeitas a pagamento de portagem. O pagamento de uma taxa de portagem corresponde ao pagamento de um preço pelo atravessamento da infraestrutura, pelo seu "consumo".
 
-Então, sendo assim, a estrada portajada é efectivamente um bem *rival* e um bem *exclusivo*. Porquê então continuarmos a dizer que é um bem público? Porque circunstâncias específicas levam a que deva ser provido pelo Estado.
+Então, sendo assim, a estrada portajada é efectivamente um bem *rival* e um bem *exclusivo*. Porquê então continuarmos a dizer que é um bem público? Porque circunstâncias específicas levam a que deva ser provido pelo Estado, mesmo que nesse provimento estejam envolvidas entidades privadas.
 
-Mas então, qual o papel das empresas privadas nos empreendimentos PPPR? Na verdade, estas empresas são apenas concessionários: durante um período de 20 ou 30 anos, as empresas envolvidas prestam um leque de serviços, que inclui adiantar ao Estado, a troco de juros, a enorme soma de dinheiro do investimento inicial, necessária à construção e equipamento da infraestrutura de forma a que possa ser vir a ser posta ao serviço dos condutores e seus veículos. Mais tarde, com a obra concluída, prestam serviços de manutenção: ajuda aos condutores, limpeza, reparações de pavimento e sinalização, etc.
+Qual o real papel das empresas privadas nos empreendimentos PPPR? Na verdade, estas empresas são apenas concessionários: durante um período de 20 ou 30 anos, as empresas envolvidas prestam um leque de serviços, que inclui adiantar ao Estado, a troco de juros, a enorme soma de dinheiro do investimento inicial, necessária à construção e equipamento da infraestrutura de forma a que possa ser vir a ser posta ao serviço dos condutores e seus veículos. Mais tarde, com a obra concluída, prestam serviços de manutenção: ajuda aos condutores, limpeza, reparações de pavimento e sinalização, etc.
 
-No final da concessão tudo o que foi construído reverte para o Estado. Algo muito importante e essencial em tudo isto: os terrenos sobre os quais a infraestrutura foi construída, são expropriados pelo concessionário em nome do Estado, sendo-lhes permitido recorrer aos mecanismos de expropriação que  o próprio Estado possuí para retirar a posse de terrenos privados aos respectivos proprietários, em nome do superior interesse público. Existem assim disposições legais que asseguram ao Estado a possibilidade de ele tomar posse de todas as terras privadas necessárias à construção de uma infraestrutura desde que compense os antigos proprietários por um valor justo definido de forma arbitral, fora de regras de mercado. Os contratos de concessão dão a possibilidade ao concessionário de se substituir ao Estado neste processo de expropriação.
+No final da concessão tudo o que foi construído reverte para o Estado. Algo muito importante e essencial em tudo isto: os terrenos sobre os quais a infraestrutura foi construída, são expropriados pelo concessionário em nome do Estado, sendo-lhes permitido recorrer aos mecanismos de expropriação que o próprio Estado possuí para retirar a posse de terrenos privados aos respectivos proprietários, em nome do superior interesse público. Existem assim disposições legais que asseguram ao Estado a possibilidade de ele tomar posse de todas as terras privadas necessárias à construção de uma infraestrutura desde que compense os antigos proprietários por um valor justo definido de forma arbitral, fora de regras de mercado. Os contratos de concessão dão a possibilidade ao concessionário de se substituir ao Estado neste processo de expropriação.
 
-Esta posse das parcelas de terreno que suportam a infraestrutura e que obrigatoriamente reverterão para o Estado no fim dos contratos é a garantia básica que a globalidade da infraestrutura construída é, no essencial, pública, independentemente de quaisquer outros arranjos e negociações com privados que possam ser postas em prática para que tudo esteja pronto a ser disponibilizado ao público consumidor.
+A posse das parcelas de terreno que suportam a infraestrutura é do Estado [^fnExprBrisa] ou reverterá para o Estado no fim dos contratos. Esta é uma garantia básica que a globalidade da infraestrutura construída é, no essencial, pública, independentemente de quaisquer outros arranjos e negociações com privados que possam ser postas em prática para que tudo esteja pronto a ser disponibilizado ao público consumidor.
+
+[^fnExprBrisa]: Para o caso da concessão BRISA, consultar o [Decreto-Lei n.º 294/97](http://data.dre.pt/eli/dec-lei/294/1997/10/24/p/dre/pt/html) - Anexo Base IV "Natureza dos bens que integram a concessão"
 
 É absolutamente impensável a existência no futuro de um provimento totalmente privado de autoestradas quer porque a aquisição de terrenos de acordo com as regras de mercado, fora de processos de expropriação, levaria a investimentos iniciais ainda mais elevados quer porque a natural exiguidade dos corredores de território disponível levaria à impossibilidade do surgimento de concorrentes e à formação de monopólios privados com efeitos colaterais ainda mais absurdos do que os efeitos do monopólio do Estado discutidos nesta dissertação.
 
 ## O monopólio "natural" do provimento de infraestrutura rodoviária
 
+Como referido por Abel Mateus [@mateus_mateus p. 628], as economias modernas são economias mistas constituídas por uma mistura entre sector privado e sector públco, não existindo um consenso sobre a linha divisória de separação entre ambos.
 ........
 
 ## Congestão de tráfego como rivalidade no consumo

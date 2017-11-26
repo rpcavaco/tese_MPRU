@@ -31,16 +31,17 @@
 \usepackage{xcolor}
 \let\oldquote=\quote
 \let\endoldquote=\endquote
-\colorlet{shadecolor}{orange!15}
+\colorlet{shadecolor}{gray!10}
 \renewenvironment{quote}{\begin{shaded*}\begin{oldquote}}{\end{oldquote}\end{shaded*}}
 % -------------------------
 
 % titlesec permite formatar o heading de 'chapter'
 \usepackage{titlesec}
+%\usepackage{titletoc}
 
 % comando de titlesec para formatar o título de capítulo - remove 0 zero
-% \titleformat{\chapter}{\normalfont\sffamily\huge}{\thechapter.}{22pt}{\normalfont\sffamily\huge}
-\titleformat{\chapter}{\normalfont\sffamily\huge}{\ifnum\thechapter>0 \thechapter.\fi}{6pt}{\normalfont\sffamily\huge}
+\titleformat{\chapter}{\normalfont\sffamily\huge}{\thechapter.}{22pt}{\normalfont\sffamily\huge}
+% \titleformat{\chapter}{\normalfont\sffamily\huge}{\ifnum\thechapter>0 \thechapter.\fi}{6pt}{\normalfont\sffamily\huge}
 
 % fontspec é necessário para alterar fontes com o XELATEX engine
 \usepackage{fontspec}
@@ -74,7 +75,7 @@
 
 
 % Prefácio é capitulo zero
-\setcounter{chapter}{-1}
+% \setcounter{chapter}{-1}
 
 \hypersetup{colorlinks=false,
             allbordercolors={0 0 0},
@@ -85,5 +86,14 @@
 % %\maketitle
 % %$endif$
 
+
+\def\signed #1{{\leavevmode\unskip\nobreak\hfil\penalty50\hskip2em
+  \hbox{}\nobreak\hfil(#1)%
+  \parfillskip=0pt \finalhyphendemerits=0 \endgraf}}
+
+\newsavebox\mybox
+\newenvironment{aquote}[1]
+  {\savebox\mybox{#1}\begin{quote}}
+  {\signed{\usebox\mybox}\end{quote}}
 
 
