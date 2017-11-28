@@ -173,7 +173,7 @@ Nesta perspectiva redutora falta contabilizar algo de muito importante: as refer
 
 Apesar de a administração destas estradas ser, na sua maioria, responsabilidade dos municípios, o Estado é igualmente o último responsável pela oferta geral de infraestrutura, quer se trate de autoestradas ou outras estradas de categoria inferior. Assim, tendo a noção da existência de custos atribuíveis à congestão, com a introdução de portagens o Estado está a impor simultâneamente duas penalidades aos cidadãos: o custo da portagem e a penalidade correspondente à introdução ou aumento da congestão nas vias alternativas. No fundo, ao introduzir a limitação que a portagem constitui, o Estado só não falhará na missão de prover infraestrutura rodoviária se existirem vias alternativas não portajadas isentas de congestão.
 
-## Congestão de tráfego como rivalidade no consumo: cobrar o preço
+## Congestão de tráfego: rivalidade no consumo e a necessidade de cobrar um preço
 
 No tempo, cada vez mais longínquo, em que a posse de um automóvel, como bem pessoal ou familiar correspondia à aquisição de um bem de luxo, ao alcance de um número reduzido de famílias, a congestão das vias era uma situação pontual, decorrente de situações acidentais ou da impreparação da sociedade para conviver ocasionalmente com o automóvel.
 
@@ -197,13 +197,13 @@ A microeconomia tem uma resposta pronta para esta situação: nas situações de
 
 Antes de avançarmos, tentemos analisar um pouco melhor a forma como os impedimentos à normal circulação se formam com o crescente aumento da procura.
 
-[Gráfico]
+![Relação entre velocidade e fluxo de tráfego\label{fluxovel}](../src/images/fluxo_vs_velocidade.png){ width=300px height=300px }
 
-Reproduzido em Newbery, vemos um gráfico produzido num detalhado estudo de tráfego realizado na década de 1980 em Hong Kong que nos mostra a relação entre a velocidade média dos veículos e o fluxo ou volume de tráfego comportado por uma via.
+Reproduzido em Newbery [@newbery1990], vemos um gráfico (na figura \ref{fluxovel}) produzido num detalhado estudo de tráfego realizado na década de 1980 em Hong Kong que nos mostra a relação entre a velocidade média dos veículos e o fluxo ou volume de tráfego comportado por uma via.
 
-Quando a procura pela via é ainda baixa, por exemplo fora de hora de ponta -- de madrugada, a velocidade verificada poderá estar próxima do máximo permitido. Isso corresponde ao início da curva, ao alto à esquerda do gráfico. 
-À medida que a procura aumenta, o fluxo aumenta correspondentemente. Perante a ocupação da via por um número crescente de veículos não só o espaço disponível para cada veículo diminui como também, com frequência crescente,os veículos circulando a maior velocidade são barrados pelos que circulam mais lentamente, obrigando-os a efectuar ultrapassagens. O efeito conjugado de ambas as situações provoca uma diminuição geral da velocidade de circulação, correspondente à parte da curva, no cimo do gráfico, que desce ao mover-mo-nos da esquerda para a direita.
-Se a procura continuar a subir, as condições descritas agravam-se. Perante o atingir de um limite físico relacionado com as características físicas da via, a velocidade média continua a diminuir e, agora,o próprio volume de tráfego começa também a diminuir, uma vez que à baixa velocidade média atingida correspondem tempos de deslocação elevados: o ritmo de saída de veículos não compensa o ritmo da entrada e os veículos acumulam-se crescentemente num espaço disponível cada vez mais exíguo. Esta é a situação correspondente ao extremo inferior da curva do gráfico.
+Quando a procura pela via é ainda baixa, por exemplo fora de hora de ponta -- de madrugada, a velocidade verificada poderá estar próxima do máximo permitido. Isso corresponde ao início da curva, ao alto à esquerda do gráfico (A). 
+À medida que a procura aumenta, o fluxo aumenta correspondentemente. Perante a ocupação da via por um número crescente de veículos não só o espaço disponível para cada veículo diminui como também, com frequência crescente,os veículos circulando a maior velocidade são barrados pelos que circulam mais lentamente, obrigando-os a efectuar ultrapassagens. O efeito conjugado de ambas as situações provoca uma diminuição geral da velocidade de circulação, correspondente à parte da curva, no cimo do gráfico, que desce ao mover-mo-nos da esquerda para a direita (B).
+Se a procura continuar a subir, as condições descritas agravam-se. Perante o atingir de um limite físico relacionado com as características físicas da via (C), a velocidade média continua a diminuir e, agora,o próprio volume de tráfego começa também a diminuir, uma vez que à baixa velocidade média atingida correspondem tempos de deslocação elevados: o ritmo de saída de veículos não compensa o ritmo da entrada e os veículos acumulam-se crescentemente num espaço disponível cada vez mais exíguo. Esta é a situação correspondente ao extremo inferior da curva do gráfico (D).
 
 A disponibilidade de faixas de circulação adicionais permite aumentar o valor de fluxo ou volume de tráfego máximo, fazendo com que a curva do gráfico possa aumentar para direita. Essa é muitas vezes encarada como a forma habitual de resolver problemas de congestionamento sistemático. 
 Contudo existem limites óbvios a esta solução: isso exige uma ocupação de solo adicional e, como as condições de tráfego mais intenso tendem a acontecer junto aos aglomerados populacionais mais densos, esta necessidade tem maior tendência a ocorrer onde o solo é mais caro ou já nem sequer está disponível.
@@ -212,11 +212,14 @@ Deste ponto de vista faz todo o sentido colocar um preço no consumo de infraest
 
 A forma mais directa que existe de cobrar tal preço é pela cobrança de portagem. Contudo, perante o que atrás ficou dito, a cobrança de portagens nas autoestradas é, na verdade, **profundamente contraproducente** ao colocar um preço de circulação numa via, por natureza, **desimpedida**.
 
-(Gráfico)
-
-Anlisemos
+![Custos económicos da congestão\label{custoscong}](../src/images/custos_econ_congestao.png){ width=300px height=300px }
 
 
+Analisemos brevemente os custos económicos do congestionamento de tráfego 
 
 
-## Exclusão decorrente da rivalidade: taxar o congestionamento
+
+
+
+
+## Taxar o congestionamento *versus* cobrir os custos das autoestradas
