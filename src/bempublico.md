@@ -171,15 +171,15 @@ A introdução de portagens parece, para muitos, a solução de financiamento ma
 
 Nesta perspectiva redutora falta contabilizar algo de muito importante: as referidas externalidades, das quais se destaca a  congestão rodoviária. Ao penalizar o atravessamento duma autoestrada, sujeitando os respectivos utentes ao pagamento de uma portagem, certamente uma parte do tráfego que poderia atravessar a autoestrada vai acumular-se em estradas alternativas, provocando o seu congestionamento.
 
-Apesar de a administração destas estradas ser, na sua maioria, responsabilidade dos municípios, o Estado é igualmente o último responsável pela oferta de infraestrutura, quer se trate de autoestradas ou outras estradas de categoria inferior. Assim, se conseguirmos atribuir um custo a esta congestão, com a introdução de portagens o Estado está a impor simultâneamente dois custos aos cidadãos: a portagem e a congestão das vias alternativas. No fundo, ao introduzir a limitação que a portagem constitui, o Estado está a falhar ou recuar na missão de prover infraestrutura rodoviária.
+Apesar de a administração destas estradas ser, na sua maioria, responsabilidade dos municípios, o Estado é igualmente o último responsável pela oferta geral de infraestrutura, quer se trate de autoestradas ou outras estradas de categoria inferior. Assim, tendo a noção da existência de custos atribuíveis à congestão, com a introdução de portagens o Estado está a impor simultâneamente duas penalidades aos cidadãos: o custo da portagem e a penalidade correspondente à introdução ou aumento da congestão nas vias alternativas. No fundo, ao introduzir a limitação que a portagem constitui, o Estado só não falhará na missão de prover infraestrutura rodoviária se existirem vias alternativas não portajadas isentas de congestão.
 
-## Congestão de tráfego como rivalidade no consumo
+## Congestão de tráfego como rivalidade no consumo: cobrar o preço
 
 No tempo, cada vez mais longínquo, em que a posse de um automóvel, como bem pessoal ou familiar correspondia à aquisição de um bem de luxo, ao alcance de um número reduzido de famílias, a congestão das vias era uma situação pontual, decorrente de situações acidentais ou da impreparação da sociedade para conviver ocasionalmente com o automóvel.
 
-Neste estado de coisas, nessas épocas, claramente a parca infraestrutura rodoviária disponível correspondia a bens não-rivais e não-exclusivos: não existiam externalidades negativas importantes nem quaisquer restrições sistemáticas à circulação e, portanto, não fazia qualquer sentido estar a estabelecer qualquer tipo de limitações. De igual forma não existia despesa substancial em novas infraestruturas, pelo que não haveria necessidade de colectar taxas especificas para as cobrir.
+Nesse estado de coisas, nessas épocas, claramente a parca infraestrutura rodoviária disponível correspondia a bens não-rivais e não-exclusivos: não existiam externalidades negativas importantes nem quaisquer restrições sistemáticas à circulação e, portanto, não fazia qualquer sentido sequer pensar em estabelecer qualquer tipo de limitações. De igual forma não existia despesa substancial em novas infraestruturas, pelo que não haveria necessidade de o Estado obter receitas especificas para as cobrir.
 
-Portugal foi um dos primeiros países do mundo a ter a sua própria autoestrada em 1944: um curto troço entre Lisboa e o estádio nacional do Jamor, que demorou quase outros 15 anos a ser acompanhado de outros troços. Era uma via largamente desimpedida e claramente *não-rival*.
+Portugal foi um dos primeiros países do mundo a ter a sua própria autoestrada em 1944: um curto troço entre Lisboa e o Estádio Nacional do Jamor, que demorou quase outros 15 anos a ser acompanhado de outros troços. Era uma via largamente desimpedida e claramente *não-rival*.
 
 Hoje, dado o elevado número de mais de 5 milhões (só de veículos ligeiros) em circulação no nosso país, é muito fácil ocorrerem situações de congestão, especialmente tendo em conta a forma muito desequilibrada como a nossa população se distribui, em maior quantidade junto das grandes cidades e do litoral do país.
 
@@ -187,10 +187,36 @@ Apesar do intenso programa de desenvolvimento de autoestradas e do restante plan
 
 De igual forma, a circulação em volta e junto das duas grandes cidades apresenta fenómenos de absoluta saturação: volumes de tráfego TMDA superiores a 150000 veículos (além do já referido caso da Ponte 25 de Abril, o mesmo acontece na Autoestrada do Estoril A5 em Lisboa e na VCI, via de circulação à cidade do Porto). Dentro destas cidades são muito frequentes os episódios de bloqueio de algumas vias principais em hora de ponta, devido a acidentes ou à mera saturação.
 
-Este estado de coisas coloca-nos perante uma situação nova: a congestão além de ser um factor de rivalidade no acesso à infraestrutura rodoviária, pode atingir um nível tal que passa a exigir medidas de exclusão para literalmente estancar, de forma sistemática e repetida, o acesso de um número de veículos que teima em se tornar excessivamente elevado.
+Este estado de coisas coloca-nos perante uma situação nova: a congestão além de ser um factor de rivalidade no acesso à infraestrutura rodoviária, pode atingir um nível tal que exija medidas de exclusão para literalmente estancar, de forma sistemática e repetida, o acesso de um número de veículos que teima em se tornar excessivamente elevado.
 
 A necessidade destas medidas de exclusão decorre também de externalidades decorrentes do elevado número de veículos em circulação como a degradação da qualidade do ar, a elevação excessiva dos níveis de ruído ambiente, a congestão dos sistemas de estacionamento automóvel nos centros urbanos e o excesso de produção de gases de estufa.
 
-As medidas de exclusão não têm de passar apenas pela colocação de um preço no acesso à infraestrutura. Em várias cidades do mundo tem vindo ao longo dos anos a ser implementados múltiplas formas de exclusão como, por exemplo, a proibição de circular veículos consoante a paridade dos números da matrícula, ou do ano de fabrico, etc. Em algumas cidades como, por exemplo, Lisboa avançou-se para a proibição total da circulação de veículos antigos sem catalisador de gases de escape.
+As medidas de exclusão não têm de passar apenas pela colocação de um preço no acesso ou uso da infraestrutura. Em várias cidades do mundo tem vindo,ao longo dos anos, a ser implementados múltiplas formas de exclusão como, por exemplo, a proibição de circular veículos consoante a paridade dos números da matrícula, ou do ano de fabrico, etc. Em algumas cidades como, por exemplo, Lisboa avançou-se para a proibição total da circulação de veículos antigos sem catalisador de gases de escape.
 
-## Exclusão decorrente da rivalidade: portajar o congestionamento
+A microeconomia tem uma resposta pronta para esta situação: nas situações de congestionamento, existe um consumo excessivo do bem infraestrutura porque  na realidade, ao consumidor ou não é cobrado qualquer tipo de preço, ou preço cobrado, na forma de portagens e outras taxas, não reflete os reais e efectivos custos da congestão rodoviária.
+
+Antes de avançarmos, tentemos analisar um pouco melhor a forma como os impedimentos à normal circulação se formam com o crescente aumento da procura.
+
+[Gráfico]
+
+Reproduzido em Newbery, vemos um gráfico produzido num detalhado estudo de tráfego realizado na década de 1980 em Hong Kong que nos mostra a relação entre a velocidade média dos veículos e o fluxo ou volume de tráfego comportado por uma via.
+
+Quando a procura pela via é ainda baixa, por exemplo fora de hora de ponta -- de madrugada, a velocidade verificada poderá estar próxima do máximo permitido. Isso corresponde ao início da curva, ao alto à esquerda do gráfico. 
+À medida que a procura aumenta, o fluxo aumenta correspondentemente. Perante a ocupação da via por um número crescente de veículos não só o espaço disponível para cada veículo diminui como também, com frequência crescente,os veículos circulando a maior velocidade são barrados pelos que circulam mais lentamente, obrigando-os a efectuar ultrapassagens. O efeito conjugado de ambas as situações provoca uma diminuição geral da velocidade de circulação, correspondente à parte da curva, no cimo do gráfico, que desce ao mover-mo-nos da esquerda para a direita.
+Se a procura continuar a subir, as condições descritas agravam-se. Perante o atingir de um limite físico relacionado com as características físicas da via, a velocidade média continua a diminuir e, agora,o próprio volume de tráfego começa também a diminuir, uma vez que à baixa velocidade média atingida correspondem tempos de deslocação elevados: o ritmo de saída de veículos não compensa o ritmo da entrada e os veículos acumulam-se crescentemente num espaço disponível cada vez mais exíguo. Esta é a situação correspondente ao extremo inferior da curva do gráfico.
+
+A disponibilidade de faixas de circulação adicionais permite aumentar o valor de fluxo ou volume de tráfego máximo, fazendo com que a curva do gráfico possa aumentar para direita. Essa é muitas vezes encarada como a forma habitual de resolver problemas de congestionamento sistemático. 
+Contudo existem limites óbvios a esta solução: isso exige uma ocupação de solo adicional e, como as condições de tráfego mais intenso tendem a acontecer junto aos aglomerados populacionais mais densos, esta necessidade tem maior tendência a ocorrer onde o solo é mais caro ou já nem sequer está disponível.
+
+Deste ponto de vista faz todo o sentido colocar um preço no consumo de infraestruturas.
+
+A forma mais directa que existe de cobrar tal preço é pela cobrança de portagem. Contudo, perante o que atrás ficou dito, a cobrança de portagens nas autoestradas é, na verdade, **profundamente contraproducente** ao colocar um preço de circulação numa via, por natureza, **desimpedida**.
+
+(Gráfico)
+
+Anlisemos
+
+
+
+
+## Exclusão decorrente da rivalidade: taxar o congestionamento
