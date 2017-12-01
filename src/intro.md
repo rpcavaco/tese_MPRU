@@ -10,7 +10,6 @@
 
 \addtocontents{toc}{~\hfill\textbf{Página}\par}
 
-
 \chapter*{Resumo}
 
 Portugal foi sujeito, até ao final do século XX, a um défice crónico de infraestruturas, nomeadamente de transporte. No dealbar do século XXI, sucessivos governos colocaram em marcha um programa muito ambicioso de construção rodoviária, com recurso a entidades privadas, que implicou investimentos de montante elevado, suportado em crédito. Uma pressão política inexorável, interna e externa, no final da década de 2010 forçou a redução do elevado grau de endividamento da República. Neste processo, o Estado promoveu fortemente a redução de todo o tipo de encargos e a obtenção de fontes de receita adicional. Como aquele programa de construção rodoviária tinha (e tem) um peso importante no dito endividamento, por decisão política, promoveu-se a taxação geral, via portagens, de todos os troços de autoestrada. Alguns troços tinham sido disponibilizados em acesso livre e grátis, essa situação foi alterada não restando hoje nenhuma ligação de autoestrada que não seja portajada.

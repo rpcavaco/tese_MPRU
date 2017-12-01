@@ -8,6 +8,7 @@ lang: pt-BR
 classoption: twoside
 fontsize: 12pt
 link-citations: true
+notes-after-punctuation: true
 
 # detalhes paginação e output
 geometry: "left=2.5cm,right=2cm,top=2cm,bottom=2.5cm"
