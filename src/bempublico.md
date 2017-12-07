@@ -237,7 +237,7 @@ Analisemos brevemente os custos económicos do congestionamento de tráfego como
 
 ![Custos económicos da congestão\label{custoscong}, fonte @mateus_mateus](../src/images/custos_econ_congestao.png){ width=300px height=300px }
 
-Como podemos ver, o fluxo ótimo (entendido como volume de tráfego medido em número de veículos por unidade de tempo) seria F\*, correspondente ao cruzamento da curva da procura com a curva do custo marginal. Este é o ponto em que o custo da entrada de um novo veículo iguala o custo social dessa mesma entrada. Contudo, na realidade, o fluxo verificado é, em regra, superior (Fa). A área sombreada do gráfico que liga os pontos A, B e C representa a *perda de bem-estar social* decorrente da utilização da estrada por Fa veículos, acima de F\*.
+Como podemos ver, o fluxo ótimo (entendido como volume de tráfego medido em número de veículos por unidade de tempo) seria F\*, correspondente ao cruzamento da curva da procura com a curva do custo marginal. Este é o ponto em que o benefício social da entrada de um novo veículo iguala o custo social dessa mesma entrada. Contudo, na realidade, o fluxo verificado é, em regra, superior (Fa). A área sombreada do gráfico que liga os pontos A, B e C representa a *perda de bem-estar social* decorrente da utilização da estrada por Fa veículos, acima de F\*.
 
 Os condutores dos veículos adicionais (correspondentes à diferença entre Fa e F\*) não têm noção do impacto efetivo da sua presença sobre os veículos F\* que já se encontram a circular. Na verdade, o custo da entrada do veículo correspondente a Fa tem um custo correspondente ao tamanho da linha Fa-A quando o benefício social dessa entrada corresponde na realidade ao comprimento Fa-B, muito menor.
 
