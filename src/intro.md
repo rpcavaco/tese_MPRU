@@ -12,7 +12,7 @@
 
 \chapter*{Resumo}
 
-Portugal foi sujeito, até ao final do século XX, a um défice crónico de infraestruturas, nomeadamente de transporte. No dealbar do século XXI, sucessivos governos colocaram em marcha um programa muito ambicioso de construção rodoviária, com recurso a entidades privadas, que implicou investimentos de montante elevado, suportado em crédito. Uma pressão política inexorável, interna e externa, no final da década de 2010 forçou a redução do elevado grau de endividamento da República. Neste processo, o Estado promoveu fortemente a redução de todo o tipo de encargos e a obtenção de fontes de receita adicional. Como aquele programa de construção rodoviária tinha (e tem) um peso importante no dito endividamento, por decisão política, promoveu-se a taxação geral, via portagens, de todos os troços de autoestrada. Alguns troços tinham sido disponibilizados em acesso livre e grátis, essa situação foi alterada não restando hoje nenhuma ligação de autoestrada que não seja portajada.
+Portugal foi sujeito, até ao final do século XX, a um défice crónico de infraestruturas, nomeadamente de transporte. No dealbar do século XXI, sucessivos governos colocaram em marcha um programa muito ambicioso de construção rodoviária, com recurso a entidades privadas, que implicou investimentos de montante elevado, suportado em crédito. Uma pressão política inexorável, interna e externa, no final da primeira década de 2000 forçou a redução do elevado grau de endividamento da República. Neste processo, o Estado promoveu fortemente a redução de todo o tipo de encargos e a obtenção de fontes de receita adicional. Como aquele programa de construção rodoviária tinha (e tem) um peso importante no dito endividamento, por decisão política, promoveu-se a taxação geral, via portagens, de todos os troços de autoestrada. Alguns troços tinham sido disponibilizados em acesso livre e grátis, essa situação foi alterada não restando hoje nenhuma ligação de autoestrada que não seja portajada.
 A aplicação do chamado "princípio do utilizador-pagador" orienta politicamente estas decisões. Segundo este, os serviços e bens públicos devem ser financiados essencialmente por quem os realmente utiliza / consome. Este princípio parece gozar de aceitação significativa na sociedade portuguesa. Assim a introdução de portagens ocorreu apenas sob o protesto local das populações das áreas de influência mais atingidas pela medida.
 De imediato, houve uma queda de procura muito sensível nas autoestradas recém-portajadas e, igualmente, foi muito sensível a degradação das condições de circulação e de segurança nos troços de "estrada nacional" alternativos. Estes troços alternativos tinham acabado de ser transferidos para a responsabilidade dos respectivos municípios que, justamente, os tinham transformado em vias urbanas, com condições de circulação e de velocidade máxima desajustadas ao tráfego de média e longa distância privilegiado pelas autoestradas.
 Esta atitude da governação está em linha com a tendência de privatização sucessiva de áreas anteriormente da responsabilidade do Estado, privatização que ocorre com a principal intenção da boa performance financeira e do equilíbrio de contas. Para fomentar a procura do privado e a clareza de contas, promove-se uma compartimentação de "áreas de negócio" para as quais se contabilizam os encargos e proveitos estritamente desse âmbito, desprezando externalidades negativas, sobretudo as mais difíceis de contabilizar. Assim a perda de utilidade social da autoestrada e a congestão dos troços alternativos por virtude da introdução de portagens são completamente desprezados. O efeito das melhorias de acessibilidade, por exemplo, nas receitas fiscais é algo considerado complexo e fora da contabilidade dos empreendimentos rodoviários. De igual forma, não é abordado o cálculo de custos de congestão nas estradas alternativas. Se o objectivo do privado é, neste caso, meramente o de fornecer um serviço bem delimitado no espaço e no tempo (projecto, financiamento, construção e operação duma autoestrada específica que no final dum certo prazo reverte para o Estado), o do Estado é, globalmente, promover o bem estar dos cidadãos. O benefício social da boa acessibilidade e o custo da congestão de vias de circulação local, por muito difíceis de contabilizar que sejam, existem. O papel do Estado é de garantir que mantém ou aumenta o benefício social líquido, não é admissível que o diminua.
@@ -40,14 +40,24 @@ This dissertation tries to contribute to this debate by essaying analysis and va
 
 # Introdução
 
-O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha *circa* 1992 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. A intenção dos promotores políticos destas iniciativas era conseguir, em prazo curto, vencer a significativa desvantagem do país, face aos parceiros europeus, em infraestruturas de transporte. A aplicação do modelo PPP aos projectos rodoviários, ao permitir ultrapassar certas limitações à despesa de um estado significativamente endividado, surgiu como única possibilidade de resolver este problema. Na implementação de PPPR destacam-se, a partir de 1997, as chamadas SCUT, autoestradas sem custos directos para o utente, cujo acesso livre poderia contribuir para diminuir as marcantes assimetrias socioeconómicas das regiões interiores do país. A perspectiva positiva deste acesso livre foi ensombrecida quando, a partir de 2006, entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um crescente distanciamento entre custos previstos e custos efectivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos e a atenção pública focada no descontrole da despesa em PPPR os executivos em funções em 2010 e 2011 cancelaram o acesso livre nos troços SCUT com a introdução de portagens. De imediato, em determinados troços, a procura caiu duma forma expressiva, ficando mesmo abaixo dos limites técnicos de referência que justificam a criação de autoestradas, ameaçando quer o objectivo da própria colecta de receitas quer o efeito socioeconómico positivo que se pretendia provocar. Esta atitude do poder político revela uma visão estreita apenas preocupada com "fluxos de caixa" e que despreza quer os benefícios da existência de autoestradas quer os custos de congestão e sobre-ocupação das vias alternativas causados por haver exclusão do acesso à autoestrada de todos aqueles que não estiverem dispostos a pagar a respectiva taxa de portagem.
+O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha *circa* 1992 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. A intenção dos promotores políticos destas iniciativas era conseguir, em prazo curto, vencer a significativa desvantagem do país, face aos parceiros europeus, em infraestruturas de transporte. A aplicação do modelo PPP aos projectos rodoviários, ao permitir ultrapassar certas limitações à despesa de um estado significativamente endividado, surgiu como única possibilidade de resolver este problema. Na implementação de PPPR destacam-se, a partir de 1997, as chamadas SCUT, autoestradas sem custos directos para o utente, cujo acesso livre poderia contribuir para diminuir as marcantes assimetrias socioeconómicas das regiões interiores do país. A perspectiva positiva deste acesso livre foi ensombrecida quando, a partir de 2006, entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um crescente distanciamento entre custos previstos e custos efetivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. 
+
+Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos e a atenção pública focada no descontrole da despesa em PPPR, os executivos em funções em 2010 e 2011 cancelaram o acesso livre nos troços SCUT com a introdução de portagens. De imediato a procura caiu duma forma expressiva (na generalidade das autoestradas, de 2010 para 2011, houve uma descida de cerca de 11% em média [^fnQueda]). Tendo em conta que, mesmo hoje, sete anos depois da introdução de portagem, existem diversos troços de autoestrada cujo tráfego médio diário mantém-se abaixo dos limites técnicos de referência que justificam a respectiva criação, podemos perceber quer o próprio objectivo da colecta de receitas pode estar ameaçado. 
+
+Esta atitude do poder político revela uma visão estreita apenas preocupada com "fluxos de caixa" e que despreza quer os benefícios da existência de autoestradas sobre a actividade económica das áreas servidas quer os custos de congestão e sobre-ocupação das vias alternativas causados por haver exclusão do acesso à autoestrada de todos aqueles que não estiverem dispostos a pagar a respectiva taxa de portagem.
+
+[^fnQueda]: no caso das aotoestradas A29 e A17, por exemplo, chegou a cerca de 50% nos primeiros meses de introdução de portagem -- consultar os Relatórios de Tráfego na Rede Nacional de Auto-estradas do ex-INIR I.P. hoje disponíveis no [espaço de  relatórios](http://www.imt-ip.pt/sites/IMTT/Portugues/InfraestruturasRodoviarias/RedeRodoviaria/Paginas/Relatorios.aspx) do sítio web do Instituo da Mobilidade e dos Transportes IMT I.P.
 
 Começaremos por enquadrar historicamente a situação das infraestruturas rodoviárias portuguesas. 
 
 \setcounter{page}{1}
 \pagenumbering{arabic}
 
-# Enquadramento histórico do tema
+# Enquadramento teórico
+
+## Perspectiva histórica
+
+\label{chap:persphist}
 
 Portugal era até ao final do século XX um país com um défice crónico em infraestruturas de transporte. Esta deficiência atingia de igual forma os modos de transporte rodoviário e ferroviário, o transporte individual e colectivo.
 
@@ -59,16 +69,16 @@ O investimento na rodovia foi sucessivamente crescendo, sofrendo um fortíssimo 
 
 Até chegarmos às décadas finais do século XX, o investimento no modo rodoviário foi sendo sucessivamente incrementado, sem acompanhamento pelo sistema ferroviário.
 
-A intensidade desta aposta e o esforço aplicado neste desígnio foram de tal ordem que hoje existe, em volta das principais áreas metropolitanas do nosso país periférico, uma densidade de vias da melhor qualidade, as chamadas "autoestradas", que rivaliza com a densidade das mesmas nas áreas metropolitanas mais ricas e populosas do centro da Europa Ocidental, centro económico da União Europeia a que hoje pertencemos [@glease].
+A intensidade desta aposta e o esforço aplicado neste desígnio foram de tal ordem que hoje existe, em volta das principais áreas metropolitanas do nosso país periférico, uma densidade de vias da melhor qualidade, as chamadas "autoestradas", que rivaliza com a densidade das mesmas nas áreas metropolitanas mais ricas e populosas do centro da Europa Ocidental, centro económico da União Europeia a que hoje pertencemos [@gleave].
 
 
-## Um esforço intenso
+### Um esforço intenso
 
 Contudo, o esforço aplicado no crescimento das infraestruturas rodoviárias sujeitou as contas do Estado a um esforço financeiro elevado, baseado em dívida e na preocupação de um suposto "custo zero": entidades privadas assumiram elevados custos fixos, na expectativa da cobrança ao erário público de variadas rendas e compensações ao longo de décadas. Dessa forma, o impacto desses custos nas contas do Estado vai sendo diferido no tempo e suavizado, mesmo que à custa do pagamento de substanciais juros bancários.
 
-O modelo DBFO (*Design, Build, Finance, Operate*) importado do Reino Unido [@dbfo_uk] serviu de inspiração ao desenvolvimento de parcerias publico-privadas nas quais, sem prescindir da posse dos terrenos e das construções realizadas, o estado entrega a uma entidade privada, sob concessão, as tarefas de projectar e construir, e o direito a explorar, novos empreendimentos rodoviários. Fica também do lado do privado obter o necessário financiamento.
+O modelo DBFO (*Design, Build, Finance, Operate*) importado do Reino Unido serviu de inspiração ao desenvolvimento de parcerias publico-privadas nas quais, sem prescindir da posse dos terrenos e das construções realizadas, o estado entrega a uma entidade privada, sob concessão, as tarefas de projectar e construir, e o direito a explorar, novos empreendimentos rodoviários. Fica também do lado do privado obter o necessário financiamento.
 
-Os princípios e objectivos dos projectos DBFO eram:
+Os princípios e objectivos dos projectos DBFO eram [@dbfo_uk]:
 
 - garantir que cada rodovia seja projectada, mantida e gerida de forma satisfatória e segura
 - minimizar os impactos adversos no ambiente e maximizar o benefício aos utentes
@@ -79,32 +89,32 @@ Os princípios e objectivos dos projectos DBFO eram:
 
 Em 2008, num relatório de auditoria do Tribunal de Contas, [@TC2008] citado por [@hfernando], definia-se que:
 
-> *As parcerias público-privadas constituem um modelo de contratação que permite ao Estado promover a obtenção de serviço público, através de uma estrutura contratual firmada com um parceiro privado, na qual se estabelecem obrigações mútuas que reflectem uma alocação, a ambas partes, dos riscos envolvidos*
+> *"As parcerias público-privadas constituem um modelo de contratação que permite ao Estado promover a obtenção de serviço público, através de uma estrutura contratual firmada com um parceiro privado, na qual se estabelecem obrigações mútuas que reflectem uma alocação, a ambas partes, dos riscos envolvidos*"
 
 Na documentação sobre os projectos e contratos DBFO, é indicado, sobre a transferência de riscos, que:
 
-> *A alocação do risco e da recompensa entre as partes contratantes [Estado e privados] deverá ser claramente definida e os proveitos do sector privado deverão ser genuinamente sujeitos a riscos. Espera-se que os parceiros privados __assumam a maioria dos riscos__ associados ao projecto, construção , manutenção, operação e financiamento de cada projecto. Estes riscos incluirão desde riscos associados às obras de construção e de manutenção e respectivo ajuste aos tempos e fundos disponíveis e isto para um horizonte global de 30 anos de contrato.
-(tradução, sublinhado e nota do autor, [@dbfo_uk])*
+> *"A alocação do risco e da recompensa entre as partes contratantes [Estado e privados] deverá ser claramente definida e os proveitos do sector privado deverão ser genuinamente sujeitos a riscos. Espera-se que os parceiros privados __assumam a maioria dos riscos__ associados ao projecto, construção , manutenção, operação e financiamento de cada projecto. Estes riscos incluirão desde riscos associados às obras de construção e de manutenção e respectivo ajuste aos tempos e fundos disponíveis e isto para um horizonte global de 30 anos de contrato.
+(tradução, sublinhado e nota do autor, [@dbfo_uk])"*
 
 Esta indicação da assunção da maioria dos riscos pelo privado não parece que tenha se verificado na realidade, como à frente o autor tenta demonstrar.
 
 Dentro do conjunto das parcerias publico-privadas rodoviárias (PPPR) previstas e realizadas tornaram-se notórios os empreendimentos SCUT, "Sem Custos para o UTente", nos quais a entidade concessionária recebe valores equivalentes a taxas de portagem, correspondentes à passagem de cada veículo, que lhe são entregues pelo Estado e não são cobrados aos utentes.
 
-Num relatório de auditoria à gestão das PPPR SCUT em 2003 é referida uma «*[...] __falta de poder negocial que o Estado tem revelado__ face ao sector privado*» e que «*programa [SCUT] foi lançado sem se avaliar se o mesmo acarretaria value for money para o Estado*» [@TC2003].
+Num relatório de auditoria à gestão das PPPR SCUT em 2003 é referida uma «*[...] __falta de poder negocial que o Estado tem revelado__ face ao sector privado*» e que o «*programa [SCUT] foi lançado sem se avaliar se o mesmo acarretaria value for money para o Estado*» [@TC2003].
 
 Neste relatório são claramente assinalados diversos factores de risco desnecessariamente excessivo para o Estado e diversas situações absurdas, por exemplo, ao nível de atrasos no licenciamento ambiental dos projectos que levaram o Estado a ter de ressarcir os privados de forma totalmente previsível e desnecessária.
 
 Este relatório assinala também que:
 
-> *[...] merece reservas pelos elevados  custos  sociais daí resultantes, o  facto  de  o  Estado  assumir,  nestes  contratos,  durante  30  anos,  na prática, o risco de congelamento do Plano Rodoviário  Nacional  2000. Sucede,  com  efeito, que o Estado fica limitado  no  que  respeita  à melhoria do  nível  de  serviço  das  vias alternativas e impossibilitado  de construir novas vias , já que, para o concretizar, terá de compensar financeiramente as concessionárias.*
+> *"[...] merece reservas pelos elevados  custos  sociais daí resultantes, o  facto  de  o  Estado  assumir,  nestes  contratos,  durante  30  anos,  na prática, o risco de congelamento do Plano Rodoviário  Nacional  2000. Sucede,  com  efeito, que o Estado fica limitado  no  que  respeita  à melhoria do  nível  de  serviço  das  vias alternativas e impossibilitado  de construir novas vias , já que, para o concretizar, terá de compensar financeiramente as concessionárias."*
 
 Apesar dos defeitos apontados, como refere Paulo Trigo Pereira [@ptpereira] citado em [@mbalseiro], o modelo é intensivamente aplicado:
 
-> *[... existe uma] tendência para os governos lançarem PPP em excesso, dado que podem retirar um benefício político no lançamento dos projectos, realizar algum encaixe financeiro imediato e transferir para os governos seguintes o ónus da despesa e dos eventuais impostos acrescidos necessários para os financiar*.
+> *"[... existe uma] tendência para os governos lançarem PPP em excesso, dado que podem retirar um benefício político no lançamento dos projectos, realizar algum encaixe financeiro imediato e transferir para os governos seguintes o ónus da despesa e dos eventuais impostos acrescidos necessários para os financiar*".
 
 Estavam assim criadas condições para que as PPPR e os projectos SCUT em particular viessem a colocar problemas inesperados e a fomentar derrapagens nas contas do Estado. Em 2010, Carlos Moreno salienta a existência de derrapagens financeiras nas SCUT que se terão ficado a dever a:
 
-> *[...] atrasos nos processos de expropriação, à ausência de corredores ambientais previamente aprovados, a decisões unilaterais dos estado concedente, no sentido de alterar projectos já aprovados -- sem prévia quantificação nem análise da racionalidade dos custos adicionais daí derivados, bem como a pedidos sucessivos de obras adicionais, por parte de autarquias locais interessadas nos projectos.* [@cmoreno].
+> *"[...] atrasos nos processos de expropriação, à ausência de corredores ambientais previamente aprovados, a decisões unilaterais dos estado concedente, no sentido de alterar projectos já aprovados -- sem prévia quantificação nem análise da racionalidade dos custos adicionais daí derivados, bem como a pedidos sucessivos de obras adicionais, por parte de autarquias locais interessadas nos projectos."* [@cmoreno].
 
 Muitas destas despesas não-previstas passariam, a dada altura, a ser enquadradas em contratos chamados de "reequilíbrio financeiro" (REF) nos quais o Estado compensava o custos adicionais do concessionário correspondentes às situações atrás citadas.
 
@@ -123,7 +133,7 @@ Beira Interior (IP2/IP6)    & 138,8       & 136,4     & 1,5  & 137,9     & 99,4 
 Interior Norte (IP3)        & 107,5       & 92,4      &      & 92,4      & 86,0   \\
 Costa de Prata (IC1/IP5)    & 71,8        & 71,6      &      & 71,6      & 99,7   \\
 Grande Porto (IP4/IC24)     & 101,7       & 78,2      &      & 78,2      & 76,9   \\
-Norte Litoral (IP9/IC1)     & 44,2        & 42,4      & 21,8 & 64,2      & \cellcolor{orange} 145,2  \\
+Norte Litoral (IP9/IC1)     & 44,2        & 42,4      & 21,8 & 64,2      & \cellcolor{orange} \bfseries{145,2}  \\
 Beiras Litoral e Alta (IP5) & 195,1       & 179,8     &      & 179,8     & 92,2   \\
 Total                       & 704,5       & 644,1     & 23,3 & 667,4     & 94,7   \\ \hline
 \end{tabular}
@@ -138,7 +148,7 @@ Total                       & 704,5       & 644,1     & 23,3 & 667,4     & 94,7 
 
 \end{center}
 
-Apesar da execução orçamental, de quase todos os empreendimentos, estar em linha com as previsões, vemos, no entanto, acerca da concessão Norte Litoral (IP9/IC1) (actuais A27 e A28, célula assinalada a cor \colorbox{orange}{laranja} na tabela \ref{tabpagliq2008}) temos, apenas neste ano de 2008, uma derrapagem de 45% devida aos atrás referidos problemas de licenciamento ambiental.
+Apesar da execução orçamental, de quase todos os empreendimentos, estar em linha com as previsões, vemos, no entanto, acerca da concessão Norte Litoral (IP9/IC1) (actuais A27 e A28, célula assinalada a \colorbox{orange}{\bfseries{negrito}} na tabela \ref{tabpagliq2008}) temos, apenas neste ano de 2008, uma derrapagem de 45% devida aos atrás referidos problemas de licenciamento ambiental.
 
 Mais tarde, no relatório anual de 2012 *Parcerias Público-Privadas e Concessões* da Direcção Geral do Tesouro, [@dgtf2012] podemos ver que o conjunto das PPPR apresenta, nesse ano, uma derrapagem global de 30%.
 
@@ -146,24 +156,26 @@ Na figura \ref{fluxos2012} vemos os encargos líquidos das PPPR para o Estado de
 
 Não esquecendo que, desde 2012, ocorreram um conjunto de renegociações de contratos, podemos ver que nessa ocasião o Estado esperava ter um encargo líquido plurianual de mais de 13300 milhões de euros, correspondente a cerca de 27% do total da despesa do Estado em 2012 [^fn_desp].
 
-Dividindo esse esforço em encargos anuais líquidos, podemos ver que se previa que o ano de maior esforço tivesse já ocorrido em 2015 com 1076 milhões de euros de encargo líquido, cerca de 2,2% da despesa do Estado desse ano (fonte [Pordata](http://www.pordata.pt/DB/Portugal/Ambiente+de+Consulta/Tabela) ).
+Dividindo esse esforço em encargos anuais líquidos, podemos ver que se previa que o ano de maior esforço tivesse já ocorrido em 2015 com 1076 milhões de euros de encargo líquido, cerca de 2,2% da despesa do Estado desse ano ([Pordata](http://www.pordata.pt/DB/Portugal/Ambiente+de+Consulta/Tabela) ).
 
 [^fn_desp]: A despesa do Estado em 2012 terá sido cerca de 48700 milhões de euros
 
-![Fluxos financeiros PPPR 2012 a 2040 (preços constantes 2012)\label{fluxos2012}](../src/images/fluxosPPPR_2012_2040.png)
+![Fluxos financeiros PPPR 2012 a 2040 (preços constantes 2012), fonte [@dgtf2012]\label{fluxos2012}](../src/images/fluxosPPPR_2012_2040.png)
 
-Outros exemplos poderiam ser dados destas derrapagens e dos problemas financeiros destes empreendimentos. Contudo esta tarefa é dificultada pela complexidade técnica dos respectivos contratos e da *engenharia financeira* associada. Além disso, como refere Moreno, a adopção, a partir de 2007, de um novo modelo de financiamento do Estado às PPPR através da criação da empresa Estradas de Portugal E.P. contribuiu para uma menor transparência orçamental destes projectos.
+Outros exemplos poderiam ser dados destas derrapagens e dos problemas financeiros destes empreendimentos. 
+
+Esta tarefa é dificultada pela complexidade técnica dos respectivos contratos e da *engenharia financeira* associada. Além disso, como refere Moreno, a adopção, a partir de 2007, de um novo modelo de financiamento do Estado às PPPR através da criação da empresa Estradas de Portugal E.P. contribuiu para uma menor transparência orçamental destes projectos.
 
 Contudo, Moreno calculava para a globalidade das PPPR um valor de encargos plurianuais de 25 mil milhões de euros (valor nominal, preços correntes) ao longo de um prazo de 30 anos. Sobre este valor o mesmo autor estimava existir em 2010 uma derrapagem de cerca de 6%. [@cmoreno]
 
-Convém salientar, como é demosntrado mais à frente, que parte da derrapagem nos encargos do Estado no provimento de infraestrutura rodoviária vem de empreendimentos completamente fora do universo SCUT, em autoestradas que foram abertas já com cobrança de portagem como é o caso da A10 Arruda - Benavente.
+Convém salientar, como é demonstrado mais à frente no \autoref{chap:fundpol}, que parte da derrapagem nos encargos do Estado no provimento de infraestrutura rodoviária vem de empreendimentos completamente fora do universo SCUT, em autoestradas que foram abertas já com cobrança de portagem como é o caso da A10 Arruda - Benavente.
 
 
-## Súbita mudança de orientação política
+### Súbita mudança de orientação política
 
-Perante este cenário de fragilidade dos contratos das PPPR e perante uma degradação geral das contas do Estado, que levaria à já referida crise financeira grave, o governo português começou em 2009 a preparar a introdução de portagem em alguns dos troços de autoestrada sujeitos ao regime SCUT. Não serão alheias a estas medidas as pressões externas que se fazem sentir dos restantes países europeus para que Portugal cumprisse objectivos decorrentes do Pacto de Estabilidade e Crescimento, no qual cada estado-membro se compromete a conter o seu défice público e dívida pública dentro de limites bem definidos. Durante anos Portugal não cumpriu um ou ambos destes limites em especial o limite do défice a partir de 2001.
+Perante este cenário de fragilidade dos contratos das PPPR e perante uma degradação geral das contas do Estado, que levaria à já referida crise financeira grave, o governo português começou em 2009 a preparar a introdução de portagem em alguns dos troços de autoestrada sujeitos ao regime SCUT. Não serão alheias a estas medidas as pressões externas que se fazem sentir dos restantes países europeus para que Portugal cumprisse objectivos decorrentes do Pacto de Estabilidade e Crescimento, no qual cada estado-membro se compromete a conter o seu défice público e dívida pública dentro de limites bem definidos. Durante anos Portugal não cumpriu um ou ambos destes limites em especial o limite do défice a partir de 2001 [@ifo_violations].
 
-Daí decorreria a necessidade clara de diminuir a despesa pública e o endividamento. Como as PPPR representam uma significativa fonte de encargos para o Estado, certamente esta terá sido logo uma área a considerar para este efeito. Das globalidade das PPPR, os empreendimentos SCUT eram aqueles que apresentavam maior nível de encargos brutos, como é evidente na \ref{encargosBruto2012}.
+Daí decorreria a necessidade clara de diminuir a despesa pública e o endividamento. Como as PPPR representam uma significativa fonte de encargos para o Estado, certamente esta terá sido logo uma área a considerar para este efeito. Das globalidade das PPPR, os empreendimentos SCUT eram aqueles que apresentavam maior nível de encargos brutos, como é evidente na tabela \ref{encargosBruto2012}.
 
 \begin{threeparttable}[]
 \centering
@@ -193,9 +205,9 @@ Esta medida continha vários aspectos contraditórios, entre os quais o facto de
 
 Já em 2006 a empresa Estradas de Portugal havia encomendado um estudo com o objectivo de preparar a introdução faseada de portagens nas SCUT. Este estudo preparado pela empresa F9 Consulting propunha-se fazer ...
 
-> *[...] o cômputo dos cálculos necessários para aplicação de um conjunto de critérios para determinação das concessões rodoviárias em regime SCUT em condições de passar a ser regidas pelo princípio do utilizador-pagador.* [@F9Consulting_2006]
+> *"[...] o cômputo dos cálculos necessários para aplicação de um conjunto de critérios para determinação das concessões rodoviárias em regime SCUT em condições de passar a ser regidas pelo princípio do utilizador-pagador."* [@F9Consulting_2006]
 
-Este estudo pretende sugerir que existe possibilidade de compatibilizar o objectivo de aumento de proveitos, com a cobrança de portagens, com os objectivos de discriminação positiva regional que nortearam a introdução das SCUT. A justificação da introdução de portagens não é minimamente descrita nem enquadrada neste trabalho, é apenas um dado adquirido. O estudo resume-se na sua essência à aplicação um método quantitativo arbitrário a um conjunto de indicadores regionais como:
+Este estudo pretende sugerir que existe possibilidade de compatibilizar o objectivo de aumento de proveitos, com a cobrança de portagens, com os objectivos de discriminação positiva regional que nortearam a introdução das SCUT. A justificação da introdução de portagens não é minimamente descrita nem enquadrada neste trabalho, é apenas um dado adquirido. O estudo resume-se na sua essência à aplicação um método quantitativo, não justificado, a um conjunto de indicadores regionais que incluiram:
 
 - índices de disparidade do PIB per capita regional
 - índice do Poder de Compra Concelhio (IPCC)
@@ -207,7 +219,7 @@ Das seis concessões/troços analisadas o estudo concluí pela introdução de p
 
 Apesar da pretensa preocupação de clareza que, supostamente, teria norteado este estudo, passados vários anos da introdução de portagens na generalidade dos troços de autoestrada em Portugal continua não ser explícito para o público o método de definição dos valores de taxas de portagem.
 
-Para este efeito, o Decreto-Lei n.º 111/2011 fixa um valor de referência de €0,06671/km (s/ IVA), valores com referência a Dezembro de 2006 e actualizáveis pelo IPC de Dezembro de cada ano. Como se chegou a este valor não é explicado. Por outro lado, a lei abre múltiplas possibilidade de variação que são efectivamente aplicadas no terreno duma forma absolutamente nada transparente.
+Para este efeito, o Decreto-Lei n.º 111/2011 fixa um valor de referência de €0,06671/km (s/ IVA), valores com referência a Dezembro de 2006 e actualizáveis pelo IPC de Dezembro de cada ano. Como se chegou a este valor não é explicado. Por outro lado, a lei abre múltiplas possibilidade de variação que são efetivamente aplicadas no terreno duma forma absolutamente nada transparente.
 
 
 # Definição do problema
@@ -224,13 +236,13 @@ Da consulta à legislação vigente e aos sítios web dos concessionários sabem
 
 Na figura \ref{maxportg} aplicamos ao bem "autoestrada" o que a teoria microeconómica apelida de curva de procura, de inclinação negativa, adequada à situação de monopólio típica do provimento de infraestruturas rodoviárias: embora haja intervenção de privados, o provimento é da exclusiva responsabilidade do Estado, não haverá espaço para o surgimento de concorrentes. No eixo das abcissas temos quantidades de procura **Y**, correspondentes a número de veículos (volume de tráfego) que atravessam uma qualquer autoestrada enquanto nas ordenadas valores de taxa de portagem **P~y~**. A curva tem inclinação negativa porque, com taxa zero (P~0~) temos um máximo de volume de tráfego Y~0~ enquanto que, a partir de uma determinada taxa máxima P~Max~, a autoestrada, espera-se, ficará vazia.
 
-Com um valor de taxa P~3~ baixo a via em causa terá grande procura mas o rendimento de portagem, correspondente à área R~3~, será baixo. Com uma taxa de valor P~1~, teremos uma procura e um rendimento R~1~ ambos baixos. Com uma taxa P~2~, temos um rendimento máximo correspondente à maior das três áreas, R~2~. Há aqui que ter algum bom senso entre a maximização do rendimento e a evidência que, ao subir a taxa, estamos efectivamente a limitar o acesso a um bem que se supõe público (mais à frente isto será mais discutido).
+Com um valor baixo de taxa P~3~ a via em causa terá grande procura mas o rendimento de portagem, correspondente à área R~3~, será baixo. Com uma taxa de valor P~1~, teremos uma procura e um rendimento R~1~ ambos baixos. Com uma taxa P~2~, temos um rendimento máximo correspondente à maior das três áreas, R~2~. Há aqui que ter algum bom senso entre a maximização do rendimento e a evidência que, ao subir a taxa, estamos efetivamente a limitar o acesso a um bem que se supõe público (mais à frente isto será mais discutido).
 
 ![Maximização dos proveitos de portagem\label{maxportg}](../src/images/curva_procura_portagem_equilibrada.png){ width=300px height=300px }
 
 Do ponto de vista da cobertura dos encargos financeiros importaria maximizar a receita, espera-se assim que a taxa definida pelo Estado decorra de um raciocínio atrás produzido. 
 
-Contudo, para ter a garantia que a efectiva cobertura dos encargos existentes está assegurada, esta definição da taxa não é suficiente. O raciocínio sobre o gráfico aplica-se a um dado período de cobrança. Se a unidade de medida que usamos nas abcissas for o volume de tráfego TMDA (Tráfego Médio Diário Anual) a nossa maximização foi calculada para um dia e assim teremos:
+Contudo, para ter a garantia que a efetiva cobertura dos encargos existentes está assegurada, esta definição da taxa não é suficiente. O raciocínio sobre o gráfico aplica-se a um dado período de cobrança. Se a unidade de medida que usamos nas abcissas for o volume de tráfego TMDA (Tráfego Médio Diário Anual) a nossa maximização foi calculada para um dia e assim teremos:
 
 \begin{center}
 \begin{equation}
@@ -248,7 +260,7 @@ Para que, pelo menos, o valor do rendimento $R$ cubra o investimento inicial nec
 
 A melhor eficácia, do ponto de vista da arrecadação de receita, da aplicação de taxas de portagem corresponde à situação em que a via portajada não tem alternativas e representa um acesso crucial a uma determinada região.
 
-Um exemplo disto pode ser dado pela Ponte 25 de Abril sobre o Tejo, cujo financiamento foi também suportado em dívida como as actuais PPPR, de forma a diferir os encargos financeiros por um período de tempo alargado. O Estado considerou esse investimento pago ao final de cerca de apenas **17 anos** [@rodriges_ponte25a], à custa da cobrança de taxas de portagem. Durante anos esta foi a solução exclusiva para o acesso rodoviário entre a cidade de Lisboa e a margem sul do Tejo, com uma muito tímida concorrência exercida pelo o atravessamento fluvial via *ferry-boats*. Com a construção da ponte, iniciou-se uma ocupação de zonas residenciais da margem sul do Tejo das quais muitos moradores trabalham em Lisboa e nos concelhos limítrofes da margem norte do rio. Em resultado deste fenómeno, esta via está  sujeita a um astronómico volume de tráfego TMDA que, por exemplo, em 2015 atingia **135000 veículos** [@imt20153T]. A elevada procura potencial e a inexistência de alternativas permitiu colectar a totalidade dos proveitos necessários num prazo inferior em **13 anos** ao prazo dos PPPR actuais.
+Um exemplo disto pode ser dado pela Ponte 25 de Abril sobre o Tejo, cujo financiamento foi também suportado em dívida como as actuais PPPR, de forma a diferir os encargos financeiros por um período de tempo alargado. O Estado considerou esse investimento pago ao final de cerca de apenas 17 anos [@rodriges_ponte25a], à custa da cobrança de taxas de portagem. Durante anos esta foi a solução exclusiva para o acesso rodoviário entre a cidade de Lisboa e a margem sul do Tejo, com uma muito tímida concorrência exercida pelo o atravessamento fluvial via *ferry-boats*. Com a construção da ponte, iniciou-se uma ocupação de zonas residenciais da margem sul do Tejo das quais muitos moradores trabalham em Lisboa e nos concelhos limítrofes da margem norte do rio. Em resultado deste fenómeno, esta via está  sujeita a um astronómico volume de tráfego TMDA que, por exemplo, em 2015 atingia 135000 veículos [@imt20153T]. A elevada procura potencial e a inexistência de alternativas permitiu colectar a totalidade dos proveitos necessários num prazo inferior em 13 anos ao prazo dos PPPR actuais.
 
 A maioria dos troços de ex-SCUT, apesar de terem custos de construção por unidade de comprimento substancialmente inferiores aos duma travessia do estuário do Tejo, estão todavia sujeitas a um volume de tráfego comparativamente muito reduzido. Eis alguns exemplos, dados de 2015  [@imt20153T]:
 
@@ -256,9 +268,9 @@ A maioria dos troços de ex-SCUT, apesar de terem custos de construção por uni
 - autoestrada A24 (antiga SCUT Interior) - valores de TMD mensal globalmente inferiores a 10000 , no inverno alguns destes troços apresentam valores próximos de 2000;
 - autoestrada A17 (parte da antiga SCUT Costa de Prata) - valores de TMD mensal globalmente inferiores a 10000 excepto em troços em volta da cidade de Aveio, no inverno alguns destes troços apresentam valores próximos de 2000.
 
- Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas faixas de circulação por uma via de 2 ou mais faixas (@romana_hernando, @visao_atdesertas e [*Numbers every traffic engineer should know*](http://www.mikeontraffic.com/numbers-every-traffic-engineer-should-know/)). [^fn_critSinistralidade][^fnTRB]
+Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas faixas de circulação por uma via de 2 ou mais faixas (@romana_hernando, @visao_atdesertas e [*Numbers every traffic engineer should know*](http://www.mikeontraffic.com/numbers-every-traffic-engineer-should-know/)). [^fn_critSinistralidade][^fnTRB]
 
- Muitos troços de autoestrada existentes não chegam a cumprir minimamente este critério.
+Muitos troços de autoestrada existentes não chegam a cumprir minimamente este critério.
 
 [^fn_critSinistralidade]: Este não será o único critério, esta decisão poderá ser tomada por outros factores como questões peculiares de sinistralidade ou outras
 [^fnTRB]: A generalidade das metodologias de planeamento de rodovias usadas em todo mundo baseiam-se no trabalho pioneiro do Transportation Research Board norte-americano, reflectido, nomeadamente em [@HCM_SpRep209]), também referenciado no PRN2000 nacional.
@@ -279,12 +291,12 @@ N_{D} =  \frac{R}{V_{TMDA} * P_{max}}
 \end{equation}
 \end{center}
 
-Segundo \ref{nD}, o valor de $N_{D}$ será de 8740 dias ou cerca de 24 anos. Tudo isto parece bem: a portagem em cobrança parece permitir cobrir o investimento inicial em menos de 30 anos (prazo habitual das concessões PPPR portuguesas). Não nos podemos esquecer de dois detalhes:
+Segundo a equação \ref{nD}, o valor de $N_{D}$ será de 8740 dias ou cerca de 24 anos. Tudo isto parece bem: a portagem em cobrança parece permitir cobrir o investimento inicial em menos de 30 anos (prazo habitual das concessões PPPR portuguesas). Não nos podemos esquecer de dois detalhes:
 
 - os custos da infraestrutura não tem apenas a ver com o investimento inicial;
-- a portagem actualmente cobrada na A17 está **acima** da tarifa de referência para o valor por quilómetro actualizado para 2016 com IVA (€0,1510/km > €0,098/km).
+- a portagem actualmente cobrada na A17 está acima da tarifa de referência para o valor por quilómetro actualizado para 2016 com IVA (€0,1510/km > €0,098/km).
 
-Se usarmos o dito valor de referência actualizado para o mesmo cálculo, teríamos $N_{D}$ igual a 13665 dias, o que significa **mais de 37 anos**.
+Se usarmos o dito valor de referência actualizado para o mesmo cálculo, teríamos $N_{D}$ igual a 13665 dias, o que significa mais de 37 anos.
 
 Estes cálculos são executados sobre valores médios e apenas pretendem dar uma ideia genérica das questões sobre as quais decisores políticos e técnicos são chamados a pronunciar-se. Mesmo assim, várias dúvidas podem imediatamente surgir relativamente à introdução de portagens, quer nas ex-SCUT quer nos novos troços de autoestrada portajada em zonas de reduzida procura:
 
@@ -294,7 +306,7 @@ Estes cálculos são executados sobre valores médios e apenas pretendem dar uma
 
 Como vimos na figura \ref{maxportg} as taxas de portagem de valores P~1~ e P~3~ produziriam os mesmos proveitos, é indiferente aplicar uma ou outra do ponto de vista do financiamento do empreendimento. Apesar disso, a utilidade social da autoestrada fica largamente reduzida se a taxa aplicada for P~3~ e não P~1~, uma vez que apenas nela circula um número reduzido de veículos. 
 
-Assim, assumindo que a decisão de portajar um troço de autoestrada nestas condições é racional, tão importante como  a decisão de portajar seria a escolha de um valor efectivo de taxa de portagem a aplicar a qual, esperançadamente, deveria permitir a redução, ao mínimo possível, da quebra na utilidade pública da infraestrutura.
+Assim, assumindo que a decisão de portajar um troço de autoestrada nestas condições é racional, tão importante como  a decisão de portajar seria a escolha de um valor efetivo de taxa de portagem a aplicar a qual, esperançadamente, deveria permitir a redução, ao mínimo possível, da quebra na utilidade pública da infraestrutura.
 
 Contudo, poderemos considerar inaceitável qualquer quebra na utilidade da infraestrutura.
 
@@ -331,7 +343,7 @@ O objectivo de melhoria substancial do nível de serviço foi conseguido e até 
 
 Perante a necessidade urgente de reduzir custos de endividamento, o poder executivo decidiu promover a cobrança de portagens em troços inicialmente não abrangidos por tal exigência, cuja receita permitiria contribuir para amortizar esses custos.
 
-Contudo, a imposição deste custo diminui drasticamente a utilidade destes troços de estrada melhorada. À vantagem de uma deslocação mais rápida e em melhores condições de segurança opõe-se a desvantagem do custo da portagem. Nos casos em que troços de autoestrada competem directamente com troços de estrada nacional alternativos, se os utentes considerarem que o valor da portagem paga não corresponde ao real benefício obtido em melhoria de tempo de deslocação e de condições de segurança, irão querer voltar aos antigos trajectos de estrada na nacional. Tendo em conta que estes sofreram um conjunto de alterações que diminuíram as velocidades praticáveis e a sua capacidade efectiva, neste caso, estes troços ficam de novo sujeitos a uma saturação que degrada o nível de serviço por estes oferecido e que tem profundo impacto na qualidade de vida das populações residentes nas imediações.
+Contudo, a imposição deste custo diminui drasticamente a utilidade destes troços de estrada melhorada. À vantagem de uma deslocação mais rápida e em melhores condições de segurança opõe-se a desvantagem do custo da portagem. Nos casos em que troços de autoestrada competem directamente com troços de estrada nacional alternativos, se os utentes considerarem que o valor da portagem paga não corresponde ao real benefício obtido em melhoria de tempo de deslocação e de condições de segurança, irão querer voltar aos antigos trajectos de estrada na nacional. Tendo em conta que estes sofreram um conjunto de alterações que diminuíram as velocidades praticáveis e a sua capacidade efetiva, neste caso, estes troços ficam de novo sujeitos a uma saturação que degrada o nível de serviço por estes oferecido e que tem profundo impacto na qualidade de vida das populações residentes nas imediações.
 
 Assim, privado de parte da sua utilidade, privado de utentes, um investimento que teve custos muitos elevados para o erário público ficará por rentabilizar na sua plenitude e gera-se uma profunda contradição no sistema rodoviário ao permitir a continuada congestão de vias que deveriam ter sido libertadas para cumprir funções de ligação essencialmente local e urbana.
 
@@ -345,23 +357,23 @@ Poder-se-ia ter tido uma gestão muito diferente e mais eficiente? Certamente. D
 
 Esta dissertação visa trazer novos contributos a este debate.
 
-# Objectivo desta dissertação
+# Objetivo desta dissertação
 
 Após a recensão bibliográfica que acompanhou a preparação desta dissertação, nesta temática do provimento de autoestradas e da introdução de portagens, nota-se a necessidade de uma avaliação de custo-benefício mais completa, mais rigorosa, que possa abranger, com qualidade, externalidades como os custos de congestão previsíveis nas vias alternativas e os impactos nas actividades económicas das áreas servidas.
 
 Dada a falta de qualidade geral que encontramos nos processos de decisão, assunto a detalhar no ponto seguinte, não é surpreendente a superficialidade que encontramos na avaliação custo-benefício, a maioria da qual surge publicada "ex-post", como uma tentativa de entender a "performance social" do equipamento em pleno uso.
 
-A teoria económica diz-nos que, para o caso de um monopólio como é o do provimento de rodovias, o nível óptimo de produção será aquele em que a receita marginal iguala o custo marginal [@mateus_mateus]. Não havendo congestão, o custo adicional de entrada de um novo automóvel numa autoestrada é zero. Portanto temos, fora de congestão, um custo marginal zero, à qual deveria corresponder uma receita marginal zero, o que é claramente contraditório com a cobrança de portagem. Como veremos à frente, este é um aspecto que justifica que o provimento de rodovias seja encarado com o provimento de um bem público, responsabilidade final do Estado independentemente da possibilidade de existirem privados envolvidos nesse provimento.
+A teoria económica diz-nos que, para o caso de um monopólio como é o do provimento de rodovias, o nível ótimo de produção será aquele em que a receita marginal iguala o custo marginal [@mateus_mateus]. Não havendo congestão, o custo adicional de entrada de um novo automóvel numa autoestrada é zero. Portanto temos, fora de congestão, um custo marginal zero, à qual deveria corresponder uma receita marginal zero, o que é claramente contraditório com a cobrança de portagem. Como veremos à frente, este é um aspecto que justifica que o provimento de rodovias seja encarado com o provimento de um bem público, responsabilidade final do Estado independentemente da possibilidade de existirem privados envolvidos nesse provimento.
 
 Como monopolista, o Estado é todavia livre de fixar o preço que quiser. Como vimos na figura \ref{maxportg}, ao fixar uma portagem não nula, a procura pela autoestrada irá naturalmente descer. Uma parte dessa descida corresponde a viagens que se farão em troços alternativos congestionados, com queda na qualidade do serviço globalmente prestado pelo conjunto da infraestrutura. Essas viagens perdidas pela autoestrada irão contribuir para a congestão dos ditos troços alternativos, sujeitos a custos marginais crescentes. Qualquer cobrança de portagem representa um excedente, um proveito financeiro, do produtor. Acontece que o "produtor" é igualmente responsável pela qualidade quer da autoestrada portajada quer, em última análise, pelo troço alternativo, apesar deste ter sido municipalizado. Assim estes custos marginais crescentes da estrada nacional alternativa teriam, logicamente, que ser internalizados na análise de custo benefício da autoestrada: o produtor Estado não pode *colher os proveitos financeiros da portagem* numa via e *não gastar nada* para contrariar a degradação do serviço nas vias alternativas, quando esta degradação é consequência daquela cobrança de portagem.
 
-Na prática, o Estado deveria ser impedido, ou auto regular-se, não cobrando portagens de forma a contribuir significativamente para a congestão de vias alternativas. Em muitos casos isso corresponderá à pura e simples impossibilidade da cobrança de portagem, independentemente do valor cobrado. Se efectivamente o Estado não tem como financiar, do seu orçamento, a autoestrada e precisa de proveitos adicionais para custear os investimentos envolvidos, então temos duas hipóteses:
+Na prática, o Estado deveria ser impedido, ou auto regular-se, não cobrando portagens de forma a contribuir significativamente para a congestão de vias alternativas. Em muitos casos isso corresponderá à pura e simples impossibilidade da cobrança de portagem, independentemente do valor cobrado. Se efetivamente o Estado não tem como financiar, do seu orçamento, a autoestrada e precisa de proveitos adicionais para custear os investimentos envolvidos, então temos duas hipóteses:
 
-a) estamos perante uma decisão errada de desenvolver uma via com perfil de autoestrada -- face à procura existente, uma nova via com perfil de via rápida ou de estrada nacional seria suficiente, com custos marcadamente inferiores (como veremos mais à frente) -- decisão efectivamente impossível de corrigir com a via já construída;
-b) estamos perante a aplicação efectiva de uma medida política de coesão territorial, de melhoria efectiva da acessibilidade de uma região desfavorecida, pelo que todo o país deverá contribuir solidariamente para os custos envolvidos, por via de dotação orçamental específica do Estado ou de uma colecta de imposto alocada a este efeito.
+a) estamos perante uma decisão errada de desenvolver uma via com perfil de autoestrada -- face à procura existente, uma nova via com perfil de via rápida ou de estrada nacional seria suficiente, com custos marcadamente inferiores (como veremos mais à frente) -- decisão efetivamente impossível de corrigir com a via já construída;
+b) estamos perante a aplicação efetiva de uma medida política de coesão territorial, de melhoria efetiva da acessibilidade de uma região desfavorecida, pelo que todo o país deverá contribuir solidariamente para os custos envolvidos, por via de dotação orçamental específica do Estado ou de uma colecta de imposto alocada a este efeito.
 
-Dada a impossibilidade de corrigir a) será lógico que o Estado concentre esforços em b): apostar numa coesão territorial para a qual todo o país deverá contribuir.
+Dada a impossibilidade de corrigir a) será lógico que o Estado concentre esforços na conteúdo da alínea b): apostar numa coesão territorial para a qual todo o país deverá contribuir.
 
-Como é melhor explicado no ponto seguinte, existem vários aspectos frágeis na análise de custo benefício produzida acerca desta temática. Contudo, junto a aspectos como a modelização dos efeitos multiplicadores positivos na economia local decorrentes da disponibilidade de vias de qualidade e das previsões de tráfego, um aspecto central surge tratado com excessiva superficialidade na bibliografia e nas restantes fontes analisadas: o cálculo dos custos das diversas externalidades resultantes do transporte rodoviário em geral e, muito particularmente, o custo do **congestionamento rodoviário**.
+Como é melhor explicado no ponto seguinte, existem vários aspectos frágeis na análise de custo benefício produzida acerca desta temática. Contudo, junto a aspectos como a modelização dos efeitos multiplicadores positivos na economia local decorrentes da disponibilidade de vias de qualidade e das previsões de tráfego, um aspecto central surge tratado com excessiva superficialidade na bibliografia e nas restantes fontes analisadas: o cálculo dos custos das diversas externalidades resultantes do transporte rodoviário em geral e, muito particularmente, o custo do congestionamento rodoviário.
 
-Nesta dissertação o autor prossegue pela via de uma análise quantitativa do equilíbrio do tráfego entre troços de autoestrada e troços de estrada nacional alternativos e a determinação dos custos de congestionamento resultantes de alterações neste equilíbrio. Para este efeito serão analisados diversos pares de troço de estrada e troço de autoestrada mutuamente alternativos. Estes pares serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade e dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestionamento de tráfego em troços adutores das áreas em estudo, etc.
+Nesta dissertação desenvolve-se uma análise quantitativa do equilíbrio do tráfego entre troços de autoestrada e troços de estrada nacional alternativos e a determinação dos custos de congestionamento resultantes de alterações neste equilíbrio. Para este efeito serão analisados diversos pares de troço de estrada e troço de autoestrada mutuamente alternativos. Estes pares serão referenciados em diferentes pontos do país para tentar abranger diferentes condições de partida quanto a densidade e dinâmica populacional, nível de rendimentos, proximidade a áreas geradoras de movimentos pendulares, congestionamento de tráfego em troços adutores das áreas em estudo, etc.
