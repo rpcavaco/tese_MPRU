@@ -156,24 +156,24 @@ A posse das parcelas de terreno que suportam a infraestrutura é do Estado [^fnE
 
 ## O monopólio "natural" do provimento de infraestrutura rodoviária
 
-Como referido por Abel Mateus, as economias modernas são economias mistas constituídas por uma mistura entre sector privado e sector público, não existindo um consenso sobre a linha divisória de separação entre ambos.
+Como referido por -@mateus_mateus, as economias modernas são economias mistas constituídas por uma mistura entre sector privado e sector público, não existindo um consenso sobre a linha divisória de separação entre ambos.
 
 Este é, ainda hoje, o domínio de um intenso debate político no qual os defensores de uma maior prevalência do Estado alinham com as chamadas tendências ideológicas de esquerda, enquanto que a "direita" defende a prevalência do sector privado. É hoje impensável pensar numa economia exclusivamente de sector privado ou exclusivamente de sector público [@mateus_mateus pp. 628-629].
 
-Desde o final da Segunda Guerra nos anos de 1940 que tem existido um peso crescente das despesas totais do Estado, o que tem introduzido no debate político contemporâneo a ideia de, em Portugal e na Europa, terem-se ultrapassado limites razoável ao crescimento de desepesa e dívida do sector público [^fnLimitesDespesa].
+Desde o final da Segunda Guerra nos anos de 1940 que tem existido um peso crescente das despesas totais do Estado, o que tem introduzido no debate político contemporâneo a ideia de, em Portugal e na Europa, terem-se ultrapassado limites razoáveis ao crescimento de despesa e dívida do sector público [^fnLimitesDespesa].
 
 [^fnLimitesDespesa]: para uma introdução a este debate podemos socorrer-nos de @ptpereira, para ter uma indicação dos primeiros esforços da aplicação de limites à despesa e ao investimento públicos podemos consultar os elementos do Programa de Estabilidade e Crescimento apresentados pelo governo português aos parceiros comunitários [@dgo:pec].
 
 Esta noção conduz parte da opinião pública a ser favorável à diminuição desse peso do Estado. Os momentos de crise económica sentidos desde 2009, na qual o nosso país esteve envolvido de forma destacada, certamente terão agudizado esta percepção.
 
-Todavia esta preocupação, saudável, com as contas do Estado não pode desviar a atenção que, por outro lado, o público tem vindo a adquirir nas últimas décadas sobre a necessidade do Estado intervir para corrigir múltiplas situações ditas de *falência do mercado* quer na provisão de bens públicos quer na correcção de externalidades negativas [@mateus_mateus].
+Todavia esta preocupação, saudável, com as contas do Estado não pode desviar a atenção que, por outro lado, o público tem vindo a adquirir, nas últimas décadas, sobre a necessidade do Estado intervir para corrigir múltiplas situações ditas de *falência do mercado*, quer na provisão de bens públicos quer na correcção de externalidades negativas [@mateus_mateus].
 
-Apesar de, tanto quanto aqui nos interessa e como já vimos, as infraestruturas rodoviárias acabarem por não encaixar na definição de bens públicos puros, o caso do provimento de infraestruturas rodoviárias que nos preocupa nesta dissertação encaixa neste papel interventor do Estado em dois aspectos:
+Apesar de, tanto quanto aqui nos interessa e como já vimos, as infraestruturas rodoviárias acabarem por não encaixar, em plenitude, na definição de bens públicos puros, o caso do provimento de infraestruturas rodoviárias, que nos preocupa nesta dissertação, deverá exigir a intervenção do Estado em dois aspectos:
 
-- a provisão de bens:
+- na provisão de bens:
 	- a disponibilidade de solo na forma de corredores viários é muito escassa, de tal forma que a existência duma oferta por múltiplas infraestruturas competidoras entre si, em mercado aberto, pela mesma procura é obviamente impossível [^fnProvCorr];
 
-- a correcção de externalidades negativas, em múltiplos aspectos, como, por exemplo:
+- na correcção de externalidades negativas, em múltiplos aspectos, como, por exemplo:
 	- garantir condições de circulação em segurança;
 	- evitar a congestão das vias;
 	- garantir que as vias existentes se adequam à sua finalidade (vias de carácter urbano com tráfego local e de baixa velocidade, vias de ligação regional com tráfego segregado não afectado pela circulação local, etc.);
@@ -183,13 +183,14 @@ Apesar de, tanto quanto aqui nos interessa e como já vimos, as infraestruturas 
 
 Perante estas circunstâncias, a provisão de infraestruturas rodoviárias exige uma forte e clara intervenção do Estado no seu provimento, sobrando a questão de como financiar esse provimento da forma mais eficaz e equitativa.
 
-Como já vimos, estes equipamentos tem elevados valores de investimento inicial, que dificulta o seu financiamento, sobretudo no quadro de uma necessidade política de redução da despesa do Estado.
+Como já vimos, estes equipamentos têm elevados valores de investimento inicial, que dificulta o seu financiamento, sobretudo no quadro de uma necessidade política de redução da despesa do Estado.
 
 A introdução de portagens parece, para muitos, a solução de financiamento mais fácil e equitativa, ao retirar o peso dessa despesa das contas do Estado e ao fazê-la​ incidir sobre a comunidade dos utentes do equipamento.
 
 Nesta perspectiva redutora falta contabilizar algo de muito importante: as referidas externalidades, das quais se destaca a  congestão rodoviária. Ao penalizar o atravessamento duma autoestrada, sujeitando os respectivos utentes ao pagamento de uma portagem, certamente uma parte do tráfego que poderia atravessar a autoestrada vai acumular-se em estradas alternativas, provocando o seu congestionamento.
 
 Apesar de a administração destas estradas ser, na sua maioria, responsabilidade dos municípios, o Estado é igualmente o último responsável pela oferta geral de infraestrutura, quer se trate de autoestradas ou outras estradas de categoria inferior. Assim, tendo a noção da existência de custos atribuíveis à congestão, com a introdução de portagens o Estado está a impor simultâneamente duas penalidades aos cidadãos: o custo da portagem e a penalidade correspondente à introdução ou aumento da congestão nas vias alternativas. No fundo, ao introduzir a limitação que a portagem constitui, o Estado só não falhará na missão de prover infraestrutura rodoviária se existirem vias alternativas não portajadas isentas de congestão.
+
 
 ## Congestão de tráfego: rivalidade no consumo e a necessidade de cobrar um preço
 
@@ -199,7 +200,7 @@ Nesse estado de coisas, nessas épocas, claramente a parca infraestrutura rodovi
 
 Portugal foi um dos primeiros países do mundo [^fnPrimAE] a ter a sua própria autoestrada em 1944 [@blog_prim_ae]: um curto troço entre Lisboa e o Estádio Nacional do Jamor, que demorou quase outros 15 anos a ser acompanhado de outros troços. Era uma via largamente desimpedida e claramente *não-rival*.
 
-Hoje, dado o elevado número de mais de 5 milhões (só de veículos ligeiros) em circulação no nosso país, é muito fácil ocorrerem situações de congestão, especialmente tendo em conta a forma muito desequilibrada como a nossa população se distribui, em maior quantidade junto das grandes cidades e do litoral do país.
+Hoje, dado o elevado número de mais de 5 milhões de veículos (só de veículos ligeiros) em circulação no nosso país, é muito fácil ocorrerem situações de congestão, especialmente tendo em conta a forma muito desequilibrada como a nossa população se distribui, em maior quantidade junto das grandes cidades e do litoral do país.
 
 [^fnPrimAE]: A primeira autoestrada experimental alemã foi inaugurada em 1921 [@britannica:autobahn]
 
@@ -207,13 +208,13 @@ Apesar do intenso programa de desenvolvimento de autoestradas e do restante plan
 
 De igual forma, a circulação em volta e junto das duas grandes cidades apresenta fenómenos de absoluta saturação: volumes de tráfego TMDA superiores a 150000 veículos (além do já referido caso da Ponte 25 de Abril, o mesmo acontece na Autoestrada do Estoril A5 em Lisboa e na VCI, via de circulação à cidade do Porto). Dentro destas cidades são muito frequentes os episódios de bloqueio de algumas vias principais em hora de ponta, devido a acidentes ou à mera saturação.
 
-Este estado de coisas coloca-nos perante uma situação nova: a congestão além de ser um factor de rivalidade no acesso à infraestrutura rodoviária, pode atingir um nível tal que exija medidas de exclusão para literalmente estancar, de forma sistemática e repetida, o acesso de um número de veículos que teima em se tornar excessivamente elevado.
+Este estado de coisas coloca-nos perante uma situação nova: a congestão além de ser um factor de rivalidade no acesso à infraestrutura rodoviária, pode atingir um nível tal que exija medidas de exclusão para, literalmente, estancar, de forma sistemática e repetida, o acesso de um número de veículos que teima em se tornar excessivamente elevado.
 
 A necessidade destas medidas de exclusão decorre também de externalidades decorrentes do elevado número de veículos em circulação como a degradação da qualidade do ar, a elevação excessiva dos níveis de ruído ambiente, a congestão dos sistemas de estacionamento automóvel nos centros urbanos e o excesso de produção de gases de estufa.
 
 As medidas de exclusão não têm de passar apenas pela colocação de um preço no acesso ou uso da infraestrutura. Em várias cidades do mundo tem vindo, ao longo dos anos, a ser implementadas múltiplas formas de exclusão como, por exemplo, a proibição de circular veículos consoante a paridade dos números da matrícula, ou do ano de fabrico, etc. Em algumas cidades como, por exemplo, Lisboa avançou-se para a proibição total da circulação de veículos antigos sem catalisador de gases de escape.
 
-A microeconomia tem uma resposta pronta para esta situação: nas situações de congestionamento, existe um consumo excessivo do bem infraestrutura porque, na realidade, ao consumidor ou não é cobrado qualquer tipo de preço, ou é cobrado um preço, na forma de portagens e outras taxas, que não reflete os reais e efetivos custos da congestão rodoviária.
+A microeconomia tem uma resposta pronta para esta situação: nas situações de congestionamento, existe um consumo excessivo do bem infraestrutura porque, na realidade, ao consumidor não é cobrado qualquer tipo de preço ou é cobrado um preço, na forma de portagens e outras taxas, que não reflete os reais e efetivos custos da congestão rodoviária.
 
 Antes de avançarmos, tentemos analisar um pouco melhor a forma como os impedimentos à normal circulação se formam com o crescente aumento da procura.
 
@@ -224,9 +225,9 @@ O gráfico da Figura \ref{fluxovel}, produzido num detalhado estudo de tráfego 
 Quando a procura pela via é ainda baixa, por exemplo fora de hora de ponta -- de madrugada, a velocidade verificada poderá estar próxima do máximo permitido. Isso corresponde ao início da curva, ao alto à esquerda do gráfico (A). 
 
 À medida que a procura aumenta, o fluxo aumenta correspondentemente. Perante a ocupação da via por um número crescente de veículos não só o espaço disponível para cada veículo diminui como também, com frequência crescente, os veículos circulando a maior velocidade são barrados pelos que circulam mais lentamente, obrigando-os a efectuar ultrapassagens. O efeito conjugado de ambas as situações provoca uma diminuição geral da velocidade de circulação, correspondente à parte da curva, no cimo do gráfico, que desce ao mover-mo-nos da esquerda para a direita (B).
-Se a procura continuar a subir, as condições descritas agravam-se. Perante o atingir de um limite físico relacionado com as características físicas da via (C), a velocidade média continua a diminuir e, agora,o próprio volume de tráfego começa também a diminuir, uma vez que à baixa velocidade média atingida correspondem tempos de deslocação elevados: o ritmo de saída de veículos não compensa o ritmo da entrada e os veículos acumulam-se crescentemente num espaço disponível cada vez mais exíguo. Esta é a situação correspondente ao extremo inferior da curva do gráfico (D).
+Se a procura continuar a subir, as condições descritas agravam-se. Perante o atingir de um limite físico relacionado com as características físicas da via (C), a velocidade média continua a diminuir e, agora, o próprio volume de tráfego começa também a diminuir, uma vez que à baixa velocidade média atingida correspondem tempos de deslocação elevados: o ritmo de saída de veículos não compensa o ritmo da entrada e os veículos acumulam-se crescentemente num espaço disponível cada vez mais exíguo. Esta é a situação correspondente ao extremo inferior da curva do gráfico (D).
 
-A disponibilidade de faixas de circulação adicionais permite aumentar o valor de fluxo, ou volume de tráfego, máximo, fazendo com que a curva do gráfico possa aumentar para direita. Essa é muitas vezes encarada como a forma habitual de resolver problemas de congestionamento sistemático. 
+A disponibilidade de faixas de circulação adicionais permite aumentar o valor de fluxo, ou volume de tráfego, máximo, fazendo com que a curva do gráfico possa aumentar para a direita. Essa é muitas vezes encarada como a forma habitual de resolver problemas de congestionamento sistemático. 
 Contudo existem limites óbvios a esta solução: isso exige uma ocupação de solo adicional e, como as condições de tráfego mais intenso tendem a acontecer junto aos aglomerados populacionais mais densos, esta necessidade tem maior tendência a ocorrer onde o solo é mais caro, já nem sequer está disponível ou, estando ainda disponível, é descontínuo e não facilita a definição de corredores viários.
 
 Deste ponto de vista faz todo o sentido colocar um preço no consumo de infraestruturas.
@@ -239,13 +240,20 @@ Analisemos brevemente os custos económicos do congestionamento de tráfego como
 
 Como podemos ver, o fluxo ótimo (entendido como volume de tráfego medido em número de veículos por unidade de tempo) seria F\*, correspondente ao cruzamento da curva da procura com a curva do custo marginal. Este é o ponto em que o benefício social da entrada de um novo veículo iguala o custo social dessa mesma entrada. Contudo, na realidade, o fluxo verificado é, em regra, superior (Fa). A área sombreada do gráfico que liga os pontos A, B e C representa a *perda de bem-estar social* decorrente da utilização da estrada por Fa veículos, acima de F\*.
 
-São inúmeros os apelos diários, é uma preocupação mundial, todos os dias chegam notícias que
-
 Os condutores dos veículos adicionais (correspondentes à diferença entre Fa e F\*) não têm noção do impacto efetivo da sua presença sobre os veículos F\* que já se encontram a circular. Na verdade, o custo da entrada do veículo correspondente a Fa tem um custo correspondente ao tamanho da linha Fa-A quando o benefício social dessa entrada corresponde na realidade ao comprimento Fa-B, muito menor.
 
-Apesar disso, é expectável que seja atingido um equilíbrio quando o valor da procura iguala o custo médio, do qual os condutores já deverão ter noção, incluíndo o custo de oportunidade de cada condutor correspondente ao tempo gasto em viagem que poderia ser dispendido com uma actividade produtiva. 
+Apesar disso, é expectável que seja atingido um equilíbrio quando o valor da procura iguala o custo médio, do qual os condutores já deverão ter noção, incluíndo o custo de oportunidade de cada condutor correspondente ao tempo gasto em viagem que poderia, entre outras, ser dispendido com uma actividade produtiva, geradora de rendimento. 
 
-Assim, a existência de uma forma de cobrança de um preço nas vias habitualmente sujeitas a condições de congestão será uma consequência lógica a extrair da Figura \ref{custoscong} e dos parágrafos anteriores. Ao adicionar o valor desse preço ao custo médio suportado por cada condutor, a curva do custo médio deslocar-se-á para a esquerda, aproximando-se da curva do custo marginal. Dessa forma o fluxo efetivo será mais próximo do fluxo ótimo F\*.
+Assim, a necessidade da existência da cobrança de um preço nas vias habitualmente sujeitas a condições de congestão será uma consequência lógica a extrair da Figura \ref{custoscong} e dos parágrafos anteriores. Ao adicionar o valor desse preço ao custo médio suportado por cada condutor, a curva do custo médio deslocar-se-á para a esquerda, aproximando-se da curva do custo marginal. Dessa forma o fluxo efetivo será mais próximo do fluxo ótimo F\*.
+
+Contudo, como foi atrás explicado, os custos de congestão não são, ou podem não ser, óbvios para uma porção dos automobilistas em circulação, que pode ser significativa. Assim é expectável que a cobrança de tais custos possa enfrentar uma oposição pública considerável. Em conseqência, a preparação e introdução de tal medida deveria ser feita com o maior rigor e transparência possíveis.
+
+Em conclusão a este capítulo é importante salientar a necessidade de, nos projetos de infraestruturação rodoviária, haver um cuidado maior em proceder a uma avaliação de custo benefício que seja
+
+- mais holística e que não se centre apenas no projeto 
+
+
+## A necessidade de avaliar o benefício social líquido
 
 
 

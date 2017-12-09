@@ -12,8 +12,7 @@
 
 \vspace{3cm}
 
-\begingroup
-\fontsize{14pt}{16pt}\selectfont
+
 
 \begin{tabular}[h!]{ P{3.5cm} P{10.9cm} }
 
@@ -21,7 +20,7 @@
 \textbf{IMPACTOS DA COBRANÇA DE PORTAGENS NA MOBILIDADE RODOVIÁRIA} 
 
 \end{tabular}	
-\endgroup
+
 
 \thispagestyle{empty}
 
@@ -112,9 +111,9 @@ Professor Associado, Universidade de Aveiro \\
 \begin{tabular}[h!]{ P{3.5cm} P{9cm} }
 
 \textbf{agradecimentos} & \fontsize{10pt}{12pt}\selectfont
-Um agradecimento especial ao orientador Professor Doutor Eduardo Anselmo Moreira Fernandes de Castro pela inspiração prestada, também ao co-orientador Doutor João José Lourenço Marques pelo esforços no sentido desta disssertação chegar a bom porto. \\
+Um agradecimento especial ao orientador Professor Doutor Eduardo Anselmo Moreira Fernandes de Castro pelo apoio e inspiração prestados e ao co-orientador Doutor João José Lourenço Marques pelos esforços no sentido desta disssertação poder chegar a bom porto. \\
 & \fontsize{10pt}{12pt}\selectfont
-Um agradecimento à Infraestrutura de Portugal I.P. pela contribuição com um importante conjunto de dados. \\
+Um agradecimento à Infraestruturas de Portugal I.P. pela contribuição com um importante e indispensável conjunto de dados de tráfego. \\
 
 \end{tabular}
 
@@ -161,11 +160,11 @@ Highway, toll, net social benefit, congestion pricing \\
 & \\
 
 \textbf{abstract} & \fontsize{10pt}{12pt}\selectfont
-Up to late XX\textsuperscript{th} century, Portugal lagged behind most european counterparts in road infraestructure. An ambitious plan of investment with private-public credit-funded partnerships was put in place. At the end of the first decade of 2000, the Republic's debt was internationally considered excessive, internal and external political pressure forced it to be reduced. Government pursued overall relaxation of State costs and the maximizing of additional revenue sources. An important part of public debt originated from the road infraestruture programme, the government decided that additional revenue should come from tolling. In the first years of the programme, several new highway routes were free from tolls. After this decision no toll-free highway routes were left. This change was faced with mild opposition from public, only locally affected social groups organized some protests, of little impact. \\
+Up to late XX\textsuperscript{th} century, Portugal lagged behind most european counterparts in road infraestructure. As an ambitious plan of investment with private-public credit-funded partnerships was put in place. At the end of the first decade of 2000, the Republic's debt was internationally considered excessive, internal and external political pressure forced it to be reduced. Government pursued overall relaxation of State costs and the maximizing of additional revenue sources. An important part of public debt originated from the road infraestruture programme, the government decided that additional revenue should come from tolling. In the first years of the programme, several new highway routes were free from tolls. After this decision no toll-free highway routes were left. This change was faced with mild opposition from public, only locally affected social groups organized some protests, of little impact. \\
 & \fontsize{10pt}{12pt}\selectfont
 As the general tolling scheme was imposed immediately highway demand fell sharply. Before this, when free highways were available , alternative roads were freed from previous traffic congestion and were handed from central government administration to municipalities, who implemented changes like new pavements and traffic calming measures, making them even less appropriate for medium or long distance road journeys. When the all-tolling scheme started, part of the highway-going traffic returned back to these alternative roads, restoring the previous congestion levels on an even less favourable environment, for exemaple, forcing even slower average speeds than before. \\
 & \fontsize{10pt}{12pt}\selectfont
-This government line of action is consistent with the ongoing overall intent of incremental privatization of State areas of intervention, focused on finantial performance. In order to attract private investiment and promote sound accountability, "business areas" are strictly defined in order to clearly measure all costs and revenues. In this process, externalities difficult to account for are put aside as State-only responsabilities. In the road tolling scheme case, the value of the external cost of alternative road congestion and the value of  public benefit from highway use are considered too difficult to calculate. The effect of highway availability on local economies and the expected associated tax revenue increase is also considered too difficult to be calculated properly. So, these impacts are kept out from road project accounting. From the private investor point-of-view this is ok, it's responsability is solely to design, finance, build and operate the road. As for the State, this situation is unacceptable as it should, by all means, globally promote citizen welfare. External benefits and costs are real, despite any difficulties in valuating them. State must promote welfare, not diminish it. \\
+This government line of action is consistent with the ongoing overall intent of incremental privatization of many State areas of intervention, focused on finantial performance. In order to attract private investiment and promote sound accountability, "business areas" are strictly defined in order to clearly measure all costs and revenues. In this process, externalities difficult to account for are put aside as State-only responsabilities. In the road tolling scheme case, the value of the external cost of alternative road congestion and the value of  public benefit from highway use are considered too difficult to calculate. The effect of highway availability on local economies and the expected associated tax revenue increase is also considered too difficult to be calculated properly. So, these impacts are kept out from road project accounting. From the private investor point-of-view this is ok, it's responsability is solely to design, finance, build and operate the road. As for the State, this situation is unacceptable as it should, by all means, globally promote citizen welfare. External benefits and costs are real, despite any difficulties in valuating them. State must promote welfare, not diminish it. \\
 & \fontsize{10pt}{12pt}\selectfont
 This dissertation tries to contribute to this debate by essaying analysis and valuation methods for external costs and benefits, specific of road projects and will try to help showing that the whole portuguese society loses with an all-routes fixed toll collecting scheme. \\
 

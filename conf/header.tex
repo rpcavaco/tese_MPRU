@@ -14,8 +14,6 @@
 % Comandos: sin­glespac­ing, \one­half­s­pac­ing, \dou­blespac­ing
 \usepackage{setspace}
 
-
-
 % sectsty permite alterar os estilos dos section headers
 \usepackage{sectsty}
 
@@ -45,6 +43,9 @@
 % comando de titlesec para formatar o título de capítulo - remove 0 zero
 \titleformat{\chapter}{\normalfont\sffamily\huge}{\thechapter.}{22pt}{\normalfont\sffamily\huge}
 % \titleformat{\chapter}{\normalfont\sffamily\huge}{\ifnum\thechapter>0 \thechapter.\fi}{6pt}{\normalfont\sffamily\huge}
+
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{1em}{\setstretch{0.1}}
+
 
 % fontspec é necessário para alterar fontes com o XELATEX engine
 %\usepackage{fontspec}
