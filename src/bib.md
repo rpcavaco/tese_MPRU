@@ -1,4 +1,5 @@
 
-# Bibliografia
+
+\chapter*{Bibliografia}
 
 \singlespacing

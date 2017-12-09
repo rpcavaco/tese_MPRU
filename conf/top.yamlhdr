@@ -3,21 +3,17 @@ title: Impactos da cobrança de portagens na mobilidade rodoviária
 author: Rui Pedro Cavaco Barrosa
 
 # configs gerais
-documentclass: book
-lang: pt-BR
+documentclass: article
+classoption: oneside
 
-classoption: twoside
-fontsize: 12pt
-link-citations: true
-notes-after-punctuation: true
 
 # Typeface
-
+fontsize: 12pt
 mainfont: Nimbus Sans L
 sansfont: Nimbus Sans L
 
 # detalhes paginação e output
-geometry: "left=3cm,right=2.5cm,top=3cm,bottom=3cm"
+geometry: "a4paper,left=3cm,right=2.5cm,top=3cm,bottom=3cm"
 output: pdf_document
 
 ---
