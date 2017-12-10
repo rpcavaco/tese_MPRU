@@ -265,9 +265,9 @@ Assim, continuando a discutir a existência de autostradas e a cobrança de port
 
 # A minimização do custo social 
 
-Como vimos atrás em \autoref{chap:subitamudanca}, existe em Portugal, desde 2009, uma pressão pública importante no sentido que *os beneficiários de cada serviço público cubram os custos do mesmo*.
+Como vimos atrás na \autoref{chap:subitamudanca}, existe em Portugal, desde 2009, uma pressão pública importante no sentido que *os beneficiários de cada serviço público cubram os custos do mesmo*.
 
-Contudo, @newbery1987, num  "working paper" produzido para o Fundo Monetário Internacional (FMI), fazia uma referencia muito clara à necessidade de contabilizar com clareza os "road use costs" (custos de utilização) de forma a equilibrá-los com correspondentes "road user charges" (cobrança de taxas de uso).
+Contudo, @newbery1987, num  "working paper" produzido para o Fundo Monetário Internacional (FMI), fazia uma referencia muito clara à necessidade de contabilizar com clareza os "road use costs" (custos de utilização) e equilibrá-los com correspondentes "road user charges" (cobrança de taxas de uso).
 
 Este autor distingue com clareza as situações do transporte de mercadorias do transporte de passageiros. ....
 
