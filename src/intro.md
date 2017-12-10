@@ -57,8 +57,7 @@ Em 2008, num relatório de auditoria do Tribunal de Contas, [@TC2008] citado por
 
 Na documentação sobre os projectos e contratos DBFO, é indicado, sobre a transferência de riscos, que:
 
-> *"A alocação do risco e da recompensa entre as partes contratantes [Estado e privados] deverá ser claramente definida e os proveitos do sector privado deverão ser genuinamente sujeitos a riscos. Espera-se que os parceiros privados __assumam a maioria dos riscos__ associados ao projecto, construção , manutenção, operação e financiamento de cada projecto. Estes riscos incluirão desde riscos associados às obras de construção e de manutenção e respectivo ajuste aos tempos e fundos disponíveis e isto para um horizonte global de 30 anos de contrato.
-(tradução, sublinhado e nota do autor, [@dbfo_uk])"*
+> *"A alocação do risco e da recompensa entre as partes contratantes [Estado e privados] deverá ser claramente definida e os proveitos do sector privado deverão ser genuinamente sujeitos a riscos. Espera-se que os parceiros privados __assumam a maioria dos riscos__ associados ao projecto, construção , manutenção, operação e financiamento de cada projecto. Estes riscos incluirão desde riscos associados às obras de construção e de manutenção e respectivo ajuste aos tempos e fundos disponíveis e isto para um horizonte global de 30 anos de contrato."* (tradução, sublinhado e nota do autor, [@dbfo_uk])
 
 Esta indicação da assunção da maioria dos riscos pelo privado não parece que tenha se verificado na realidade, como à frente o autor tenta demonstrar.
 
