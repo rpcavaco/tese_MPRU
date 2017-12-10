@@ -194,6 +194,8 @@ Apesar de a administração destas estradas ser, na sua maioria, responsabilidad
 
 ## Congestão de tráfego: rivalidade no consumo e a necessidade de cobrar um preço
 
+Label .... 
+
 No tempo, cada vez mais longínquo, em que a posse de um automóvel, como bem pessoal ou familiar correspondia à aquisição de um bem de luxo, ao alcance de um número reduzido de famílias, a congestão das vias era uma situação pontual, decorrente de situações acidentais ou da impreparação da sociedade para conviver ocasionalmente com o automóvel.
 
 Nesse estado de coisas, nessas épocas, claramente a parca infraestrutura rodoviária disponível correspondia a bens não-rivais e não-exclusivos: não existiam externalidades negativas importantes nem quaisquer restrições sistemáticas à circulação e, portanto, não fazia qualquer sentido sequer pensar em estabelecer qualquer tipo de limitações. De igual forma não existia despesa substancial em novas infraestruturas, pelo que não haveria necessidade de o Estado obter receitas especificas para as cobrir.
@@ -269,10 +271,60 @@ Como vimos atrás na \autoref{chap:subitamudanca}, existe em Portugal, desde 200
 
 Contudo, @newbery1987, num  "working paper" produzido para o Fundo Monetário Internacional (FMI), fazia uma referencia muito clara à necessidade de contabilizar com clareza os "road use costs" (custos de utilização) e equilibrá-los com correspondentes "road user charges" (cobrança de taxas de uso).
 
-Este autor distingue com clareza as situações do transporte de mercadorias do transporte de passageiros. ....
+Não podemos esquecer que uma parte dos custos globais  de circulação rodoviária são internalizados na forma de, no todo ou em parte, custos de combustível, aquisição de veículos, custos de manutenção dos mesmos, etc. Assim, a análise que é produzida deste ponto em diante diz apenas respeito à contabilização de custos externos.
+
+Segundo @newbery1987, a cobrança deste tipo de  custos corresponderia, já na década de 1980 e em vários países,  a parte das receitas de um conjunto de taxas sobre o consumo de combustível, sobre a aquisição de  veículos novos, etc.
+
+Este autor distingue com clareza as situações do transporte de mercadorias do transporte de passageiros. 
+
+Os custos de infrestrutura atribuíveis ao transporte de mercadorias correspondem a um custo intermédio que irá refletir-se no preço final de múltiplos produtos. Assim, ainda segundo Newbery, os custos a imputar a este tipo de transporte rodoviário deveriam corresponder essencialmente ao custo marginal de manutenção das vias. O principal custo de manutenção de vias é o custo associado à degradação da camada superior do piso de rodagem. É evidente o papel principal que os veículos pesados de mercadorias [@newbery1987] assumem neste desgaste, sendo assim particularmente consequente a assunção preferencial dos  custos marginais de desgaste por este tipo de veículos.
+
+Em contraste, o custo a imputar ao transporte rodoviário de passageiros, em especial aquele efetuado em veículo de transporte individual, deveria ser alvo de uma taxação completa refletindo a totalidade das externalidades a cobrir.
+
+Assim, do ponto de vista de Newbery, a cobrança integral da totalidade dos custos externos a considerar poderá repartir-se entre a cobrança de taxas e impostos indirectos e a implementação de sistemas de "road pricing". 
+
+A implementação de sistemas de "road pricing" tem vantagem clara de permitir a colocação de um preço no fluxo de tráfego, claramente internalizando, pelo menos, os custos de congestão, tal como atrás defendido em Label ..... Congestão .....
+
+Para centrarmos a nossa análise em torno do equilíbrio ou da minimização do custo social das infraestruturas rodoviárias, precisamos de ter ideias claras sobre metodologias de contabilização e fontes possíveis de dados, o que será feito no ponto seguinte.
+
+## Categorização e contabilização de custos
+
+Seguindo newbery e RICARDO podemos categorizar os custos externos duma infraestrutura rodoviária da seguinte forma:
+
+- custos de congestão;
+- custos associados à sinistralidade;
+- custos de poluição;
+- outras externalidades não especificadas;
+- custos de desgaste e manutenção das vias.
+
+Como é manifesto, esta dissertação centra o seu foco na análise dos custos de congestão. Isso não nos impede de tecer considerações breves sobre as restantes categorias.
+
+## Custos associados à sinistralidade
+
+Este é um domínio particularmente difícil de abordar e não apenas pela dificuldade em valorizar financeiramente a  vida ou o sofrimento humanos. 
+
+Uma parte dos custos de sinistralidade está, à partida, internalizada no pagamento de prémios de seguro. Assim, contabilizar custos externos associados à ocorrência de acidentes rodoviários exige uma análise altamente especializada que está fora dos objetivos desta dissertação.
+
+Desviar tráfego para uma autoestrada afasta os veículos automóveis de pedestres e condutores de velocípedes mas, em  contrapartida, fomenta a deslocação a velocidades elevadas o que alguns autores .... ref ... consideram um fator de risco de acidente muito significativo.
+
+No limite, poderíamos encontrar cenários reais em que a sinistralidade nas autoestradas não seria "inferior" ou "melhor" mas apenas diferente, ao fomentar a ocorrência de acidentes de diferentes tipologias ou até ao fomentar a ocorrência de menor número de acidentes mas mais graves.
+
+Seguindo os passos de @newbery1989 e @newbery1990, deixaremos esta difícil categoria de parte.
+
+## Custos de poluição
+
+Nesta categoria, poderíamos contabilizar custos associados a:
+
+- produção de ruído
+- produção gases nocivos à saúde
+- produção de gases com efeito de estufa
+- produção partículas
 
 
 
 
-
-
+RICARDO - AEA
+Update  of  the Handbook  on   External  Costs of  Transport
+Final  Report
+2014
+DG MOVE
