@@ -4,7 +4,7 @@
 
 # Introdução
 
-O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha *circa* 1992 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. A intenção dos promotores políticos destas iniciativas era conseguir, em prazo curto, vencer a significativa desvantagem do país, face aos parceiros europeus, em infraestruturas de transporte. A aplicação do modelo PPP aos projectos rodoviários, ao permitir ultrapassar certas limitações à despesa de um estado significativamente endividado, surgiu como única possibilidade de resolver este problema. Na implementação de PPPR destacam-se, a partir de 1997, as chamadas SCUT, autoestradas sem custos directos para o utente, cujo acesso livre poderia contribuir para diminuir as marcantes assimetrias socioeconómicas das regiões interiores do país. A perspectiva positiva deste acesso livre foi ensombrecida quando, a partir de 2006, entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um crescente distanciamento entre custos previstos e custos efetivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. 
+O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha *circa* 1992 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. A intenção dos promotores políticos destas iniciativas era conseguir, em prazo curto, vencer a significativa desvantagem do país, face aos parceiros europeus, em infraestruturas de transporte. A aplicação do modelo PPP aos projectos rodoviários, ao permitir ultrapassar certas limitações à despesa de um estado significativamente endividado, surgiu como única possibilidade de resolver este problema. Na implementação de PPPR destacam-se, a partir de 1997, as chamadas SCUT, autoestradas sem custos diretos para o utente, cujo acesso livre poderia contribuir para diminuir as marcantes assimetrias socioeconómicas das regiões interiores do país. A perspectiva positiva deste acesso livre foi ensombrecida quando, a partir de 2006, entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um crescente distanciamento entre custos previstos e custos efetivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. 
 
 \setcounter{page}{1}
 \pagenumbering{arabic}
@@ -137,6 +137,8 @@ Convém salientar, como é demonstrado mais à frente no \autoref{chap:fundpol},
 
 ### Súbita mudança de orientação política
 
+\label{chap:subitamudanca}
+
 Perante este cenário de fragilidade dos contratos das PPPR e perante uma degradação geral das contas do Estado, que levaria à já referida crise financeira grave, o governo português começou em 2009 a preparar a introdução de portagem em alguns dos troços de autoestrada sujeitos ao regime SCUT. Não serão alheias a estas medidas as pressões externas que se fazem sentir dos restantes países europeus para que Portugal cumprisse objectivos decorrentes do Pacto de Estabilidade e Crescimento, no qual cada estado-membro se compromete a conter o seu défice público e dívida pública dentro de limites bem definidos. Durante anos Portugal não cumpriu um ou ambos destes limites em especial o limite do défice a partir de 2001 [@ifo_violations].
 
 Daí decorreria a necessidade clara de diminuir a despesa pública e o endividamento. Como as PPPR representam uma significativa fonte de encargos para o Estado, certamente esta terá sido logo uma área a considerar para este efeito. Das globalidade das PPPR, os empreendimentos SCUT eram aqueles que apresentavam maior nível de encargos brutos, como é evidente na tabela \ref{encargosBruto2012}.
@@ -183,7 +185,7 @@ Das seis concessões/troços analisadas o estudo concluí pela introdução de p
 
 Apesar da pretensa preocupação de clareza que, supostamente, teria norteado este estudo, passados vários anos da introdução de portagens na generalidade dos troços de autoestrada em Portugal continua não ser explícito para o público o método de definição dos valores de taxas de portagem.
 
-Para este efeito, o Decreto-Lei n.º 111/2011 fixa um valor de referência de €0,06671/km (s/ IVA), valores com referência a Dezembro de 2006 e actualizáveis pelo IPC de Dezembro de cada ano. Como se chegou a este valor não é explicado. Por outro lado, a lei abre múltiplas possibilidade de variação que são efetivamente aplicadas no terreno duma forma absolutamente nada transparente.
+Para este efeito, o Decreto-Lei n.º 111/2011 fixa um valor de referência de €0,06671/km (s/ IVA), valores com referência a Dezembro de 2006 e atualizáveis pelo IPC de Dezembro de cada ano. Como se chegou a este valor não é explicado. Por outro lado, a lei abre múltiplas possibilidade de variação que são efetivamente aplicadas no terreno duma forma absolutamente nada transparente.
 
 
 # Definição do problema
@@ -258,9 +260,9 @@ N_{D} =  \frac{R}{V_{TMDA} * P_{max}}
 Segundo a equação \ref{nD}, o valor de $N_{D}$ será de 8740 dias ou cerca de 24 anos. Tudo isto parece bem: a portagem em cobrança parece permitir cobrir o investimento inicial em menos de 30 anos (prazo habitual das concessões PPPR portuguesas). Não nos podemos esquecer de dois detalhes:
 
 - os custos da infraestrutura não tem apenas a ver com o investimento inicial;
-- a portagem actualmente cobrada na A17 está acima da tarifa de referência para o valor por quilómetro actualizado para 2016 com IVA (€0,1510/km > €0,098/km).
+- a portagem atualmente cobrada na A17 está acima da tarifa de referência para o valor por quilómetro atualizado para 2016 com IVA (€0,1510/km > €0,098/km).
 
-Se usarmos o dito valor de referência actualizado para o mesmo cálculo, teríamos $N_{D}$ igual a 13665 dias, o que significa mais de 37 anos.
+Se usarmos o dito valor de referência atualizado para o mesmo cálculo, teríamos $N_{D}$ igual a 13665 dias, o que significa mais de 37 anos.
 
 Estes cálculos são executados sobre valores médios e apenas pretendem dar uma ideia genérica das questões sobre as quais decisores políticos e técnicos são chamados a pronunciar-se. Mesmo assim, várias dúvidas podem imediatamente surgir relativamente à introdução de portagens, quer nas ex-SCUT quer nos novos troços de autoestrada portajada em zonas de reduzida procura:
 
@@ -313,7 +315,7 @@ Assim, privado de parte da sua utilidade, privado de utentes, um investimento qu
 
 Eventualmente, nem mesmo o objectivo de colecta de fundos, com a cobrança de portagens, será cumprido em suficiência uma vez que, na realidade, os volumes de tráfego são, em vários troços, diminutos. Este facto sugere que a introdução de cobrança de portagem, em certos troços, pode mesmo ser contraproducente: nem há colecta substancial, nem as autoestradas cumprem cabalmente o objectivo para que foram criadas, o investimento realizado ficará por rentabilizar.
 
-Não podemos deixar de sublinhar que, apesar dos múltiplos e evitáveis aspectos de má gestão salientados pelo Tribunal de Contas e outros, dando a azo a opiniões fortemente negativas muito propaladas na comunicação social, o real esforço financeiro não parecia exagerado em 2012 quando não se previa ultrapassar os 2,5% da despesa do Estado no ano de maior esforço. Essas previsões não contabilizavam ainda as chamadas subconcessões de corredores concessionados pelo Estado à empresa Infraestruturas de Portugal. Hoje sabemos, pelos trabalhos da UTAP [^fnUTAP], que o ano de maior esforço será mesmo o ano actual de 2017 com um valor acima da previsão de de 2012 num esforço elevado mas não incomportável.
+Não podemos deixar de sublinhar que, apesar dos múltiplos e evitáveis aspectos de má gestão salientados pelo Tribunal de Contas e outros, dando a azo a opiniões fortemente negativas muito propaladas na comunicação social, o real esforço financeiro não parecia exagerado em 2012 quando não se previa ultrapassar os 2,5% da despesa do Estado no ano de maior esforço. Essas previsões não contabilizavam ainda as chamadas subconcessões de corredores concessionados pelo Estado à empresa Infraestruturas de Portugal. Hoje sabemos, pelos trabalhos da UTAP [^fnUTAP], que o ano de maior esforço será mesmo o ano atual de 2017 com um valor acima da previsão de de 2012 num esforço elevado mas não incomportável.
 
 [^fnUTAP]: Unidade técnica de acompanhamento de projectos do Ministério das Finanças que produz Boletins Anuais e Trimestrais de acompanhamento às PPP na sua generalidade.
 

@@ -76,7 +76,7 @@ Dissertação apresentada à Universidade de Aveiro para cumprimento dos requisi
 \fontsize{10pt}{12pt}\selectfont
 presidente & 
 \fontsize{10pt}{12pt}\selectfont
-Prof. Doutor Gonçalo Alves de Sousa Santinha \\
+Professor Doutor Gonçalo Alves de Sousa Santinha \\
 
 & 
 \fontsize{8pt}{10pt}\selectfont

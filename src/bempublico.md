@@ -15,14 +15,14 @@ Sobram apenas alguns estudos, indicadores e meros comentários na comunicação 
 
 ## Custos da opção pelo "perfil de autoestrada"
 
-Para dar uma indicação de custos genéricos de construção por quilómetro, produz-se de seguida uma estimativa exploratória para um conjunto reduzido de empreendimentos rodoviários, assente apenas em valores extraídos da comunicação social. Para a actualização de preços a 2016 foi usado o calculador online baseado no Índice de Poder de Compra (IPC) do [INE](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ipc) recorrendo às opções "Actualização de Valores com Base no IPC, entre anos" e "Índice de preços no consumidor exceto habitação (Média anual)". 
+Para dar uma indicação de custos genéricos de construção por quilómetro, produz-se de seguida uma estimativa exploratória para um conjunto reduzido de empreendimentos rodoviários, assente apenas em valores extraídos da comunicação social. Para a atualização de preços a 2016 foi usado o calculador online baseado no Índice de Poder de Compra (IPC) do [INE](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ipc) recorrendo às opções "Actualização de Valores com Base no IPC, entre anos" e "Índice de preços no consumidor exceto habitação (Média anual)". 
 
 Os resultados dessa estimativa estão patentes na tabela \ref{tabcustokm}. Vemos que o custo por quilómetro de autoestrada, a preços de 2016, será certamente superior a 3 milhões de euros. Num estudo de 2011 para o INIR I.P. (extinto Instituto de Infraestruturas Rodoviárias cujas competências estão hoje no Instituto de Mobilidade e Transportes IMT) a empresa [Atkins](http://www.inir.pt/portal/LinkClick.aspx?fileticket=BgtP9KbyEg0%3D&tabid=178&mid=739&language=pt-PT) indica como custos de referência:
 
 - para construção com características de "IC" ou via rápida: 1 milhão de euros por km;
 - para construção com características de estrada nacional: 700 mil euros por km.
 
-Os valores indicados são obviamente genéricos e indicativos. Actualizados para 2016 seriam genericamente idênticos: 1039 e 726 mil euros, respectivamente.
+Os valores indicados são obviamente genéricos e indicativos. Atualizados para 2016 seriam genericamente idênticos: 1039 e 726 mil euros, respectivamente.
 
 Não podemos esquecer na produção deste tipo de estimativas que estes custos, além dos custos de construção civil, incluem os custos de expropriação de terrenos, o que ajuda a explicar o altíssimo valor encontrado para o fecho do IC17/CRIL, que atravessa uma área densamente urbanizada em terrenos muito valorizados na capital do país, enquanto o lanço *Fortunhos – VP Aguiar* da A24, que atravessa paisagem com uma ocupação humana de baixa densidade, tem um valor comparativamente muito mais baixo.
 
@@ -34,7 +34,7 @@ Não podemos esquecer na produção deste tipo de estimativas que estes custos, 
 
 \begin{tabular}{|lrcrrr|}
 \hline
-Obra                                      & \begin{tabular}[c]{@{}l@{}}Custo \\ construção \\ (CC milhão €)\end{tabular} & Ano* & \begin{tabular}[c]{@{}l@{}}CC actual. \\ a 2016 \\ (milhão €)\end{tabular} & \begin{tabular}[c]{@{}l@{}}Comprim. \\ (km)\end{tabular} & \begin{tabular}[c]{@{}l@{}}Milhões \\ €/km\end{tabular} \\ \hline
+Obra                                      & \begin{tabular}[c]{@{}l@{}}Custo \\ construção \\ (CC milhão €)\end{tabular} & Ano* & \begin{tabular}[c]{@{}l@{}}CC atual. \\ a 2016 \\ (milhão €)\end{tabular} & \begin{tabular}[c]{@{}l@{}}Comprim. \\ (km)\end{tabular} & \begin{tabular}[c]{@{}l@{}}Milhões \\ €/km\end{tabular} \\ \hline
 Ponte Vasco da Gama +  acessos            & 897                                                                          & 1998 & 1287                                                                       & 17,19                                                    & 74,89                                                   \\
 A36 – IC17/CRIL – Pina Manique – Pontinha & 114                                                                          & 2011 & 118                                                                        & 4                                                        & 29,5                                                    \\
 A10 – Ponte da Lezíria                    & 218                                                                          & 2007 & 241                                                                        & 11,46                                                    & 21,03                                                   \\
@@ -56,7 +56,7 @@ A24 – Vila Real Fortunhos – VP Aguiar     & 54                              
 \end{center}
 
 
-Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil alternativo de via rápida, seguindo o já referido critério de valor de TMDA 10000 veículos / dia, nos troços que não cumprem esse critério representa uma despesa de construção, no mínimo, três vezes superior ao que seria necessário. Como já foi atrás explicado, esta condição de volume de tráfego é encontrada em vários troços na nossa actual rede de autoestradas.
+Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil alternativo de via rápida, seguindo o já referido critério de valor de TMDA 10000 veículos / dia, nos troços que não cumprem esse critério representa uma despesa de construção, no mínimo, três vezes superior ao que seria necessário. Como já foi atrás explicado, esta condição de volume de tráfego é encontrada em vários troços na nossa atual rede de autoestradas.
 
 Este é um aspecto muito crítico da tomada de decisão sobre desenvolvimentos da rede de infraestruturas rodoviária. Uma decisão errada a este nível lança o país num claro desperdício financeiro que começa num investimento inicial desnecessariamente alto, com impacto nos pagamentos a efectuar por uma geração de portugueses. Talvez a necessidade do pagamento generalizado de portagens pudesse ter sido contornada também se, a este nível, tivesse havido uma ponderação mais cuidada.
 
@@ -77,9 +77,9 @@ Esta infraestrutura, parte da autoestrada A10 Arruda dos Vinhos - Benavente foi 
 Esta obra arrancou muito antes de qualquer outra das infraestruturas de apoio ao NAL e ficou pronta em 2007, ironicamente num momento em que a localização do NAL começou a ser publicamente posta em causa.
 
 Num [estudo](http://www.civil.ist.utl.pt/~mlopes/conteudos/TTT/NAL_CIP_RelatorioFinal_acessibilidades%20e%20transportes%20Out07.pdf) que hoje se encontra disponível online, uma empresa de consultoria especializada em mobilidade, produziu em 2007 um conjunto de previsões de volume de tráfego para esta via. 
-Estas previsões cobriam um conjunto de cenários, quer de localização do NAL quer de suspensão da obra com manutenção do actual aeroporto de Lisboa na Portela de Sacavém. A previsão de tráfego de valor mais baixo era de cerca de 13000 veículos/dia TMDA. Noutros cenários previam-se quase 30000 veículos/dia TMDA. 
+Estas previsões cobriam um conjunto de cenários, quer de localização do NAL quer de suspensão da obra com manutenção do atual aeroporto de Lisboa na Portela de Sacavém. A previsão de tráfego de valor mais baixo era de cerca de 13000 veículos/dia TMDA. Noutros cenários previam-se quase 30000 veículos/dia TMDA. 
 
-Num cenário coincidente com a situação actual, sem NAL e sem novas travessias do Tejo, para o ano de 2032, previam-se 13624 veículos/dia TMDA. 
+Num cenário coincidente com a situação atual, sem NAL e sem novas travessias do Tejo, para o ano de 2032, previam-se 13624 veículos/dia TMDA. 
 
 Do ponto de vista destes resultados, próximos de 30000 veículos/dia, supondo que poderia ainda haver crescimento no futuro, a opção pelo perfil existente de 2x3 vias estaria adequada. 
 
@@ -105,7 +105,7 @@ Analisando esse estudo e recorrendo a valores recentes para alguns dos indicador
 
 - A existência de uma correlação forte entre PIB, consumo de combustível e volume de tráfego geral
 
-	A realidade actual nega esta possibilidade: o PIB português caiu fortemente de 175 mil milhões de euros de 2007 [^fnPrecConst] (ano do referido estudo) para menos cerca de 170 mil milhões em 2013, tendo vindo a crescer paulatinamente desde então, tendo ultrapassado os 185 mil milhões de euros em 2016 ([PORDATA: Evolução do PIB](https://www.pordata.pt/Portugal/PIB+(base+2011)-130). Apesar disso, o consumo de combustíveis diminuiu ligeiramente, por exemplo, no gasóleo rodoviário de 4860 kt em 2017 para 4780 kt em Agosto de 2017 ([PORDATA - Venda de combustíveis](http://www.pordata.pt/Portugal/Venda+de+combust%c3%adveis+para+consumo-1131), Estatísticas rápidas Agosto de 2017 da [Direcção Geral de Energia e Geologia](http://www.dgeg.gov.pt/)).
+	A realidade atual nega esta possibilidade: o PIB português caiu fortemente de 175 mil milhões de euros de 2007 [^fnPrecConst] (ano do referido estudo) para menos cerca de 170 mil milhões em 2013, tendo vindo a crescer paulatinamente desde então, tendo ultrapassado os 185 mil milhões de euros em 2016 ([PORDATA: Evolução do PIB](https://www.pordata.pt/Portugal/PIB+(base+2011)-130). Apesar disso, o consumo de combustíveis diminuiu ligeiramente, por exemplo, no gasóleo rodoviário de 4860 kt em 2017 para 4780 kt em Agosto de 2017 ([PORDATA - Venda de combustíveis](http://www.pordata.pt/Portugal/Venda+de+combust%c3%adveis+para+consumo-1131), Estatísticas rápidas Agosto de 2017 da [Direcção Geral de Energia e Geologia](http://www.dgeg.gov.pt/)).
 	
 	Com o advento dos veículos eléctricos e as perspectivas de crescimento do transporte ferroviário, decorrentes exactamente da necessidade do cumprimento das metas de redução de gases com efeitos de estufa com as quais o país se comprometeu no âmbito de protocolos e acordos internacionais, o próprio consumo de combustível deverá passar a ser um estimador cada vez menos eficaz do tráfego rodoviário em geral. 
 	
@@ -246,20 +246,33 @@ Apesar disso, é expectável que seja atingido um equilíbrio quando o valor da 
 
 Assim, a necessidade da existência da cobrança de um preço nas vias habitualmente sujeitas a condições de congestão será uma consequência lógica a extrair da Figura \ref{custoscong} e dos parágrafos anteriores. Ao adicionar o valor desse preço ao custo médio suportado por cada condutor, a curva do custo médio deslocar-se-á para a esquerda, aproximando-se da curva do custo marginal. Dessa forma o fluxo efetivo será mais próximo do fluxo ótimo F\*.
 
-Contudo, como foi atrás explicado, os custos de congestão não são, ou podem não ser, óbvios para uma porção dos automobilistas em circulação, que pode ser significativa. Assim é expectável que a cobrança de tais custos possa enfrentar uma oposição pública considerável. Em conseqência, a preparação e introdução de tal medida deveria ser feita com o maior rigor e transparência possíveis.
+Contudo, como foi atrás explicado, os custos de congestão não são, ou podem não ser, óbvios para uma porção significativa dos automobilistas em circulação. Assim é expectável que a cobrança de taxas que cubram tais custos possa enfrentar uma oposição pública considerável. Em conseqência, a preparação, introdução e justificação de medidas deste tipo deveriam ser feitas com o maior rigor e transparência possíveis.
 
-Em conclusão a este capítulo é importante salientar a necessidade de, nos projetos de infraestruturação rodoviária, haver um cuidado maior em proceder a uma avaliação de custo benefício que seja
+## A necessidade de uma avaliação de custo-benefício completa
 
-- mais holística e que não se centre apenas no projeto 
+Em conclusão a este capítulo sobre o carácter público das infraestruturas rodoviárias, é importante salientar a necessidade de, nos projetos de infraestruturação rodoviária, haver um cuidado maior em proceder não só à habitual avaliação de custo-benefício (ACB) *ex-ante* [^fnACBRod] mas também, de um modo *ex-post*, manter uma avaliação ACB atualizada que permita fundamentar e orientar decisões, entre várias, como a introdução ou alteração de valores de portagem.
+
+Esta avaliação tem que se focar no benefício líquido social decorrente da existência da infraestrutura e do real impacto socioeconómico sobre a comunidade dos potenciais utentes e sobre uma área de infuência real, abrangente, incluindo as áreas servidas por estradas alternativas.
+
+[^fnACBRod]: Como vemos em @MJoaoRodrigues existe a prática da realização de este tipo de estudos de avaliação como suporte à decisão de construir nova infraestrutura.
+
+Da análise produzida em @MJoaoRodrigues verificamos que, na prática dos estudos de ACB em projetos portugueses, a definição e contablização de custos tem habitualmente um destaque muito acentuado perante a contabilização de benefícios. A possibilidade de contabilizar efeitos positivos na economia local, nomeadamente daqueles que, por via fiscal, teriam reflexo direto nas contas do Estado é remetida para "análises económicas" que são apenas veladamente referidas na fonte referida.
+
+Nesta dissertação assume-se ser esse um domínio de análise que, apesar de extremamente interessante, é demasiadamente exigente e, por essa razão não será aqui tratado com profundidade.
+
+Assim, continuando a discutir a existência de autostradas e a cobrança de portagens, seguir-se-á a prática portuguesa habitual: centrar-nos-emos em avaliações e comparações de custos em diferentes cenários.
 
 
-## A necessidade de avaliar o benefício social líquido
+# A minimização do custo social 
+
+Como vimos atrás em \autoref{chap:subitamudanca}, existe em Portugal, desde 2009, uma pressão pública importante no sentido que *os beneficiários de cada serviço público cubram os custos do mesmo*.
+
+Contudo, @newbery1987, num  "working paper" produzido para o Fundo Monetário Internacional (FMI), fazia uma referencia muito clara à necessidade de contabilizar com clareza os "road use costs" (custos de utilização) de forma a equilibrá-los com correspondentes "road user charges" (cobrança de taxas de uso).
+
+Este autor distingue com clareza as situações do transporte de mercadorias do transporte de passageiros. ....
 
 
 
 
 
 
-
-
-## Taxar o congestionamento *versus* cobrir os custos das autoestradas
