@@ -176,7 +176,7 @@ Apesar de, tanto quanto aqui nos interessa e como já vimos, as infraestruturas 
 - na correcção de externalidades negativas, em múltiplos aspectos, como, por exemplo:
 	- garantir condições de circulação em segurança;
 	- evitar a congestão das vias;
-	- garantir que as vias existentes se adequam à sua finalidade (vias de carácter urbano com tráfego local e de baixa velocidade, vias de ligação regional com tráfego segregado não afectado pela circulação local, etc.);
+	- garantir que as vias existentes se adequam à sua finalidade (vias de carácter urbano com tráfego local e de baixa velocidade, vias de ligação regional com tráfego segregado não afetado pela circulação local, etc.);
 	- minimizar a poluição e a produção de gases com efeito de estufa.
 
 [^fnProvCorr]: Além do mais, a necessidade de corredores viários é naturalmente crescente perante densidades populacionais igualmente crescentes, fazendo com que compita de forma progressivamente mais intensa com outros usos do solo o que tornando o seu provimento progressivamente mais difícil.
@@ -260,9 +260,11 @@ Esta avaliação tem que se focar no benefício líquido social decorrente da ex
 
 Da análise produzida em @MJoaoRodrigues verificamos que, na prática dos estudos de ACB em projetos portugueses, a definição e contablização de custos tem habitualmente um destaque muito acentuado perante a contabilização de benefícios. A possibilidade de contabilizar efeitos positivos na economia local, nomeadamente daqueles que, por via fiscal, teriam reflexo direto nas contas do Estado é remetida para "análises económicas" que são apenas veladamente referidas na fonte referida.
 
-Nesta dissertação assume-se ser esse um domínio de análise que, apesar de extremamente interessante, é demasiadamente exigente e, por essa razão não será aqui tratado com profundidade.
+Nesta dissertação assume-se ser esse um domínio de análise que, apesar de extremamente interessante, é demasiadamente exigente e, por essa razão não será aqui desenvolvido.
 
-Assim, continuando a discutir a existência de autostradas e a cobrança de portagens, seguir-se-á a prática portuguesa habitual: centrar-nos-emos em avaliações e comparações de custos em diferentes cenários.
+Assim, continuando a discutir a existência de autoestradas e a cobrança de portagens, seguir-se-á a prática portuguesa habitual: centrar-nos-emos em avaliações e comparações de custos em diferentes cenários. O objectivo da análise será o de taentar comparar o valor de portagem cobrada com os custos de congestão, em estradas alternativas, induzidos pela cobrança da dita portagem.
+
+Todavia, é importante salientar que o objectivo principal que deveria orientar a tomada de medidas legislativas e administrativas sobre estas matérias deveria ser a minimização da globalidade dos custos sociais envolvidos: se a aplicação de uma medida melhora um determinado item de receita (cobrança de portagem) mas que induz custos sociais acrescidos, isso revela que esses custos ou não estão a ser deveidamente avaliados ou que o Estado se está a furtar a assumi-los como devido.
 
 
 # A minimização do custo social 
@@ -297,7 +299,10 @@ Seguindo @newbery1987 e @ricardo podemos categorizar os custos externos duma inf
 - outras externalidades não especificadas;
 - custos de desgaste e manutenção das vias.
 
-Como é manifesto, esta dissertação centra o seu foco na análise dos custos de congestão. Isso não nos impede de tecer considerações breves sobre as restantes categorias.
+A preocupação central desta dissertação é a de contabilizar custos decorrentes do desvio de tráfego que poderia ciruclar em autoestrada atráves de vias alternativas com um carácter muitas vezes urbano ou periurbano. Desse ponto de vista serão importantes os custos de congestão, normalmente indexados ao tempo de viagem acrescido [@newbery1990]. Contudo, o impacto do desvio de tráfego ou da não utilização de autoestradas manifesta-se também em custos associados à sinistralidade, ao ambiente, etc.
+
+Em todos estes aspectos, precisaremos de obter custos indexados ao volume de tráfego ou ao , uma vez que é esta a principal variável afetada pela cobrança de portagem. Todas as categorias de custo onde tal se revele impossível, excessivamente complexo ou de relevância difícl de definir, são colocadas de fora da análise efetuada.
+
 
 ### Custos associados à sinistralidade
 
@@ -309,7 +314,7 @@ Desviar tráfego para uma autoestrada afasta os veículos automóveis de pedestr
 
 Um relatório técnico sobre a introdução de dispositivos de limitação de velocidade em certos tipos de veículo, na sequência da aplicação de uma diretiva comunitária de 2013 indica nas suas conclusões: 
 
-> *"It should be noticed, however, that speed limiters are an effective way to improve traffic safety on motorways. When introduced for LGVs, fatal accidents on motorways would be reduced by 16% or 28% (110 and 100 km/h speed limiter, respectively)."* [@tml p. 125]
+> *"It should be noticed, however, that speed limiters are an effective way to improve traffic safety on motorways. When introduced for LGVs, fatal accidents on motorways would be reduced by 16% or 28% (110 and 100 km/h speed limiter, respectively)."* (LGV: veículos ligeiros de mercadorias) [@tml p. 125]
 
 No limite, poderemos imaginar cenários em que a sinistralidade nas autoestradas potencie a ocorrência de acidentes de diferentes tipologias ou a ocorrência de menor número de acidentes mas mais graves em comparação com as estradas alternativas.
 
@@ -317,16 +322,25 @@ Em @newbery1987 e @newbery1990  é citado o *US Federal Highway Cost Allocation 
 
 > *"Quantitative estimation of accident cost and vehicle volume relationships, however, has not yet proved satisfactory.."*
 
-Seguindo os passos de @newbery1987 e @newbery1990, deixaremos esta difícil categoria de parte.
 
-## Custos de poluição
 
-Nesta categoria, poderíamos contabilizar custos associados a:
 
-- produção de ruído
-- produção gases nocivos à saúde
-- produção de gases com efeito de estufa
-- produção partículas
+## Custos de poluição atmosférica e ruído
+
+@newbery1990 indica que os custos de poluição estão correlacionados com os custos genéricos de congestão, devendo inclusivamente seguir os mesmos padrões de ocorrência no espaço, uma vez que como veremos .... , por exemplo, a emissão de poluentes é mais intensa a menores velocidades de circulação associadas às condições típicas do congestionamento de tráfego.
+
+A sua contabilização reveste-se também de uma complexidade elevada. Para a ilustrar atentemos no seguinte diagrama adaptado de um relatório técnico de 2011 da Agência Ambiental Europeia.
+
+![*Impact pathway approach*, fonte [@eea2011]\label{IPA}](../src/images/ipa_eea.png)
+
+Para a contabilização detalhada destes efeitos, necessitaríamos de confrontar espacialmente a dispersão da densidade populacional e a dispersão das concentrações de poluentes
+
+
+## Custos de degradação da camada superficial
+
+
+
+
 
 
 
