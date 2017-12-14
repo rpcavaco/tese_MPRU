@@ -301,7 +301,7 @@ Seguindo @newbery1987 e @ricardo podemos categorizar os custos externos duma inf
 
 A preocupação central desta dissertação é a de contabilizar custos decorrentes do desvio de tráfego que poderia ciruclar em autoestrada atráves de vias alternativas com um carácter muitas vezes urbano ou periurbano. Desse ponto de vista serão importantes os custos de congestão, normalmente indexados ao tempo de viagem acrescido [@newbery1990]. Contudo, o impacto do desvio de tráfego ou da não utilização de autoestradas manifesta-se também em custos associados à sinistralidade, ao ambiente, etc.
 
-Em todos estes aspectos, precisaremos de obter custos indexados ao volume de tráfego ou ao , uma vez que é esta a principal variável afetada pela cobrança de portagem. Todas as categorias de custo onde tal se revele impossível, excessivamente complexo ou de relevância difícl de definir, são colocadas de fora da análise efetuada.
+Em todos estes aspectos, precisaríamos de obter custos indexados ao volume de tráfego ou ao , uma vez que é esta a principal variável afetada pela cobrança de portagem. Todas as categorias de custo onde tal se revele impossível, excessivamente complexo ou de relevância difícl de definir, são colocadas de fora da análise efetuada.
 
 
 ### Custos associados à sinistralidade
@@ -318,11 +318,13 @@ Um relatório técnico sobre a introdução de dispositivos de limitação de ve
 
 No limite, poderemos imaginar cenários em que a sinistralidade nas autoestradas potencie a ocorrência de acidentes de diferentes tipologias ou a ocorrência de menor número de acidentes mas mais graves em comparação com as estradas alternativas.
 
-Em @newbery1987 e @newbery1990  é citado o *US Federal Highway Cost Allocation Study* de 1982, no qual se dizia:
+Em @newbery1987 e @newbery1990 é citado o *US Federal Highway Cost Allocation Study* de 1982, no qual se dizia:
 
 > *"Quantitative estimation of accident cost and vehicle volume relationships, however, has not yet proved satisfactory.."*
 
+Passaram-se entretanto cerca de 35 anos sobre o momento de produção desta frase e estão disponíveis, por exemplo em @ricardo, quantificações de custos de sinistralidade associados a medidas de volume de tráfego.
 
+Contudo, a análise detalhada deste item revelou-se excessivamente complexa para ser abordada no âmbito desta disssertação, pelo que foi decidido não considerar a relação entre congestão, sinistralidade e a contribuição dos respectivos custos para a metodologia a seguir no .... estudo empírico mais à frente.
 
 
 ## Custos de poluição atmosférica e ruído
