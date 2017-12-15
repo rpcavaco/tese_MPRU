@@ -285,9 +285,9 @@ Em contraste, o custo a imputar ao transporte rodoviário de passageiros, em esp
 
 Assim, do ponto de vista de Newbery, a cobrança integral da totalidade dos custos externos a considerar poderá repartir-se entre a cobrança de taxas e impostos indirectos e a implementação de sistemas de "road pricing". 
 
-A implementação de sistemas de "road pricing" tem vantagem clara de permitir a colocação de um preço no fluxo de tráfego, claramente internalizando, pelo menos, os custos de congestão, tal como atrás defendido na secção \autoref{chap:congest}.
+A implementação de sistemas de "road pricing" tem vantagem clara de permitir a colocação de um preço no fluxo de tráfego, claramente internalizando, pelo menos, os custos de congestão, tal como atrás defendido na \autoref{chap:congest}.
 
-Para centrarmos a nossa análise em torno do equilíbrio ou da minimização do custo social das infraestruturas rodoviárias, precisamos de ter ideias claras sobre metodologias de contabilização e fontes possíveis de dados, o que será feito no ponto seguinte.
+Para centrarmos a nossa análise (e, em especial, o estudo empírico a efetuar mais à frente no \autoref{chap:eemp}) em torno do equilíbrio ou da minimização do custo social das infraestruturas rodoviárias, precisamos de ter ideias claras sobre metodologias de contabilização e fontes possíveis de dados, o que será feito no ponto seguinte.
 
 ## Categorização e contabilização de custos
 
@@ -324,21 +324,42 @@ Em @newbery1987 e @newbery1990 é citado o *US Federal Highway Cost Allocation S
 
 Passaram-se entretanto cerca de 35 anos sobre o momento de produção desta frase e estão disponíveis, por exemplo em @ricardo, quantificações de custos de sinistralidade associados a medidas de volume de tráfego.
 
-Contudo, a análise detalhada deste item revelou-se excessivamente complexa para ser abordada no âmbito desta disssertação, pelo que foi decidido não considerar a relação entre congestão, sinistralidade e a contribuição dos respectivos custos para a metodologia a seguir no .... estudo empírico mais à frente.
-
+Contudo, a análise detalhada deste item revelou-se excessivamente complexa para ser abordada no âmbito desta disssertação, pelo que foi decidido não considerar a relação entre congestão, sinistralidade e a contribuição dos respectivos custos para a metodologia a seguir no estudo empírico mais à frente.
 
 ## Custos de poluição atmosférica e ruído
 
-@newbery1990 indica que os custos de poluição estão correlacionados com os custos genéricos de congestão, devendo inclusivamente seguir os mesmos padrões de ocorrência no espaço, uma vez que como veremos .... , por exemplo, a emissão de poluentes é mais intensa a menores velocidades de circulação associadas às condições típicas do congestionamento de tráfego.
+@newbery1990 indica que os custos de poluição estão correlacionados com os custos genéricos de congestão, devendo inclusivamente seguir os mesmos padrões de ocorrência no espaço, uma vez que como vemos na figura \ref{emissoes} , por exemplo, a emissão de poluentes é mais intensa a menores velocidades de circulação associadas às condições típicas do congestionamento de tráfego.
+
+![Efeito da velocidade nas emissoes de poluentes gasosos, fonte [@bokare]\label{emissoes}](../src/images/emissoes.png){ width=400px height=300px }
 
 A sua contabilização reveste-se também de uma complexidade elevada. Para a ilustrar atentemos no seguinte diagrama adaptado de um relatório técnico de 2011 da Agência Ambiental Europeia.
 
 ![*Impact pathway approach*, fonte [@eea2011]\label{IPA}](../src/images/ipa_eea.png)
 
-Para a contabilização detalhada destes efeitos, necessitaríamos de confrontar espacialmente a dispersão da densidade populacional e a dispersão das concentrações de poluentes
+Para a contabilização detalhada destes efeitos, necessitaríamos de confrontar espacialmente a dispersão da densidade populacional e a dispersão das concentrações de poluentes. Habitualmente, a dispersão é tratada com modelos matemáticos de simulação dos fenómenos físicos da atmosfera e da dinâmica dos gases.
+
+Para tratar custos deste tipo, teríamos de entrar em linha de conta com o facto de alguns gases, como por exemplo o dióxido de carbono, terem atribuídos valores de mercado.
+
+Também aqui, uma análise detalhada deste item mostra uma complexidade excessiva e, como tal, também aqui foi decidido manter esta categoria fora do âmbito de análise desta dissertação e da respectiva análise emprírica.
 
 
 ## Custos de degradação da camada superficial
+
+A degradação da camada superficial das vias está directamente relacionada com a "carga por eixo" dos veículos possui uma forte correlação com o tráfego de veículos pesados de mercadorias [@newbery1990]. 
+
+Para a análise empírica mais à frente no \autoref{chap:eemp}, os dados obtidos não incluem quaisquer indicações de cargas por eixo ou de carga associada à intensidade de tráfego de veículos pesados.
+
+Seguindo também a indicação de @newbery1987 e @newbery1990 da cobrança dos custos marginais de desgaste ser atribuída específicamente à circulação de veículos pesados de mercadorias, de forma separada, sem reflxo sobre os veículos ligeiros e de passageiros, foi decidido não os abordar na análise empírica efectuada.
+
+
+## Custos de congestão
+
+Seguindo as indicações dadas na \autoref{chap:congest}, a análise empírica desta dissertação centra-se nos custos de congestão de tráfego, usualmente decorrentes do facto de, com o nível de motorixzação existente nos nossos dias, ser muito fácil e até habitual a procura por via exceder a sua capacidade, o que tem como consequência o desaparecimento das condições de *"free flow"* [@HCM_SpRep209], de circulação livre, com o surgimento de dificuldades que, em regra geral, se traduzem na diminuição das velocidades médias de circulação e correspondente aumento do tempo de deslocação, que pode ir desde um valor inexpressivo até uma demora substancial que retém e afasta o automobilista e passageiros das suas atividades.
+
+A análise empírica efectuada tem um carácter eminentemente espacial. 
+
+O caso de estudo debruça-se sobre a transferência de tráfego entre uma autoestrada, ex-SCUT -- e que, por isso, foi inicialmente disponibilixada em acesso livre sem cobrança de portagem --  e as estradas alternativas, perante a perspectiva de colocação ou remoção de um preço de portagem. Pretende-se estimar efeitos dessas alterações  sobre o volume de tráfego, calculando valores de custos, que poderiam ser cobrados ao utente. Conclusões resultarão da comparação entre esses valores de custo e os valores de portagem cobrados.
+
 
 
 
