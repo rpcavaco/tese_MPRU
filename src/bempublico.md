@@ -133,13 +133,13 @@ Ao promover a construção de uma autoestrada está o governo de um país a prov
 
 - **não-rivalidade** (ou *não-exaustão*): o consumo do bem por um indivíduo não evita ou diminui o consumo do mesmo bem por outra pessoa
 
-Um indivíduo não pode ser excluído do acesso a um bem público como a defesa ou a mitigação dos efeitos de uma catástrofe natural por não pagar um determinado preço, por isso falamos de *não-exclusão* neste tipo de bens. De igual forma a *não-exaustão* também se aplica: em princípio e em condições ditas "normais", diriamos que mais um carro a passar numa infraestrutura não impediria a passagem de outros carros.
+Um indivíduo não pode ser excluído do acesso a um bem público como a defesa ou a mitigação dos efeitos de uma catástrofe natural por não pagar um determinado preço, por isso falamos de *não-exclusão* neste tipo de bens. De igual forma a *não-exaustão* também se aplica: em princípio e em condições ditas "normais", diríamos que mais um carro a passar numa infraestrutura não impediria a passagem de outros carros.
 
 Será mesmo assim? No caso das infraestruturas rodoviárias a *não-rivalidade* depende do estado de congestão do tráfego que a atravessa. Se o grau de congestão for elevado, um número elevado de veículos que se encontram a "consumir" o bem infraestrutura, atravessando-o, vão colocando entraves ao consumo por outros veículos adicionais, de forma crescente até se formar um engarrafamento e o fluxo de tráfego parar por bons minutos ou horas, durante as quais a velocidade efetiva de deslocação pode ser inferior ao andar a pé. Neste caso, o bem não estará efetivamente a ser consumido, uma vez que cada consumidor não consegue realmente tirar o benefício esperado: deslocar-se.
 
 O tema desta dissertação envolve autoestradas sujeitas a pagamento de portagem. O pagamento de uma taxa de portagem corresponde ao pagamento de um preço pelo atravessamento da infraestrutura, pelo seu "consumo".
 
-Então, sendo assim, a estrada portajada poderá ser efetivamente um bem *rival* e um bem *exclusivo*: bem exclusivo uma vez que o preço cobrado na forma de portagem pode excluir número significativo indivíduos da sua utilização e, nos casos em que exista congestão, o consumo do bem por mais um individuo contribuí para que menos individuos encontrem o bem disponível para uma utilização consentêanea com a expectativa de realizar uma viagem rápida. 
+Então, sendo assim, a estrada portajada poderá ser efetivamente um bem *rival* e um bem *exclusivo*: bem exclusivo uma vez que o preço cobrado na forma de portagem pode excluir número significativo indivíduos da sua utilização e, nos casos em que exista congestão, o consumo do bem por mais um individuo contribuí para que menos indivíduos encontrem o bem disponível para uma utilização consentânea com a expectativa de realizar uma viagem rápida. 
 
 Porquê então continuarmos a dizer que é um bem público? Porque circunstâncias específicas levam a que deva ser provido pelo Estado, mesmo que nesse provimento estejam envolvidas entidades privadas.
 
@@ -244,27 +244,27 @@ Como podemos ver, o fluxo ótimo (entendido como volume de tráfego medido em n�
 
 Os condutores dos veículos adicionais (correspondentes à diferença entre Fa e F\*) não têm noção do impacto efetivo da sua presença sobre os veículos F\* que já se encontram a circular. Na verdade, o custo da entrada do veículo correspondente a Fa tem um custo correspondente ao tamanho da linha Fa-A quando o benefício social dessa entrada corresponde na realidade ao comprimento Fa-B, muito menor.
 
-Apesar disso, é expectável que seja atingido um equilíbrio quando o valor da procura iguala o custo médio, do qual os condutores já deverão ter noção, incluíndo o custo de oportunidade de cada condutor correspondente ao tempo gasto em viagem que poderia, entre outras, ser dispendido com uma actividade produtiva, geradora de rendimento. 
+Apesar disso, é expectável que seja atingido um equilíbrio quando o valor da procura iguala o custo médio, do qual os condutores já deverão ter noção, incluindo o custo de oportunidade de cada condutor correspondente ao tempo gasto em viagem que poderia, entre outras, ser despendido com uma actividade produtiva, geradora de rendimento. 
 
 Assim, a necessidade da existência da cobrança de um preço nas vias habitualmente sujeitas a condições de congestão será uma consequência lógica a extrair da Figura \ref{custoscong} e dos parágrafos anteriores. Ao adicionar o valor desse preço ao custo médio suportado por cada condutor, a curva do custo médio deslocar-se-á para a esquerda, aproximando-se da curva do custo marginal. Dessa forma o fluxo efetivo será mais próximo do fluxo ótimo F\*.
 
-Contudo, como foi atrás explicado, os custos de congestão não são, ou podem não ser, óbvios para uma porção significativa dos automobilistas em circulação. Assim é expectável que a cobrança de taxas que cubram tais custos possa enfrentar uma oposição pública considerável. Em conseqência, a preparação, introdução e justificação de medidas deste tipo deveriam ser feitas com o maior rigor e transparência possíveis.
+Contudo, como foi atrás explicado, os custos de congestão não são, ou podem não ser, óbvios para uma porção significativa dos automobilistas em circulação. Assim é expectável que a cobrança de taxas que cubram tais custos possa enfrentar uma oposição pública considerável. Em consequência, a preparação, introdução e justificação de medidas deste tipo deveriam ser feitas com o maior rigor e transparência possíveis.
 
 ## A necessidade de uma avaliação de custo-benefício completa
 
 Em conclusão a este capítulo sobre o carácter público das infraestruturas rodoviárias, é importante salientar a necessidade de, nos projetos de infraestruturação rodoviária, haver um cuidado maior em proceder não só à habitual avaliação de custo-benefício (ACB) *ex-ante* [^fnACBRod] mas também, de um modo *ex-post*, manter uma avaliação ACB atualizada que permita fundamentar e orientar decisões, entre várias, como a introdução ou alteração de valores de portagem.
 
-Esta avaliação tem que se focar no benefício líquido social decorrente da existência da infraestrutura e do real impacto socioeconómico sobre a comunidade dos potenciais utentes e sobre uma área de infuência real, abrangente, incluindo as áreas servidas por estradas alternativas.
+Esta avaliação tem que se focar no benefício líquido social decorrente da existência da infraestrutura e do real impacto socioeconómico sobre a comunidade dos potenciais utentes e sobre uma área de influência real, abrangente, incluindo as áreas servidas por estradas alternativas.
 
 [^fnACBRod]: Como vemos em @MJoaoRodrigues existe a prática da realização de este tipo de estudos de avaliação como suporte à decisão de construir nova infraestrutura.
 
-Da análise produzida em @MJoaoRodrigues verificamos que, na prática dos estudos de ACB em projetos portugueses, a definição e contablização de custos tem habitualmente um destaque muito acentuado perante a contabilização de benefícios. A possibilidade de contabilizar efeitos positivos na economia local, nomeadamente daqueles que, por via fiscal, teriam reflexo direto nas contas do Estado é remetida para "análises económicas" que são apenas veladamente referidas na fonte referida.
+Da análise produzida em @MJoaoRodrigues verificamos que, na prática dos estudos de ACB em projetos portugueses, a definição e contabilização de custos tem habitualmente um destaque muito acentuado perante a contabilização de benefícios. A possibilidade de contabilizar efeitos positivos na economia local, nomeadamente daqueles que, por via fiscal, teriam reflexo direto nas contas do Estado é remetida para "análises económicas" que são apenas veladamente referidas na fonte referida.
 
 Nesta dissertação assume-se ser esse um domínio de análise que, apesar de extremamente interessante, é demasiadamente exigente e, por essa razão não será aqui desenvolvido.
 
-Assim, continuando a discutir a existência de autoestradas e a cobrança de portagens, seguir-se-á a prática portuguesa habitual: centrar-nos-emos em avaliações e comparações de custos em diferentes cenários. O objectivo da análise será o de taentar comparar o valor de portagem cobrada com os custos de congestão, em estradas alternativas, induzidos pela cobrança da dita portagem.
+Assim, continuando a discutir a existência de autoestradas e a cobrança de portagens, seguir-se-á a prática portuguesa habitual: centrar-nos-emos em avaliações e comparações de custos em diferentes cenários. O objectivo da análise será o de tentar comparar o valor de portagem cobrada com os custos de congestão, em estradas alternativas, induzidos pela cobrança da dita portagem.
 
-Todavia, é importante salientar que o objectivo principal que deveria orientar a tomada de medidas legislativas e administrativas sobre estas matérias deveria ser a minimização da globalidade dos custos sociais envolvidos: se a aplicação de uma medida melhora um determinado item de receita (cobrança de portagem) mas que induz custos sociais acrescidos, isso revela que esses custos ou não estão a ser deveidamente avaliados ou que o Estado se está a furtar a assumi-los como devido.
+Todavia, é importante salientar que o objectivo principal que deveria orientar a tomada de medidas legislativas e administrativas sobre estas matérias deveria ser a minimização da globalidade dos custos sociais envolvidos: se a aplicação de uma medida melhora um determinado item de receita (cobrança de portagem) mas que induz custos sociais acrescidos, isso revela que esses custos ou não estão a ser devidamente avaliados ou que o Estado se está a furtar a assumi-los como devido.
 
 
 # A minimização do custo social 
@@ -279,7 +279,7 @@ Segundo @newbery1987, a cobrança deste tipo de  custos corresponderia, já na d
 
 Este autor distingue com clareza as situações do transporte de mercadorias do transporte de passageiros. 
 
-Os custos de infrestrutura atribuíveis ao transporte de mercadorias correspondem a um custo intermédio que irá refletir-se no preço final de múltiplos produtos. Assim, ainda segundo Newbery, os custos a imputar a este tipo de transporte rodoviário deveriam corresponder essencialmente ao custo marginal de manutenção das vias. O principal custo de manutenção de vias é o custo associado à degradação da camada superior do piso de rodagem. É evidente o papel principal que os veículos pesados de mercadorias [@newbery1987] assumem neste desgaste, sendo assim particularmente consequente a assunção preferencial dos  custos marginais de desgaste por este tipo de veículos.
+Os custos de infraestrutura atribuíveis ao transporte de mercadorias correspondem a um custo intermédio que irá refletir-se no preço final de múltiplos produtos. Assim, ainda segundo Newbery, os custos a imputar a este tipo de transporte rodoviário deveriam corresponder essencialmente ao custo marginal de manutenção das vias. O principal custo de manutenção de vias é o custo associado à degradação da camada superior do piso de rodagem. É evidente o papel principal que os veículos pesados de mercadorias [@newbery1987] assumem neste desgaste, sendo assim particularmente consequente a assunção preferencial dos  custos marginais de desgaste por este tipo de veículos.
 
 Em contraste, o custo a imputar ao transporte rodoviário de passageiros, em especial aquele efetuado em veículo de transporte individual, deveria ser alvo de uma taxação completa refletindo a totalidade das externalidades a cobrir.
 
@@ -301,9 +301,9 @@ Seguindo @newbery1987 e @ricardo podemos categorizar os custos externos duma inf
 - outras externalidades não especificadas;
 - custos de desgaste e manutenção das vias.
 
-A preocupação central desta dissertação é a de contabilizar custos decorrentes do desvio de tráfego que poderia ciruclar em autoestrada atráves de vias alternativas com um carácter muitas vezes urbano ou periurbano. Desse ponto de vista serão importantes os custos de congestão, normalmente indexados ao tempo de viagem acrescido [@newbery1990]. Contudo, o impacto do desvio de tráfego ou da não utilização de autoestradas manifesta-se também em custos associados à sinistralidade, ao ambiente, etc.
+A preocupação central desta dissertação é a de contabilizar custos decorrentes do desvio de tráfego que poderia circular em autoestrada através de vias alternativas com um carácter muitas vezes urbano ou periurbano. Desse ponto de vista serão importantes os custos de congestão, normalmente indexados ao tempo de viagem acrescido [@newbery1990]. Contudo, o impacto do desvio de tráfego ou da não utilização de autoestradas manifesta-se também em custos associados à sinistralidade, ao ambiente, etc.
 
-Em todos estes aspectos, precisaríamos de obter custos indexados ao volume de tráfego ou ao , uma vez que é esta a principal variável afetada pela cobrança de portagem. Todas as categorias de custo onde tal se revele impossível, excessivamente complexo ou de relevância difícl de definir, são colocadas de fora da análise efetuada.
+Em todos estes aspectos, precisaríamos de obter custos indexados ao volume de tráfego ou ao , uma vez que é esta a principal variável afetada pela cobrança de portagem. Todas as categorias de custo onde tal se revele impossível, excessivamente complexo ou de relevância difícil de definir, são colocadas de fora da análise efetuada.
 
 Para muitos dos itens ou categorias referidas, a metodologia da definição um preço pode ser especialmente complexa. Em casos como a poluição atmosférica, importa contabilizar danos que podem-se manifestar na sua plenitude apenas no médio ou longo prazo. Quando se torna necessário valorizar preferências individuais, existem duas abordagens para este efeito [@ricardo]:
 
@@ -312,10 +312,10 @@ Para muitos dos itens ou categorias referidas, a metodologia da definição um p
 
 No caso dos custos de congestão, que genericamente podemos designar "custos de acesso a infraestrutura" ou "custos de acesso ao sistema  de transporte público", a abordagem habitual é WTP:
 
-- cálculo de estimativas sobre o valor atribuido à disponibilidade de tempo;
+- cálculo de estimativas sobre o valor atribuído à disponibilidade de tempo;
 - cálculo de um preço WTP a pagar por acessos limitados à infraestrutura ou ao sistema de transportes. [^wtpST]
 
-A abordagem WTA é sempre uma alternativa possível caso a abordagem WTP seja demasiadamente difícl ou impossível de implementar.
+A abordagem WTA é sempre uma alternativa possível caso a abordagem WTP seja demasiadamente difícil ou impossível de implementar.
 
 De seguida, veremos algumas das categorias principais de custos externos em algum detalhe.
 
@@ -342,7 +342,7 @@ Em @newbery1987 e @newbery1990 é citado o *US Federal Highway Cost Allocation S
 
 Passaram-se entretanto cerca de 35 anos sobre o momento de produção desta frase e estão disponíveis, por exemplo em @ricardo, quantificações de custos de sinistralidade associados a medidas de volume de tráfego.
 
-Contudo, a análise detalhada deste item revelou-se excessivamente complexa para ser abordada no âmbito desta disssertação, pelo que foi decidido não considerar a relação entre congestão, sinistralidade e a contribuição dos respectivos custos para a metodologia a seguir no estudo empírico mais à frente.
+Contudo, a análise detalhada deste item revelou-se excessivamente complexa para ser abordada no âmbito desta dissertação, pelo que foi decidido não considerar a relação entre congestão, sinistralidade e a contribuição dos respectivos custos para a metodologia a seguir no estudo empírico mais à frente.
 
 ## Custos de poluição atmosférica e ruído
 
@@ -358,7 +358,7 @@ Para a contabilização detalhada destes efeitos, necessitaríamos de confrontar
 
 Para tratar custos deste tipo, teríamos de entrar em linha de conta com o facto de alguns gases, como por exemplo o dióxido de carbono, terem atribuídos valores de mercado.
 
-Também aqui, uma análise detalhada deste item mostra uma complexidade excessiva e, como tal, também aqui foi decidido manter esta categoria fora do âmbito de análise desta dissertação e da respectiva análise emprírica.
+Também aqui, uma análise detalhada deste item mostra uma complexidade excessiva e, como tal, também aqui foi decidido manter esta categoria fora do âmbito de análise desta dissertação e da respectiva análise empírica.
 
 
 ## Custos de degradação da camada superficial
@@ -367,7 +367,7 @@ A degradação da camada superficial das vias está directamente relacionada com
 
 Para a análise empírica mais à frente no \autoref{chap:eemp}, os dados obtidos não incluem quaisquer indicações de cargas por eixo ou de carga associada à intensidade de tráfego de veículos pesados.
 
-Seguindo também a indicação de @newbery1987 e @newbery1990 da cobrança dos custos marginais de desgaste ser atribuída específicamente à circulação de veículos pesados de mercadorias, de forma separada, sem reflxo sobre os veículos ligeiros e de passageiros, foi decidido não os abordar na análise empírica efectuada.
+Seguindo também a indicação de @newbery1987 e @newbery1990 da cobrança dos custos marginais de desgaste ser atribuída especificamente à circulação de veículos pesados de mercadorias, de forma separada, sem reflexo sobre os veículos ligeiros e de passageiros, foi decidido não os abordar na análise empírica efectuada.
 
 
 ## Custos de congestão
@@ -376,17 +376,17 @@ Os custos de congestão são também particularmente difíceis de contabilizar. 
 
 A abordagem simplista aqui usada consiste na aplicação de fatores lineares, custos de congestão que variam linearmente com o fluxo de tráfego e que são aplicados em diferentes contexto de variações de densidade urbana e níveis de carga do sistema viário. 
 
-Como já foi referido na \autoref{chap:catcost}, o cáclulo genérico deste tipo de custos baseia-se habitualmente numa abordagem "willingness to pay" de valoriazação da disponibilidade de tempo pelos indivíduos abrangidos ou a disponibilidade para pagar um acesso reservado à infraestrutura.
+Como já foi referido na \autoref{chap:catcost}, o cálculo genérico deste tipo de custos baseia-se habitualmente numa abordagem "willingness to pay" de valorização da disponibilidade de tempo pelos indivíduos abrangidos ou a disponibilidade para pagar um acesso reservado à infraestrutura.
 
 Os fatores lineares usados na análise empírica do capítulo seguinte são aqui adaptados dos fatores médios, calculados para 2010, para a globalidade dos países da União Europeia a partir dos dados do modelo de tráfego FORGE do Reino Unido, retirados de @ricardo. 
 
 Como @ricardo salienta, os fenómenos da congestão de tráfego são, por natureza, não-lineares pelo que estes custos tem de poder variar de acordo com um conjunto de condições prévias que só podem ser devidamente contabilizadas num modelo computacional. Só desta forma se poderá, entre várias possibilidades, abordar componentes estocásticas que necessariamente terão de ser avaliadas e incluídas neste processo.
 
-Seguindo as indicações dadas na \autoref{chap:congest}, a análise empírica desta dissertação centra-se nos custos de congestão de tráfego, usualmente decorrentes do facto de, com o nível de motorixzação existente nos nossos dias, ser muito fácil e até habitual a procura por via exceder a sua capacidade, o que tem como consequência o desaparecimento das condições de *"free flow"* [@HCM_SpRep209], de circulação livre, com o surgimento de dificuldades que, em regra geral, se traduzem na diminuição das velocidades médias de circulação e correspondente aumento do tempo de deslocação, que pode ir desde um valor inexpressivo até uma demora substancial que retém e afasta o automobilista e passageiros das suas atividades.
+Seguindo as indicações dadas na \autoref{chap:congest}, a análise empírica desta dissertação centra-se nos custos de congestão de tráfego, usualmente decorrentes do facto de, com o nível de motorização existente nos nossos dias, ser muito fácil e até habitual a procura por via exceder a sua capacidade, o que tem como consequência o desaparecimento das condições de *"free flow"* [@HCM_SpRep209], de circulação livre, com o surgimento de dificuldades que, em regra geral, se traduzem na diminuição das velocidades médias de circulação e correspondente aumento do tempo de deslocação, que pode ir desde um valor inexpressivo até uma demora substancial que retém e afasta o automobilista e passageiros das suas atividades.
 
 A análise empírica efectuada tem um carácter eminentemente espacial. 
 
-O caso de estudo debruça-se sobre a transferência de tráfego entre uma autoestrada, ex-SCUT -- e que, por isso, foi inicialmente disponibilixada em acesso livre sem cobrança de portagem --  e as estradas alternativas, perante a perspectiva de colocação ou remoção de um preço de portagem. Pretende-se estimar efeitos dessas alterações  sobre o volume de tráfego, calculando valores de custos, que poderiam ser cobrados ao utente. Conclusões resultarão da comparação entre esses valores de custo e os valores de portagem cobrados.
+O caso de estudo debruça-se sobre a transferência de tráfego entre uma autoestrada, ex-SCUT -- e que, por isso, foi inicialmente disponibilizada em acesso livre sem cobrança de portagem --  e as estradas alternativas, perante a perspectiva de colocação ou remoção de um preço de portagem. Pretende-se estimar efeitos dessas alterações  sobre o volume de tráfego, calculando valores de custos, que poderiam ser cobrados ao utente. Conclusões resultarão da comparação entre esses valores de custo e os valores de portagem cobrados.
 
 
 

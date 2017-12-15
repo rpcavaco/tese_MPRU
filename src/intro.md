@@ -13,9 +13,22 @@ Perante a pressão política, interna e externa, para diminuir certos encargos d
 
 Esta atitude do poder político revela uma visão estreita apenas preocupada com "fluxos de caixa" e que despreza quer os benefícios da existência de autoestradas sobre a actividade económica das áreas servidas quer os custos de congestão e sobre-ocupação das vias alternativas causados por haver exclusão do acesso à autoestrada de todos aqueles que não estiverem dispostos a pagar a respectiva taxa de portagem.
 
-[^fnQueda]: no caso das aotoestradas A29 e A17, por exemplo, chegou a cerca de 50% nos primeiros meses de introdução de portagem -- consultar os Relatórios de Tráfego na Rede Nacional de Auto-estradas do ex-INIR I.P. hoje disponíveis no [espaço de  relatórios](http://www.imt-ip.pt/sites/IMTT/Portugues/InfraestruturasRodoviarias/RedeRodoviaria/Paginas/Relatorios.aspx) do sítio web do Instituo da Mobilidade e dos Transportes IMT I.P.
+[^fnQueda]: no caso das autoestradas A29 e A17, por exemplo, chegou a cerca de 50% nos primeiros meses de introdução de portagem -- consultar os Relatórios de Tráfego na Rede Nacional de Auto-estradas do ex-INIR I.P. hoje disponíveis no [espaço de  relatórios](http://www.imt-ip.pt/sites/IMTT/Portugues/InfraestruturasRodoviarias/RedeRodoviaria/Paginas/Relatorios.aspx) do sítio web do Instituo da Mobilidade e dos Transportes IMT I.P.
 
 Começaremos por enquadrar historicamente a situação das infraestruturas rodoviárias portuguesas. 
+
+# Estrutura desta dissertação
+
+Esta dissertação desenvolve-se ao longo dos seguintes pontos:
+
+- enquadramento teórico
+- definição do problema em análise
+- afirmação e clarificação do objetivo
+- considerações sobre a fundamentação das decisões públicas em Portugal
+- definição de "bem público" e explicação de como a infraestrutura rodoviária deve ser encarada como um bem público
+- uma reflexão sobre a importância de minimizar custos sociais no acesso e utilização de infraestruturas
+
+Ao final destes pontos é efetuada uma análise empírica com o objetivo de dar expressão prática aos argumentos desta dissertação.
 
 # Enquadramento teórico
 
@@ -172,7 +185,7 @@ Já em 2006 a empresa Estradas de Portugal havia encomendado um estudo com o obj
 
 > *"[...] o cômputo dos cálculos necessários para aplicação de um conjunto de critérios para determinação das concessões rodoviárias em regime SCUT em condições de passar a ser regidas pelo princípio do utilizador-pagador."* [@F9Consulting_2006]
 
-Este estudo pretende sugerir que existe possibilidade de compatibilizar o objectivo de aumento de proveitos, com a cobrança de portagens, com os objectivos de discriminação positiva regional que nortearam a introdução das SCUT. A justificação da introdução de portagens não é minimamente descrita nem enquadrada neste trabalho, é apenas um dado adquirido. O estudo resume-se na sua essência à aplicação um método quantitativo, não justificado, a um conjunto de indicadores regionais que incluiram:
+Este estudo pretende sugerir que existe possibilidade de compatibilizar o objectivo de aumento de proveitos, com a cobrança de portagens, com os objectivos de discriminação positiva regional que nortearam a introdução das SCUT. A justificação da introdução de portagens não é minimamente descrita nem enquadrada neste trabalho, é apenas um dado adquirido. O estudo resume-se na sua essência à aplicação um método quantitativo, não justificado, a um conjunto de indicadores regionais que incluíram:
 
 - índices de disparidade do PIB per capita regional
 - índice do Poder de Compra Concelhio (IPCC)
