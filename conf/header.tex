@@ -1,6 +1,6 @@
 
 
-
+\usepackage{eurosym}
 %\usepackage{extsizes}
 
 % Passar o título (variável Pandoc 'title') para a var. \THETITLE
@@ -9,6 +9,10 @@
 % suporte a multiplas notas de rodapé
 \usepackage[multiple]{footmisc}
 
+\usepackage{array}
+
+\newcolumntype{L}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
 % Espaçamento entre linhas
 % Comandos: sin­glespac­ing, \one­half­s­pac­ing, \dou­blespac­ing

@@ -291,6 +291,8 @@ Para centrarmos a nossa análise (e, em especial, o estudo empírico a efetuar m
 
 ## Categorização e contabilização de custos
 
+\label{chap:catcost}
+
 Seguindo @newbery1987 e @ricardo podemos categorizar os custos externos duma infraestrutura rodoviária da seguinte forma:
 
 - custos de congestão;
@@ -302,6 +304,22 @@ Seguindo @newbery1987 e @ricardo podemos categorizar os custos externos duma inf
 A preocupação central desta dissertação é a de contabilizar custos decorrentes do desvio de tráfego que poderia ciruclar em autoestrada atráves de vias alternativas com um carácter muitas vezes urbano ou periurbano. Desse ponto de vista serão importantes os custos de congestão, normalmente indexados ao tempo de viagem acrescido [@newbery1990]. Contudo, o impacto do desvio de tráfego ou da não utilização de autoestradas manifesta-se também em custos associados à sinistralidade, ao ambiente, etc.
 
 Em todos estes aspectos, precisaríamos de obter custos indexados ao volume de tráfego ou ao , uma vez que é esta a principal variável afetada pela cobrança de portagem. Todas as categorias de custo onde tal se revele impossível, excessivamente complexo ou de relevância difícl de definir, são colocadas de fora da análise efetuada.
+
+Para muitos dos itens ou categorias referidas, a metodologia da definição um preço pode ser especialmente complexa. Em casos como a poluição atmosférica, importa contabilizar danos que podem-se manifestar na sua plenitude apenas no médio ou longo prazo. Quando se torna necessário valorizar preferências individuais, existem duas abordagens para este efeito [@ricardo]:
+
+- contabilizar a "willingness to pay" (WTP - disponibilidade para pagar) pela melhoria que remove o impacto negativo;
+- contabilizar a "willingness to accept" (WTA - disponibilidade para aceitar) uma compensação pelo dano sofrido ou a sofrer, assumindo que o impacto negativo não pode ser removido.
+
+No caso dos custos de congestão, que genericamente podemos designar "custos de acesso a infraestrutura" ou "custos de acesso ao sistema  de transporte público", a abordagem habitual é WTP:
+
+- cálculo de estimativas sobre o valor atribuido à disponibilidade de tempo;
+- cálculo de um preço WTP a pagar por acessos limitados à infraestrutura ou ao sistema de transportes. [^wtpST]
+
+A abordagem WTA é sempre uma alternativa possível caso a abordagem WTP seja demasiadamente difícl ou impossível de implementar.
+
+De seguida, veremos algumas das categorias principais de custos externos em algum detalhe.
+
+[^wtpST]: Exemplo: disponibilidade para pagar por um lugar de 1^a^ classe em transporte ferroviário de médio e longo curso como forma de ter maior conforto na viagem e possibilidade de trabalhar durante a viagem.
 
 
 ### Custos associados à sinistralidade
@@ -353,6 +371,16 @@ Seguindo também a indicação de @newbery1987 e @newbery1990 da cobrança dos c
 
 
 ## Custos de congestão
+
+Os custos de congestão são também particularmente difíceis de contabilizar. Contudo tendo estes um papel central na argumentação desta dissertação, será usada aqui uma abordagem simplista que nos permitirá retirar algumas conclusões com interesse.
+
+A abordagem simplista aqui usada consiste na aplicação de fatores lineares, custos de congestão que variam linearmente com o fluxo de tráfego e que são aplicados em diferentes contexto de variações de densidade urbana e níveis de carga do sistema viário. 
+
+Como já foi referido na \autoref{chap:catcost}, o cáclulo genérico deste tipo de custos baseia-se habitualmente numa abordagem "willingness to pay" de valoriazação da disponibilidade de tempo pelos indivíduos abrangidos ou a disponibilidade para pagar um acesso reservado à infraestrutura.
+
+Os fatores lineares usados na análise empírica do capítulo seguinte são aqui adaptados dos fatores médios, calculados para 2010, para a globalidade dos países da União Europeia a partir dos dados do modelo de tráfego FORGE do Reino Unido, retirados de @ricardo. 
+
+Como @ricardo salienta, os fenómenos da congestão de tráfego são, por natureza, não-lineares pelo que estes custos tem de poder variar de acordo com um conjunto de condições prévias que só podem ser devidamente contabilizadas num modelo computacional. Só desta forma se poderá, entre várias possibilidades, abordar componentes estocásticas que necessariamente terão de ser avaliadas e incluídas neste processo.
 
 Seguindo as indicações dadas na \autoref{chap:congest}, a análise empírica desta dissertação centra-se nos custos de congestão de tráfego, usualmente decorrentes do facto de, com o nível de motorixzação existente nos nossos dias, ser muito fácil e até habitual a procura por via exceder a sua capacidade, o que tem como consequência o desaparecimento das condições de *"free flow"* [@HCM_SpRep209], de circulação livre, com o surgimento de dificuldades que, em regra geral, se traduzem na diminuição das velocidades médias de circulação e correspondente aumento do tempo de deslocação, que pode ir desde um valor inexpressivo até uma demora substancial que retém e afasta o automobilista e passageiros das suas atividades.
 
