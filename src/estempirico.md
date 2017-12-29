@@ -16,9 +16,9 @@ Centrar-nos-emos nos troços que fazem a ligação entre os limites da cidade de
 
 A experimentação efetuada tem como objetivo mostrar que a cobrança de portagem na autoestrada provoca uma diminuição na respetiva procura que, necessariamente, se reflete numa transferência de viagens entre autoestrada e estrada alternativa. 
 
-Se esta estrada alternativa tiver troços cuja situação habitual é de congestão, ou próxima disso, por a procura que nela incide estar junto, ou já ter ultrapassado, os limites físicos de capacidade de acomodação do tráfego nesta via, a referida transferência de viagens irá agravar a situação pré-existente, criando ou aumentando congestão.
+Se esta estrada alternativa tiver troços cuja situação habitual é de congestionamento, ou próxima disso, por a procura que nela incide estar junto, ou já ter ultrapassado, os limites físicos de capacidade de acomodação do tráfego nesta via, a referida transferência de viagens irá agravar a situação pré-existente, criando ou aumentando congestionamento.
 
-Coerentemente com a contextualização teórica que foi produzida nos capítulos anteriores, esta análise de congestão e comparando carga, ou procura, com a capacidade disponível existente será baseada no cálculo e na comparação de custos monetários. 
+Coerentemente com a contextualização teórica que foi produzida nos capítulos anteriores, esta análise de congestionamento e comparando carga, ou procura, com a capacidade disponível existente será baseada no cálculo e na comparação de custos monetários. 
 
 Para este efeito precisamos de:
 
@@ -84,8 +84,8 @@ A análise a efectuar seguirá os seguintes passos:
 3. estimar o tráfego na autoestrada sem portagem, projectando os valores de 2009 para o ano de referência;
 4. calcular a diferença entre o tráfego sem portagem e o tráfego verificado na autoestrada;
 5. alocar esta diferença anterior aos troços da estrada nacional, simulando uma transferência de viagens da autoestrada para a estrada nacional em virtude da existência de portagem;
-6. calcular custos de congestão calculando a diferença entre o valor do tráfego calculado no ponto 5. e a capacidade de cada troço de estrada nacional.
-7. comparar o custo de congestão diário total da estrada nacional com o valor diário de cobrança de portagem na autoestrada.
+6. calcular custos de congestionamento calculando a diferença entre o valor do tráfego calculado no ponto 5. e a capacidade de cada troço de estrada nacional.
+7. comparar o custo de congestionamento diário total da estrada nacional com o valor diário de cobrança de portagem na autoestrada.
 
 ### Definição de traçados e atribuição dos valores de volume de tráfego
 
@@ -278,13 +278,13 @@ O resultado final está mostrado na tabela \ref{capacidade}.
 
 \end{center}
 
-### Cálculo dos custos de congestão existentes
+### Cálculo dos custos de congestionamento existentes
 
 \label{chap:bandas}
 
 Para este efeito baseamo-nos em @ricardo.
 
-Este relatório técnico define um conjunto de bandas de congestão definidas a partir do quociente tráfego / capacidade (v/h):
+Este relatório técnico define um conjunto de *bandas de congestionamento* definidas a partir do quociente tráfego / capacidade (v/h):
 
 - fluxo livre: v/c até 0.75
 - próximo do limite de capacidade: v/c acima de 0.75 e menor que 1.0
@@ -292,7 +292,7 @@ Este relatório técnico define um conjunto de bandas de congestão definidas a 
 
 O mapa da figura \ref{bandas} mostra a expressão destas bandas nos troços da EN2. Podemos ver que existe uma extensão significativa para a qual o tráfego verificado excede a capacidade disponível.
 
-![Bandas de congestão\label{bandas}](../src/images/mapa_bandas.png)
+![Bandas de congestionamento\label{bandas}](../src/images/mapa_bandas.png)
 
 ### Estimativa do volume de tráfego sem portagem
 
@@ -348,23 +348,23 @@ VPAguiar-Benagouro      & 196                                                   
 
 \end{center}
 
-### Cálculo de custos de congestão na estrada nacional
+### Cálculo de custos de congestionamento na estrada nacional
 
-Para medir o impacto da introdução de portagens sobre os custos de congestão, teremos de medir, não só, os custos correspondentes à simulação de transferência de tráfego da estrada nacional para a autoestrada mas também os custos de congestão já existentes. O impacto da portagem corresponderá à diferença entre ambos os custos.
+Para medir o impacto da introdução de portagens sobre os custos de congestionamento, teremos de medir, não só, os custos correspondentes à simulação de transferência de tráfego da estrada nacional para a autoestrada mas também os custos de congestionamento já existentes. O impacto da portagem corresponderá à diferença entre ambos os custos.
 
-Assim, às bandas de congestão calculadas em \autoref{chap:bandas} foram aplicados os custos genéricos por unidade de volume de tráfego (em veículos * quilómetro), adaptados de @ricardo e ajustados a 2015, apresentados em \label{custos_vkm}.
+Assim, às bandas de congestionamento calculadas em \autoref{chap:bandas} foram aplicados os custos genéricos por unidade de volume de tráfego (em veículos * quilómetro), adaptados de @ricardo e ajustados a 2015, apresentados em \label{custos_vkm}.
 
 \begin{center}
 \fontsize{10pt}{12pt}\selectfont
 \begin{threeparttable}[h]
 \centering
-\caption{Custos de congestão por unidade de volume de tráfego (vkm)}
+\caption{Custos de congestionamento por unidade de volume de tráfego (vkm)}
 \label{custos_vkm}
 
 \begin{tabular}{|l|l|l|}
 \hline
 \rowcolor[HTML]{C0C0C0} 
-Banda congestão      & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Custo ligeiros \\ €/vkm\end{tabular}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Custo pesados \\ €/vkm\end{tabular}} \\ \hline
+Banda congestionamento      & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Custo ligeiros \\ €/vkm\end{tabular}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Custo pesados \\ €/vkm\end{tabular}} \\ \hline
 fluxo livre          & 0.00428                                                                                                      & 0.00856                                                                                                     \\
 no limite capacidade & 0.19581                                                                                                      & 0.37236                                                                                                     \\
 excedida capacidade  & 0.649                                                                                                        & 1.23371                                                                                                     \\ \hline
@@ -376,26 +376,26 @@ excedida capacidade  & 0.649                                                    
 
 Da aplicação destes custos aos volumes de tráfego obtidos por conversão dos fluxos de tráfego TMDA disponíveis, temos que existe um custo diário de cerca de € 126700. Dividindo pelo número de veículos, teríamos uma "portagem" de € 0.85 para ligeiros e de € 1.61 para pesados, a aplicar na estrada nacional.
 
-### Cálculo da diferença de custos de congestão
+### Cálculo da diferença de custos de congestionamento
 
-Aplicando os custos unitários de congestão de \label{custos_vkm} aos valores de tráfego de estrada nacional subtraídos dos valores da simulação de transferência indicados na tabela \label{transferencia}, obtêm-se um custo de congestão diário de cerca de € 92700. 
-A diferença é de € 34000, é este o custo de congestão diário induzido na EN2 pela colocação de portagem na autoestrada próxima.
+Aplicando os custos unitários de congestionamento de \label{custos_vkm} aos valores de tráfego de estrada nacional subtraídos dos valores da simulação de transferência indicados na tabela \label{transferencia}, obtêm-se um custo de congestionamento diário de cerca de € 92700. 
+A diferença é de € 34000, é este o custo de congestionamento diário induzido na EN2 pela colocação de portagem na autoestrada próxima.
 
 Falta apenas comparar este valor com a receita diária de portagem. Dos valores de tráfego registados a média TMDA da autoestrada A24 em 2015 era de cerca de 4390 veículos. Multiplicando este valor por € 4.5 de portagem temos uma receita diária de cerca de € 19755.
 
-Assim temos que o custo de congestão diário calculado é quase o dobro da receita de portagem.
+Assim temos que o custo de congestionamento diário calculado é quase o dobro da receita de portagem.
 
 
 # Conclusão
 
-A análise empírica fornece indícios de que, de facto, os custos de congestão nas estradas alternativas às autoestradas portajadas podem ser significativos e a imposição de portagens nas autoestradas, além de limitarem o acesso a um bem público que está, na maioria dos casos, longe de ficar congestionado, pode provocar aumentos significativos do estado de congestão destas, o que representa uma perda de bem estar social.
+A análise empírica fornece indícios de que, de facto, os custos de congestionamento nas estradas alternativas às autoestradas portajadas podem ser significativos e a imposição de portagens nas autoestradas, além de limitarem o acesso a um bem público que está, na maioria dos casos, longe de ficar congestionado, pode provocar aumentos significativos do estado de congestionamento destas, o que representa uma perda de bem estar social.
 
 Estes custos não entram em linha de consideração com outras possibilidades de custos adicionais decorrentes, por exemplo, da sinistralidade e do ambiente que poderiam tornar este resultado ainda mais expressivo.
 
 Dos resultados da análise empírica, podemos fazer as seguintes sugestões, no caso da A24 e da estrada nacional EN2:
 
 1. a portagem na autoestrada deveria ser abolida;
-2. poderia ser considerado um sistema de cobrança de custos de congestão implementado sobre sistemas de cobrança eletrónica como os usados na autoestrada;
+2. poderia ser considerado um sistema de cobrança de custos de congestionamento implementado sobre sistemas de cobrança eletrónica como os usados na autoestrada;
 3. O pagamento dos custos do investimento inicial na construção da A24 devem ser arrecadados de outra forma a partir das taxas e impostos ligados ao tráfego automóvel.
 
-Como foi referenciado, a forma como o custo de congestão foi aqui calculado é simplista e esta análise deveria ser reproduzida de forma mais sustentada, baseada em modelos de simulação de tráfego.
+Como foi referenciado, a forma como o custo de congestionamento foi aqui calculado é simplista e esta análise deveria ser reproduzida de forma mais sustentada, baseada em modelos de simulação de tráfego.
