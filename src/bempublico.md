@@ -87,7 +87,7 @@ Duas questões críticas se levantam todavia:
 
 - passados dez anos o tráfego verificado é muito inferior a 13000 [^fnTrafegoRecente] -- é mesmo inferior a 6000 veículos/dia TMDA, marcadamente abaixo da justificação técnica para a construção de uma autoestrada;
 - entre, por exemplo, 2009 e 2017 o volume de tráfego manteve-se praticamente inalterado; no entanto, teria de subir sustentadamente entre 400 e 500 veículos todos os anos até 2032 para a atingir os previstos 13000 veículos / dia;
-- a zona atravessada é ambientalmente muito sensível pelo que se optou por uma construção toda em viaduto, atingindo o altíssimo custo médio de 29 milhões de euros por quilómetro (Tabela \ref{tabcustokm}).
+- a zona atravessada é ambientalmente muito sensível pelo que se optou por uma construção toda em viaduto, atingindo o altíssimo custo médio de 21,03 milhões de euros por quilómetro (Tabela \ref{tabcustokm}).
 
 [^fnTrafegoRecente]: A fonte para os valores de tráfego mais recentes (2º trimestre de 2017) está nos Relatórios de Tráfego na Rede Nacional de Auto-estradas do ex-INIR I.P. disponíveis no [sítio do IMT I.P.](http://www.imt-ip.pt/sites/IMTT/Portugues/InfraestruturasRodoviarias/RedeRodoviaria/Paginas/Relatorios.aspx)
 
@@ -99,7 +99,7 @@ A opção tomada e as projecções de tráfego são ainda mais incompreensíveis
 - a ponte Marechal Carmona da EN10 (sem portagem, muito próxima a sul);
 - a ponte Vasco da Gama (mais a sul, com portagem mais cara).
 
-Dada a coincidência dos valores de tráfego indicados e das opções de perfil tomadas, uma vez que as 2x3 faixas existentes são compatíveis com uma previsão superior 30000 veículos/dia TMDA, é provável que os valores do estudo de tráfego original, que terá justificado a decisão em favor da construção desta obra, seriam idênticos aos do estudo atrás referido.
+Dada a coincidência dos valores de tráfego indicados e das opções de perfil tomadas, uma vez que as 2x3 vias existentes são compatíveis com uma previsão superior 30000 veículos/dia TMDA, é provável que os valores do estudo de tráfego original, que terá justificado a decisão em favor da construção desta obra, seriam idênticos aos do estudo atrás referido.
 
 Analisando esse estudo e recorrendo a valores recentes para alguns dos indicadores quantitativos usados como base nas previsões efectuadas, podemos identificar diversas assunções erradas:
 
@@ -206,7 +206,7 @@ Hoje, dado o elevado número de mais de 5 milhões de veículos (só de veículo
 
 [^fnPrimAE]: A primeira autoestrada experimental alemã foi inaugurada em 1921 [@britannica:autobahn]
 
-Apesar do intenso programa de desenvolvimento de autoestradas e do restante plano rodoviário nacional, existem troços de estrada nacional em áreas críticas, com apenas duas faixas de rodagem sujeitos a volumes de tráfego muito elevados da ordem dos 40000 veículos/dia TMDA e superiores. Em alguns destes troços, a elevada procura local soma-se a tráfego evadido das autoestradas próximas em resultado da inconveniência da cobrança de portagens.
+Apesar do intenso programa de desenvolvimento de autoestradas e do restante plano rodoviário nacional, existem troços de estrada nacional em áreas críticas, com apenas duas vias de rodagem sujeitos a volumes de tráfego muito elevados da ordem dos 40000 veículos/dia TMDA e superiores. Em alguns destes troços, a elevada procura local soma-se a tráfego evadido das autoestradas próximas em resultado da inconveniência da cobrança de portagens.
 
 De igual forma, a circulação em volta e junto das duas grandes cidades apresenta fenómenos de absoluta saturação: volumes de tráfego TMDA superiores a 150000 veículos (além do já referido caso da Ponte 25 de Abril, o mesmo acontece na Autoestrada do Estoril A5 em Lisboa e na VCI, via de circulação à cidade do Porto). Dentro destas cidades são muito frequentes os episódios de bloqueio de algumas vias principais em hora de ponta, devido a acidentes ou à mera saturação.
 
@@ -229,7 +229,7 @@ Quando a procura pela via é ainda baixa, por exemplo fora de hora de ponta -- d
 À medida que a procura aumenta, o fluxo aumenta correspondentemente. Perante a ocupação da via por um número crescente de veículos não só o espaço disponível para cada veículo diminui como também, com frequência crescente, os veículos circulando a maior velocidade são barrados pelos que circulam mais lentamente, obrigando-os a efectuar ultrapassagens. O efeito conjugado de ambas as situações provoca uma diminuição geral da velocidade de circulação, correspondente à parte da curva, no cimo do gráfico, que desce ao mover-mo-nos da esquerda para a direita (B).
 Se a procura continuar a subir, as condições descritas agravam-se. Perante o atingir de um limite físico relacionado com as características físicas da via (C), a velocidade média continua a diminuir e, agora, o próprio volume de tráfego começa também a diminuir, uma vez que à baixa velocidade média atingida correspondem tempos de deslocação elevados: o ritmo de saída de veículos não compensa o ritmo da entrada e os veículos acumulam-se crescentemente num espaço disponível cada vez mais exíguo. Esta é a situação correspondente ao extremo inferior da curva do gráfico (D).
 
-A disponibilidade de faixas de circulação adicionais permite aumentar o valor de fluxo, ou volume de tráfego, máximo, fazendo com que a curva do gráfico possa aumentar para a direita. Essa é muitas vezes encarada como a forma habitual de resolver problemas de congestionamento sistemático. 
+A disponibilidade de vias de circulação adicionais permite aumentar o valor de fluxo, ou volume de tráfego, máximo, fazendo com que a curva do gráfico possa aumentar para a direita. Essa é muitas vezes encarada como a forma habitual de resolver problemas de congestionamento sistemático. 
 Contudo existem limites óbvios a esta solução: isso exige uma ocupação de solo adicional e, como as condições de tráfego mais intenso tendem a acontecer junto aos aglomerados populacionais mais densos, esta necessidade tem maior tendência a ocorrer onde o solo é mais caro, já nem sequer está disponível ou, estando ainda disponível, é descontínuo e não facilita a definição de corredores viários.
 
 Deste ponto de vista faz todo o sentido colocar um preço no consumo de infraestruturas.
@@ -301,7 +301,7 @@ Seguindo @newbery1987 e @ricardo podemos categorizar os custos externos duma inf
 - outras externalidades não especificadas;
 - custos de desgaste e manutenção das vias.
 
-A preocupação central desta dissertação é a de contabilizar custos decorrentes do desvio de tráfego que poderia circular em autoestrada através de vias alternativas com um carácter muitas vezes urbano ou periurbano. Desse ponto de vista serão importantes os custos de congestionamento, normalmente indexados ao tempo de viagem acrescido [@newbery1990]. Contudo, o impacto do desvio de tráfego ou da não utilização de autoestradas manifesta-se também em custos associados à sinistralidade, ao ambiente, etc.
+A preocupação central desta dissertação é a de contabilizar custos decorrentes do desvio de tráfego que poderia circular em autoestrada através de percursos alternativos com um carácter muitas vezes urbano ou periurbano. Desse ponto de vista serão importantes os custos de congestionamento, normalmente indexados ao tempo de viagem acrescido [@newbery1990]. Contudo, o impacto do desvio de tráfego ou da não utilização de autoestradas manifesta-se também em custos associados à sinistralidade, ao ambiente, etc.
 
 Em todos estes aspectos, precisaríamos de obter custos indexados ao volume de tráfego ou ao , uma vez que é esta a principal variável afetada pela cobrança de portagem. Todas as categorias de custo onde tal se revele impossível, excessivamente complexo ou de relevância difícil de definir, são colocadas de fora da análise efetuada.
 
@@ -363,7 +363,7 @@ Também aqui, uma análise detalhada deste item mostra uma complexidade excessiv
 
 ### Custos de degradação da camada superficial
 
-A degradação da camada superficial das vias está directamente relacionada com a "carga por eixo" dos veículos possui uma forte correlação com o tráfego de veículos pesados de mercadorias [@newbery1990]. 
+A degradação da camada superficial do piso está directamente relacionada com a "carga por eixo" dos veículos possui uma forte correlação com o tráfego de veículos pesados de mercadorias [@newbery1990]. 
 
 Para a análise empírica mais à frente no \autoref{chap:eemp}, os dados obtidos não incluem quaisquer indicações de cargas por eixo ou de carga associada à intensidade de tráfego de veículos pesados.
 
@@ -382,7 +382,7 @@ Os fatores lineares usados na análise empírica do capítulo seguinte são aqui
 
 Como @ricardo salienta, os fenómenos do congestionamento de tráfego são, por natureza, não-lineares pelo que estes custos tem de poder variar de acordo com um conjunto de condições prévias que só podem ser devidamente contabilizadas num modelo computacional. Só desta forma se poderá, entre várias possibilidades, abordar componentes estocásticas que necessariamente terão de ser avaliadas e incluídas neste processo.
 
-Seguindo as indicações dadas na \autoref{chap:congest}, a análise empírica desta dissertação centra-se nos custos de congestionamento de tráfego, usualmente decorrentes do facto de, com o nível de motorização existente nos nossos dias, ser muito fácil e até habitual a procura por via exceder a sua capacidade, o que tem como consequência o desaparecimento das condições de *"free flow"* [@HCM_SpRep209], de circulação livre, com o surgimento de dificuldades que, em regra geral, se traduzem na diminuição das velocidades médias de circulação e correspondente aumento do tempo de deslocação, que pode ir desde um valor inexpressivo até uma demora substancial que retém e afasta o automobilista e passageiros das suas atividades.
+Seguindo as indicações dadas na \autoref{chap:congest}, a análise empírica desta dissertação centra-se nos custos de congestionamento de tráfego, usualmente decorrentes do facto de, com o nível de motorização existente nos nossos dias, ser muito fácil e até habitual a procura por uma estrada exceder a sua capacidade, o que tem como consequência o desaparecimento das condições de *"free flow"* [@HCM_SpRep209], de circulação livre, com o surgimento de dificuldades que, em regra geral, se traduzem na diminuição das velocidades médias de circulação e correspondente aumento do tempo de deslocação, que pode ir desde um valor inexpressivo até uma demora substancial que retém e afasta o automobilista e passageiros das suas atividades.
 
 A análise empírica efectuada tem um carácter eminentemente espacial. 
 

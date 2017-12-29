@@ -163,15 +163,17 @@ Daí decorreria a necessidade clara de diminuir a despesa pública e o endividam
 \cline{2-7}
                                                             &           &      &  ano &      &      &      \\ \hline
 \multicolumn{1}{|l|}{}                                      & 2000/2006 & 2007 & 2008 & 2009 & 2010 & 2011 \\ \hline
-\multicolumn{1}{|l|}{Concessões do Estado}                  & 475       & 25   & 16   & 42   & 228  & 582  \\ \hline
+\multicolumn{1}{|l|}{Concessões do Estado (*)}                  & 475       & 25   & 16   & 42   & 228  & 582  \\ \hline
 \multicolumn{1}{|l|}{Concessões do Estado - SCUT e ex-Scut} & 482       & 537  & 641  & 648  & 718  & 1094 \\ \hline
 \end{tabular}
 
 \begin{tablenotes}\footnotesize
     \item Fonte: DGTF - “Parcerias Público-Privadas e Concessões – Relatório de 2012”
+    \item (*) - Concessões do Estado: Brisa, Lusoponte, Oeste, Norte, Litoral Centro, Grande Lisboa, Douro Litoral e Túnel do Marão
  \end{tablenotes}
 
 \end{threeparttable}
+
 
 \vspace*{1\baselineskip}
 
@@ -216,7 +218,7 @@ Na figura \ref{maxportg} aplicamos ao bem "autoestrada" o que a teoria microecon
 
 Com um valor baixo de taxa P~3~ a via em causa terá grande procura mas o rendimento de portagem, correspondente à área R~3~, será baixo. Com uma taxa de valor P~1~, teremos uma procura e um rendimento R~1~ ambos baixos. Com uma taxa P~2~, temos um rendimento máximo correspondente à maior das três áreas, R~2~. Há aqui que ter algum bom senso entre a maximização do rendimento e a evidência que, ao subir a taxa, estamos efetivamente a limitar o acesso a um bem que se supõe público (mais à frente isto será mais discutido).
 
-![Maximização dos proveitos de portagem\label{maxportg}](../src/images/curva_procura_portagem_equilibrada.png){ width=300px height=300px }
+![Maximização dos proveitos de portagem (elaboração própria)\label{maxportg}](../src/images/curva_procura_portagem_equilibrada.png){ width=300px height=300px }
 
 Do ponto de vista da cobertura dos encargos financeiros importaria maximizar a receita, espera-se assim que a taxa definida pelo Estado decorra de um raciocínio atrás produzido. 
 
@@ -246,7 +248,7 @@ A maioria dos troços de ex-SCUT, apesar de terem custos de construção por uni
 - autoestrada A24 (antiga SCUT Interior) - valores de TMD mensal globalmente inferiores a 10000 , no inverno alguns destes troços apresentam valores próximos de 2000;
 - autoestrada A17 (parte da antiga SCUT Costa de Prata) - valores de TMD mensal globalmente inferiores a 10000 excepto em troços em volta da cidade de Aveio, no inverno alguns destes troços apresentam valores próximos de 2000.
 
-Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas faixas de circulação por uma via de 2 ou mais faixas (@romana_hernando, @visao_atdesertas e [*Numbers every traffic engineer should know*](http://www.mikeontraffic.com/numbers-every-traffic-engineer-should-know/)). [^fn_critSinistralidade][^fnTRB]
+Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas vias de circulação por uma faixa de 2 ou mais vias (@romana_hernando, @visao_atdesertas e [*Numbers every traffic engineer should know*](http://www.mikeontraffic.com/numbers-every-traffic-engineer-should-know/)). [^fn_critSinistralidade][^fnTRB]
 
 Muitos troços de autoestrada existentes não chegam a cumprir minimamente este critério.
 
