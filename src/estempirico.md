@@ -18,7 +18,7 @@ A experimentação efetuada tem como objetivo mostrar que a cobrança de portage
 
 Se esta estrada alternativa tiver troços cuja situação habitual é de congestionamento, ou próxima disso, por a procura que nela incide estar junto, ou já ter ultrapassado, os limites físicos de capacidade de acomodação do tráfego nesta via, a referida transferência de viagens irá agravar a situação pré-existente, criando ou aumentando congestionamento.
 
-Coerentemente com a contextualização teórica que foi produzida nos capítulos anteriores, esta análise de congestionamento e comparando carga, ou procura, com a capacidade disponível existente será baseada no cálculo e na comparação de custos monetários. 
+Coerentemente com a contextualização teórica que foi produzida nos capítulos anteriores, esta análise de congestionamento será baseada no cálculo e na comparação de custos monetários e comparar-se-á carga, ou procura, com capacidade disponível da estrada existente. 
 
 Para este efeito precisamos de:
 
@@ -26,7 +26,7 @@ Para este efeito precisamos de:
 - caracterizar o relevo atravessado e as limitações à circulação que daí podem advir (inclinações acentuadas, quantidade de curvas, curvas muito acentuadas)
 - caracterizar o tipo de ocupação humana das áreas atravessadas pela via e as implicações da mesma na circulação (exemplos: elevada procura, obstruções à livre circulação, passadeiras, semáforos, medidas de acalmia de tráfego, etc.
 - caracterizar o volume de tráfego existente
-- caracterizar a capacidade máxima de tráfego para cumprir um determinado nível de serviço
+- caracterizar a capacidade máxima de tráfego, para cumprir um determinado nível de serviço
 - atribuir a troços geométricos estas características
  
  
@@ -83,9 +83,14 @@ A análise a efectuar seguirá os seguintes passos:
 2. calcular uma capacidade máxima para os troços de estrada nacional;
 3. estimar o tráfego na autoestrada sem portagem, projectando os valores de 2009 para o ano de referência;
 4. calcular a diferença entre o tráfego sem portagem e o tráfego verificado na autoestrada;
-5. alocar esta diferença anterior aos troços da estrada nacional, simulando uma transferência de viagens da autoestrada para a estrada nacional em virtude da existência de portagem;
-6. calcular custos de congestionamento calculando a diferença entre o valor do tráfego calculado no ponto 5. e a capacidade de cada troço de estrada nacional.
-7. comparar o custo de congestionamento diário total da estrada nacional com o valor diário de cobrança de portagem na autoestrada.
+5. alocar esta diferença do ponto 4. aos troços da estrada nacional, subtraindo-ao ao tráfego verificado em 2015, simulando uma transferência de viagens da estrada nacional para a autoestrada, como se não existisse de portagem;
+6. calcular custos de congestionamento "existentes", comparando o tráfego verificado em 2015 com a capacidade de cada troço de estrada nacional.
+6. calcular custos de congestionamento "projetados", calculando a diferença entre o valor do tráfego calculado no ponto 5. e a capacidade de cada troço de estrada nacional.
+7. comparar a diferença entre custo de congestionamento diário total "projetado" e "existente", da estrada nacional, com o valor diário de cobrança de portagem na autoestrada.
+
+
+![Metodologia\label{metodolog}](../src/images/metodologia_geral.png)
+
 
 ### Definição de traçados e atribuição dos valores de volume de tráfego
 
@@ -374,12 +379,12 @@ excedida capacidade  & 0.649                                                    
 
 \end{center}
 
-Da aplicação destes custos aos volumes de tráfego obtidos por conversão dos fluxos de tráfego TMDA disponíveis, temos que existe um custo diário de cerca de € 126700. Dividindo pelo número de veículos, teríamos uma "portagem" de € 0.85 para ligeiros e de € 1.61 para pesados, a aplicar na estrada nacional.
+Da aplicação destes custos aos volumes de tráfego obtidos por conversão dos fluxos de tráfego TMDA disponíveis, temos que existe um custo diário de cerca de €126700. Dividindo pelo número de veículos, teríamos uma "portagem" de €0.85 para ligeiros e de €1.61 para pesados, a aplicar na estrada nacional.
 
 ### Cálculo da diferença de custos de congestionamento
 
-Aplicando os custos unitários de congestionamento de \label{custos_vkm} aos valores de tráfego de estrada nacional subtraídos dos valores da simulação de transferência indicados na tabela \label{transferencia}, obtêm-se um custo de congestionamento diário de cerca de € 92700. 
-A diferença é de € 34000, é este o custo de congestionamento diário induzido na EN2 pela colocação de portagem na autoestrada próxima.
+Aplicando os custos unitários de congestionamento de \label{custos_vkm} aos valores de tráfego de estrada nacional subtraídos dos valores da simulação de transferência indicados na tabela \label{transferencia}, obtêm-se um custo de congestionamento diário de cerca de €92700. 
+A diferença é de €34000, é este o custo de congestionamento diário induzido na EN2 pela colocação de portagem na autoestrada próxima.
 
 Falta apenas comparar este valor com a receita diária de portagem. Dos valores de tráfego registados a média TMDA da autoestrada A24 em 2015 era de cerca de 4390 veículos. Multiplicando este valor por € 4.5 de portagem temos uma receita diária de cerca de € 19755.
 
@@ -388,7 +393,11 @@ Assim temos que o custo de congestionamento diário calculado é quase o dobro d
 
 # Conclusão
 
-A análise empírica fornece indícios de que, de facto, os custos de congestionamento nas estradas alternativas às autoestradas portajadas podem ser significativos e a imposição de portagens nas autoestradas, além de limitarem o acesso a um bem público que está, na maioria dos casos, longe de ficar congestionado, pode provocar aumentos significativos do estado de congestionamento destas, o que representa uma perda de bem estar social.
+Portugal é um país com um défice histórico de infraestruturas de transporte, tendo se tornado nas últimas duas décadas particularmente bem servido em rede de autoestradas. Apesar deste esforço positivo, continuam a existir desequilíbrios, havendo áreas do país que continuam a ser servidas deficientemente em infraestrutura rodoviária.
+
+Uma das situações que se verifica é a existência de autoestrada disponível cujo acesso, na verdade, é efetivamente limitado pela cobrança de portagens. Em muitos casos, o valor de portagem cobrado não deverá permitir cobrir os custos da infraestrutura em tempo útil e, ao ser cobrado, o acesso à infraestrutura disponível é, em alguns casos, fortemente limitado.
+
+A análise empírica fornece indícios de que, de facto e entre outros, os custos de congestionamento nas estradas alternativas às autoestradas portajadas podem ser significativos e a imposição de portagens nas autoestradas, além de limitarem o acesso a um bem público que está, na maioria dos casos, longe de ficar congestionado, pode provocar aumentos significativos do estado de congestionamento daquelas, o que representa uma perda de bem estar social.
 
 Estes custos não entram em linha de consideração com outras possibilidades de custos adicionais decorrentes, por exemplo, da sinistralidade e do ambiente que poderiam tornar este resultado ainda mais expressivo.
 

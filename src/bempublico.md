@@ -56,7 +56,7 @@ A24 – Vila Real Fortunhos – VP Aguiar     & 54                              
 \end{center}
 
 
-Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil alternativo de via rápida, seguindo o já referido critério de valor de TMDA 10000 veículos / dia, nos troços que não cumprem esse critério representa uma despesa de construção, no mínimo, três vezes superior ao que seria necessário. Como já foi atrás explicado, esta condição de volume de tráfego é encontrada em vários troços na nossa atual rede de autoestradas.
+Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil alternativo de via rápida, seguindo o já referido critério de valor de TMDA 10000 veículos / dia, nos troços que não cumprem esse critério representa uma despesa de construção, no mínimo, três vezes superior ao que seria necessário. Como já foi atrás explicado, esta condição de volume de tráfego é encontrada em vários troços na nossa atual rede de autoestradas (ver \autoref{chap:acumrec}).
 
 Este é um aspecto muito crítico da tomada de decisão sobre desenvolvimentos da rede de infraestruturas rodoviária. Uma decisão errada a este nível lança o país num claro desperdício financeiro que começa num investimento inicial desnecessariamente alto, com impacto nos pagamentos a efectuar por uma geração de portugueses. Talvez a necessidade do pagamento generalizado de portagens pudesse ter sido contornada também se, a este nível, tivesse havido uma ponderação mais cuidada.
 
@@ -260,7 +260,7 @@ Esta avaliação tem que se focar no benefício líquido social decorrente da ex
 
 Da análise produzida em @MJoaoRodrigues verificamos que, na prática dos estudos de ACB em projetos portugueses, a definição e contabilização de custos tem habitualmente um destaque muito acentuado perante a contabilização de benefícios. A possibilidade de contabilizar efeitos positivos na economia local, nomeadamente daqueles que, por via fiscal, teriam reflexo direto nas contas do Estado é remetida para "análises económicas" que são apenas veladamente referidas na fonte referida.
 
-Nesta dissertação assume-se ser esse um domínio de análise que, apesar de extremamente interessante, é demasiadamente exigente e, por essa razão não será aqui desenvolvido.
+Assume-se aqui ser esse um domínio de análise que, apesar de extremamente interessante, representa um nível de exigência que transcende os limites definidos para esta dissertação e, por essa razão, não será aqui desenvolvido.
 
 Assim, continuando a discutir a existência de autoestradas e a cobrança de portagens, seguir-se-á a prática portuguesa habitual: centrar-nos-emos em avaliações e comparações de custos em diferentes cenários. O objectivo da análise será o de tentar comparar o valor de portagem cobrada com os custos de congestionamento, em estradas alternativas, induzidos pela cobrança da dita portagem.
 
@@ -348,7 +348,7 @@ Contudo, a análise detalhada deste item revelou-se excessivamente complexa para
 
 @newbery1990 indica que os custos de poluição estão correlacionados com os custos genéricos de congestionamento, devendo inclusivamente seguir os mesmos padrões de ocorrência no espaço, uma vez que como vemos na figura \ref{emissoes} , por exemplo, a emissão de poluentes é mais intensa a menores velocidades de circulação associadas às condições típicas do congestionamento de tráfego.
 
-![Efeito da velocidade nas emissoes de poluentes gasosos, fonte [@bokare]\label{emissoes}](../src/images/emissoes.png){ width=400px height=300px }
+![Efeito da velocidade nas emissões de poluentes gasosos, fonte [@bokare]\label{emissoes}](../src/images/emissoes.png){ width=400px height=300px }
 
 A sua contabilização reveste-se também de uma complexidade elevada. Para a ilustrar atentemos no seguinte diagrama adaptado de um relatório técnico de 2011 da Agência Ambiental Europeia.
 

@@ -4,14 +4,30 @@
 
 # Introdução
 
-O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha *circa* 1992 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. A intenção dos promotores políticos destas iniciativas era conseguir, em prazo curto, vencer a significativa desvantagem do país, face aos parceiros europeus, em infraestruturas de transporte. A aplicação do modelo PPP aos projectos rodoviários, ao permitir ultrapassar certas limitações à despesa de um estado significativamente endividado, surgiu como única possibilidade de resolver este problema. Na implementação de PPPR destacam-se, a partir de 1997, as chamadas SCUT, autoestradas sem custos diretos para o utente, cujo acesso livre poderia contribuir para diminuir as marcantes assimetrias socioeconómicas das regiões interiores do país. A perspectiva positiva deste acesso livre foi ensombrecida quando, a partir de 2006, entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um crescente distanciamento entre custos previstos e custos efetivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. 
+Portugal tem tido historicamente um défice crónico de infraestruturas de transporte que perdurou até ao final do século XX e início do século XXI. Se a condição nas infraestruturas rodoviárias sofreu melhorias significativas, existem outras áreas como a do transporte ferroviário em que as melhorias desta deficiência histórica tardam em materializar-se.
+
+No dealbar do século XXI, sucessivos governos colocaram em marcha um programa muito ambicioso de construção rodoviária, com recurso a entidades privadas, que implicou investimentos de montante elevado, suportado em crédito. 
 
 \setcounter{page}{1}
 \pagenumbering{arabic}
 
-Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos e a atenção pública focada no descontrole da despesa em PPPR, os executivos em funções em 2010 e 2011 cancelaram o acesso livre nos troços SCUT com a introdução de portagens. De imediato a procura caiu duma forma expressiva (na generalidade das autoestradas, de 2010 para 2011, houve uma descida de cerca de 11% em média [^fnQueda]). Tendo em conta que, mesmo hoje, sete anos depois da introdução de portagem, existem diversos troços de autoestrada cujo tráfego médio diário mantém-se abaixo dos limites técnicos de referência que justificam a respectiva criação, podemos perceber quer o próprio objectivo da colecta de receitas pode estar ameaçado. 
+O modelo DBFO (*Design, Build, Finance, Operate*) usado no projecto, construção e exploração da rede rodoviária da Grã-Bretanha *circa* 1992 serviu de exemplo à aplicação de  parcerias publico-privadas em projectos rodoviários (PPPR) em Portugal. A intenção dos promotores políticos destas iniciativas era conseguir, em prazo curto, vencer a significativa desvantagem do país, face aos parceiros europeus, em infraestruturas de transporte. A aplicação do modelo PPP aos projectos rodoviários, ao permitir ultrapassar certas limitações à despesa de um estado significativamente endividado, surgiu como única possibilidade de resolver este problema. Na implementação de PPPR destacam-se, a partir de 1997, as chamadas SCUT, autoestradas sem custos diretos para o utente, cujo acesso livre poderia contribuir para diminuir as marcantes assimetrias socioeconómicas das regiões interiores do país. A perspectiva positiva deste acesso livre foi ensombrecida quando, a partir de 2006, entidades fiscalizadoras das contas públicas chamaram veementemente a atenção para um crescente distanciamento entre custos previstos e custos efetivos da execução destes projectos. Um conjunto de decisões mal informadas, assumidas ao longo deste processo, levou a este estado de coisas. 
+
+Perante a pressão política, interna e externa, para diminuir certos encargos do Estado considerados excessivos e a atenção pública focada no descontrole da despesa em PPPR, os executivos em funções em 2010 e 2011 cancelaram o acesso livre nos troços SCUT com a introdução de portagens. 
+
+A aplicação do chamado "princípio do utilizador-pagador" orienta politicamente estas decisões. Segundo este, os serviços e bens públicos devem ser financiados essencialmente por quem os realmente utiliza / consome. Este princípio parece gozar de aceitação significativa na sociedade portuguesa. Assim a introdução de portagens ocorreu apenas sob o protesto local das populações das áreas de influência mais atingidas pela medida. 
+
+De imediato  após a introdução da cobrança de portagens, a procura caiu duma forma expressiva (na generalidade das autoestradas, de 2010 para 2011, houve uma descida de cerca de 11% em média [^fnQueda]). Tendo em conta que, mesmo hoje, sete anos depois da introdução de portagem, existem diversos troços de autoestrada cujo tráfego médio diário mantém-se abaixo dos limites técnicos de referência que justificam a respectiva criação, podemos perceber quer o próprio objectivo da colecta de receitas pode estar ameaçado. 
+
+De igual forma, após a introdução de portagens nas autoestradas ex-SCUT, foi muito sensível a degradação das condições de circulação e de segurança nos troços de "estrada nacional" alternativos. Estes troços alternativos tinham acabado de ser transferidos para a responsabilidade dos respectivos municípios que, justamente, os tinham transformado em vias urbanas, com condições de circulação e de velocidade máxima desajustadas ao tráfego de média e longa distância privilegiado pelas autoestradas.
 
 Esta atitude do poder político revela uma visão estreita apenas preocupada com "fluxos de caixa" e que despreza quer os benefícios da existência de autoestradas sobre a actividade económica das áreas servidas quer os custos de congestionamento e sobre-ocupação das vias alternativas causados por haver exclusão do acesso à autoestrada de todos aqueles que não estiverem dispostos a pagar a respectiva taxa de portagem.
+
+O papel do Estado é de garantir que mantém ou aumenta o benefício social líquido, não é admissível que o diminua. 
+Esta dissertação pretende contribuir para este debate com o ensaio de metodologias de contabilização de externalidades decorrentes da introdução de portagens, e de análise de custos e benefícios específicas para o âmbito rodoviário que ajudem a demonstrar como, de forma global, todos nós ficamos a perder com a situação presente da aplicação de portagens.
+
+Veremos que a cobrança de portagens, sobretudo nos troços que se previu em tempos não serem portajados (ex-SCUT), representa efetivamente um dilema:
+por um lado o Estado é pressionado no sentido de gerar receitas que cubram certos encargos avultados, como é o caso dos encargos das PPPR. Contudo, não só a aplicação de portagem pode não chegar a gerar as receitas necessárias como diminui a utilidade da nova infraestrutura e impede que esta cumpra o seu papel de absorver parte substancial do tráfego intenso que corre em alguns locais da rede de estradas nacionais.
 
 [^fnQueda]: no caso das autoestradas A29 e A17, por exemplo, chegou a cerca de 50% nos primeiros meses de introdução de portagem -- consultar os Relatórios de Tráfego na Rede Nacional de Auto-estradas do ex-INIR I.P. hoje disponíveis no [espaço de  relatórios](http://www.imt-ip.pt/sites/IMTT/Portugues/InfraestruturasRodoviarias/RedeRodoviaria/Paginas/Relatorios.aspx) do sítio web do Instituo da Mobilidade e dos Transportes IMT I.P.
 
@@ -29,6 +45,7 @@ Esta dissertação desenvolve-se ao longo dos seguintes pontos:
 - uma reflexão sobre a importância de minimizar custos sociais no acesso e utilização de infraestruturas
 
 Ao final destes pontos é efetuada uma análise empírica com o objetivo de dar expressão prática aos argumentos desta dissertação.
+
 
 # Enquadramento teórico
 
@@ -199,7 +216,7 @@ Das seis concessões/troços analisadas o estudo concluí pela introdução de p
 
 Apesar da pretensa preocupação de clareza que, supostamente, teria norteado este estudo, passados vários anos da introdução de portagens na generalidade dos troços de autoestrada em Portugal continua não ser explícito para o público o método de definição dos valores de taxas de portagem.
 
-Para este efeito, o Decreto-Lei n.º 111/2011 fixa um valor de referência de €0,06671/km (s/ IVA), valores com referência a Dezembro de 2006 e atualizáveis pelo IPC de Dezembro de cada ano. Como se chegou a este valor não é explicado. Por outro lado, a lei abre múltiplas possibilidade de variação que são efetivamente aplicadas no terreno duma forma absolutamente nada transparente.
+Para este efeito, o Decreto-Lei n.º 111/2011 fixa um valor de referência de €0,06671/km (s/ IVA), valores com referência a Dezembro de 2006 e atualizáveis pelo IPC de Dezembro de cada ano. Como se chegou a este valor não é explicado. Por outro lado, a lei abre múltiplas possibilidade de variação que são efetivamente aplicadas no terreno duma forma absolutamente nada transparente. O valor atualizado para 2016 com IVA será €0,098/km.
 
 
 # Definição do problema
@@ -209,6 +226,8 @@ Apesar da premente e compreensível necessidade na obtenção de proveitos que e
 Analisemos primeiro do ponto de vista do cumprimento do objectivo de acumulação de receita suficiente para cobrir o investimento o avultado investimento inicial.
 
 ## Acumulação de receitas, cobertura do investimento inicial
+
+\label{chap:acumrec}
 
 Se a introdução da cobrança de portagens nas nossas autoestradas visa cobrir, ou ajudar a cobrir, os encargos financeiros elevados que decorrem do igualmente elevado montante do investimento inicial, para que surta o desejado efeito de geração de proveitos, deve corresponder à definição de um preço de portagem que permita maximizar esse proveito e à definição de um período necessário a acumular a receita necessária.
 
@@ -250,7 +269,7 @@ A maioria dos troços de ex-SCUT, apesar de terem custos de construção por uni
 
 Estes valores são mais de 100 vezes inferior ao da Ponte 25 de Abril. Existe na bibliografia de suporte referências a limites empíricos de valores de TMDA entre 10000 e 18000 que justificam a transformação ou substituição de uma estrada de duas vias de circulação por uma faixa de 2 ou mais vias (@romana_hernando, @visao_atdesertas e [*Numbers every traffic engineer should know*](http://www.mikeontraffic.com/numbers-every-traffic-engineer-should-know/)). [^fn_critSinistralidade][^fnTRB]
 
-Muitos troços de autoestrada existentes não chegam a cumprir minimamente este critério.
+Os troços de autoestrada acima indicados, e vários outros, não chegam a cumprir minimamente este critério.
 
 [^fn_critSinistralidade]: Este não será o único critério, esta decisão poderá ser tomada por outros factores como questões peculiares de sinistralidade ou outras
 [^fnTRB]: A generalidade das metodologias de planeamento de rodovias usadas em todo mundo baseiam-se no trabalho pioneiro do Transportation Research Board norte-americano, reflectido, nomeadamente em [@HCM_SpRep209]), também referenciado no PRN2000 nacional.
@@ -262,23 +281,57 @@ Façamos então um pequeno ensaio para uma das novas autoestradas sujeitas a pag
 - portagem €14
 - comprimento de 92,7 km
 
-Calculemos $N_{D}$:
+Outros dados usados:
+
+- custo de manutenção anual cerca de € 8554000
+
+O custo de manutenção foi derivado do valor indicado na comunicação social para a A1 em 2011 (A A1 tem cerca de 303 km de comprimento, do valor indicado na notícia foi derivado o valor anual por quilómetro e este valor foi aplicado como custo de manutenção da A17, atualizado a 2016) [@customanutencao].
+
+Com estas indicações procedemos a um exercício de cálculo de Valor Acrescentado Líquido (VAL) que está apresentado na tabela \ref{VAL_A17}. O valor de portagem e de custos de manutenção são ajustados a uma taxa de inflação anual de 1,5%
+
+\begin{center}
+\begin{threeparttable}[]
+\fontsize{10pt}{12pt}\selectfont
+\caption{Valor atualizado líquido A17 (preços 2016)}
+\label{VAL_A17}
+
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+Ano & TMDA & Portagem & Benefícios      & Custos       & \begin{tabular}[c]{@{}l@{}}Encargos \\ líquidos E\textsubscript{l} \end{tabular} & E\textsubscript{l} atualizado     \\ \hline
+0   & 5558 & ----     & 0,00        & 690000000,00 & -690000000,00 & -690000000,00 \\
+1   & 5600 & 14,00    & 28616000,00 & 8553707,10   & 20062292,90   & 19290666,25   \\
+2   & 5600 & 14,42    & 29480918,60 & 8812242,90   & 20668675,70   & 19109352,54   \\
+3   & 5600 & 14,64    & 29923132,38 & 8944426,54   & 20978705,84   & 18649993,10   \\
+4   & 5600 & 14,86    & 30371979,36 & 9078592,94   & 21293386,43   & 18201675,96   \\
+5   & 5600 & 15,08    & 30827559,06 & 9214771,83   & 21612787,22   & 17764135,67   \\
+....& ... & ... & ... & ... & ... & ... \\
+45  & 5600 & 27,36    & 55921759,62 & 16715765,74  & 39205993,88   & 6712003,89    \\
+46  & 5600 & 27,77    & 56760586,01 & 16966502,22  & 39794083,79   & 6550657,64    \\
+47  & 5600 & 28,19    & 57611994,80 & 17220999,76  & 40390995,05   & 6393189,91    \\
+48  & 5600 & 28,61    & 58476174,73 & 17479314,75  & 40996859,97   & 6239507,46    \\
+49  & 5600 & 29,04    & 59353317,35 & 17741504,47  & 41611812,87   & 6089519,30    \\
+50  & 5600 & 29,47    & 60243617,11 & 18007627,04  & 42235990,07   & 5943136,62    \\
+    &      &          &             &              & \textbf{VAL (50 anos)} & \textbf{-117051615,17} \\ \hline
+\end{tabular}
+\end{threeparttable}
+\end{center}
+
+O VAL corresponde ao somatório da última coluna da direita da tabela \ref{VAL_A17} de acordo com a equação \ref{CalcVAL}.
 
 \begin{center}
 \begin{equation}
-\label{nD}
-N_{D} =  \frac{R}{V_{TMDA} * P_{max}}
+\label{CalcVAL}
+VAL = \sum_{i=0}^{n} \frac{E_{li}}{(1+t)^i}
 \end{equation}
 \end{center}
 
-Segundo a equação \ref{nD}, o valor de $N_{D}$ será de 8740 dias ou cerca de 24 anos. Tudo isto parece bem: a portagem em cobrança parece permitir cobrir o investimento inicial em menos de 30 anos (prazo habitual das concessões PPPR portuguesas). Não nos podemos esquecer de dois detalhes:
+A taxa interna de rentabilidade *t* usada tem o valor de 4%.
 
-- os custos da infraestrutura não tem apenas a ver com o investimento inicial;
-- a portagem atualmente cobrada na A17 está acima da tarifa de referência para o valor por quilómetro atualizado para 2016 com IVA (€0,1510/km > €0,098/km).
+Vemos que, ao final do 50^o^ ano de projeto, o VAL ainda é negativo, o que significa que o projeto não gerou receitas suficientes para cobrir os custos.
 
-Se usarmos o dito valor de referência atualizado para o mesmo cálculo, teríamos $N_{D}$ igual a 13665 dias, o que significa mais de 37 anos.
+Importa salientar que, se a taxa se baseasse no valor de referência legal de €0,098/km, o preço da portagem seria €9,08 e não €14. Portanto, para o cálculo de VAL atrás efetuado, o valor da portagem em cobrança representa já de si um valor elevado, acima da média. Mesmo assim o equilíbrio financeiro da autoestrada fica longe de estar assegurado.
 
-Estes cálculos são executados sobre valores médios e apenas pretendem dar uma ideia genérica das questões sobre as quais decisores políticos e técnicos são chamados a pronunciar-se. Mesmo assim, várias dúvidas podem imediatamente surgir relativamente à introdução de portagens, quer nas ex-SCUT quer nos novos troços de autoestrada portajada em zonas de reduzida procura:
+Estes cálculos apenas pretendem dar uma ideia genérica das questões sobre as quais decisores políticos e técnicos são chamados a pronunciar-se. Mesmo assim, várias dúvidas podem imediatamente surgir relativamente à introdução de portagens, quer nas ex-SCUT quer nos novos troços de autoestrada portajada em zonas de reduzida procura:
 
 - será possível pagar a totalidade de um investimento deste tipo com portagens ou apenas será viável cobrir uma parte dos custos?
 - quais serão os limites razoáveis para o valor da taxa, como a calcular, sem perder de vista a utilidade social?
@@ -343,7 +396,7 @@ Após a recensão bibliográfica que acompanhou a preparação desta dissertaç�
 
 Dada a falta de qualidade geral que encontramos nos processos de decisão, assunto a detalhar no ponto seguinte, não é surpreendente a superficialidade que encontramos na avaliação custo-benefício, a maioria da qual surge publicada "ex-post", como uma tentativa de entender a "performance social" do equipamento em pleno uso.
 
-A teoria económica diz-nos que, para o caso de um monopólio como é o do provimento de rodovias, o nível ótimo de produção será aquele em que a receita marginal iguala o custo marginal [@mateus_mateus]. Não havendo congestionamento, o custo adicional de entrada de um novo automóvel numa autoestrada é zero. Portanto temos, fora de congestionamento, um custo marginal zero, à qual deveria corresponder uma receita marginal zero, o que é claramente contraditório com a cobrança de portagem. Como veremos à frente, este é um aspecto que justifica que o provimento de rodovias seja encarado com o provimento de um bem público, responsabilidade final do Estado independentemente da possibilidade de existirem privados envolvidos nesse provimento.
+A teoria económica diz-nos que o nível ótimo de produção será aquele em que a receita marginal iguala o custo marginal [@mateus_mateus]. Não havendo congestionamento, o custo adicional de entrada de um novo automóvel numa autoestrada é zero. Portanto temos, fora de congestionamento, um custo marginal zero, à qual deveria corresponder uma receita marginal zero, o que é claramente contraditório com a cobrança de portagem. Como veremos à frente, este é um aspecto que justifica que o provimento de rodovias seja encarado com o provimento de um bem público, responsabilidade final do Estado independentemente da possibilidade de existirem privados envolvidos nesse provimento.
 
 Como monopolista, o Estado é todavia livre de fixar o preço que quiser. Como vimos na figura \ref{maxportg}, ao fixar uma portagem não nula, a procura pela autoestrada irá naturalmente descer. Uma parte dessa descida corresponde a viagens que se farão em troços alternativos congestionados, com queda na qualidade do serviço globalmente prestado pelo conjunto da infraestrutura. Essas viagens perdidas pela autoestrada irão contribuir para o congestionamento dos ditos troços alternativos, sujeitos a custos marginais crescentes. Qualquer cobrança de portagem representa um excedente, um proveito financeiro, do produtor. Acontece que o "produtor" é igualmente responsável pela qualidade quer da autoestrada portajada quer, em última análise, pelo troço alternativo, apesar deste ter sido municipalizado. Assim estes custos marginais crescentes da estrada nacional alternativa teriam, logicamente, que ser internalizados na análise de custo benefício da autoestrada: o produtor Estado não pode *colher os proveitos financeiros da portagem* numa via e *não gastar nada* para contrariar a degradação do serviço nas vias alternativas, quando esta degradação é consequência daquela cobrança de portagem.
 
