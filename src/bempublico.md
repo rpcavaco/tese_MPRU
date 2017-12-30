@@ -2,7 +2,7 @@
 
 \label{chap:fundpol}
 
-Ao analisar a história da implementação das PPPR em particular e da disponibilização de autoestradas em geral na \autoref{chap:persphist}, é saliente uma precipitação e uma má fundamentação gerais nos processos de tomada de decisão sobre a construção dessas infraestruturas, gritantemente manifestadas em aspectos como:
+Ao analisar a história da implementação das PPPR em particular e da disponibilização de autoestradas em geral na secção \ref{chap:persphist}, é saliente uma precipitação e uma má fundamentação gerais nos processos de tomada de decisão sobre a construção dessas infraestruturas, gritantemente manifestadas em aspectos como:
 
 - previsões de tráfego inverosímeis;
 - opções injustificadas pelo "perfil de autoestrada";
@@ -56,7 +56,7 @@ A24 – Vila Real Fortunhos – VP Aguiar     & 54                              
 \end{center}
 
 
-Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil alternativo de via rápida, seguindo o já referido critério de valor de TMDA 10000 veículos / dia, nos troços que não cumprem esse critério representa uma despesa de construção, no mínimo, três vezes superior ao que seria necessário. Como já foi atrás explicado, esta condição de volume de tráfego é encontrada em vários troços na nossa atual rede de autoestradas (ver \autoref{chap:acumrec}).
+Vemos assim, que a opção pelo perfil de autoestrada em detrimento de um perfil alternativo de via rápida, seguindo o já referido critério de valor de TMDA 10000 veículos / dia, nos troços que não cumprem esse critério representa uma despesa de construção, no mínimo, três vezes superior ao que seria necessário. Como já foi atrás explicado, esta condição de volume de tráfego é encontrada em vários troços na nossa atual rede de autoestradas (ver secção \ref{chap:acumrec}).
 
 Este é um aspecto muito crítico da tomada de decisão sobre desenvolvimentos da rede de infraestruturas rodoviária. Uma decisão errada a este nível lança o país num claro desperdício financeiro que começa num investimento inicial desnecessariamente alto, com impacto nos pagamentos a efectuar por uma geração de portugueses. Talvez a necessidade do pagamento generalizado de portagens pudesse ter sido contornada também se, a este nível, tivesse havido uma ponderação mais cuidada.
 
@@ -269,7 +269,7 @@ Todavia, é importante salientar que o objectivo principal que deveria orientar 
 
 # A minimização do custo social 
 
-Como vimos atrás na \autoref{chap:subitamudanca}, existe em Portugal, desde 2009, uma pressão pública importante no sentido que *os beneficiários de cada serviço público cubram os custos do mesmo*.
+Como vimos atrás na subsecção \ref{chap:subitamudanca}, existe em Portugal, desde 2009, uma pressão pública importante no sentido que *os beneficiários de cada serviço público cubram os custos do mesmo*.
 
 Contudo, @newbery1987, num  "working paper" produzido para o Fundo Monetário Internacional (FMI), fazia uma referencia muito clara à necessidade de contabilizar com clareza os "road use costs" (custos de utilização) e equilibrá-los com correspondentes "road user charges" (cobrança de taxas de uso).
 
@@ -285,7 +285,7 @@ Em contraste, o custo a imputar ao transporte rodoviário de passageiros, em esp
 
 Assim, do ponto de vista de Newbery, a cobrança integral da totalidade dos custos externos a considerar poderá repartir-se entre a cobrança de taxas e impostos indirectos e a implementação de sistemas de "road pricing". 
 
-A implementação de sistemas de "road pricing" tem vantagem clara de permitir a colocação de um preço no fluxo de tráfego, claramente internalizando, pelo menos, os custos de congestionamento, tal como atrás defendido na \autoref{chap:congest}.
+A implementação de sistemas de "road pricing" tem vantagem clara de permitir a colocação de um preço no fluxo de tráfego, claramente internalizando, pelo menos, os custos de congestionamento, tal como atrás defendido na secção \ref{chap:congest}.
 
 Para centrarmos a nossa análise (e, em especial, o estudo empírico a efetuar mais à frente no \autoref{chap:eemp}) em torno do equilíbrio ou da minimização do custo social das infraestruturas rodoviárias, precisamos de ter ideias claras sobre metodologias de contabilização e fontes possíveis de dados, o que será feito no ponto seguinte.
 
@@ -376,13 +376,13 @@ Os custos de congestionamento são também particularmente difíceis de contabil
 
 A abordagem simplista aqui usada consiste na aplicação de fatores lineares, custos de congestionamento que variam linearmente com o fluxo de tráfego e que são aplicados em diferentes contexto de variações de densidade urbana e níveis de carga do sistema viário. 
 
-Como já foi referido na \autoref{chap:catcost}, o cálculo genérico deste tipo de custos baseia-se habitualmente numa abordagem "willingness to pay" de valorização da disponibilidade de tempo pelos indivíduos abrangidos ou a disponibilidade para pagar um acesso reservado à infraestrutura.
+Como já foi referido na secção \ref{chap:catcost}, o cálculo genérico deste tipo de custos baseia-se habitualmente numa abordagem "willingness to pay" de valorização da disponibilidade de tempo pelos indivíduos abrangidos ou a disponibilidade para pagar um acesso reservado à infraestrutura.
 
 Os fatores lineares usados na análise empírica do capítulo seguinte são aqui adaptados dos fatores médios, calculados para 2010, para a globalidade dos países da União Europeia a partir dos dados do modelo de tráfego FORGE do Reino Unido, retirados de @ricardo. 
 
 Como @ricardo salienta, os fenómenos do congestionamento de tráfego são, por natureza, não-lineares pelo que estes custos tem de poder variar de acordo com um conjunto de condições prévias que só podem ser devidamente contabilizadas num modelo computacional. Só desta forma se poderá, entre várias possibilidades, abordar componentes estocásticas que necessariamente terão de ser avaliadas e incluídas neste processo.
 
-Seguindo as indicações dadas na \autoref{chap:congest}, a análise empírica desta dissertação centra-se nos custos de congestionamento de tráfego, usualmente decorrentes do facto de, com o nível de motorização existente nos nossos dias, ser muito fácil e até habitual a procura por uma estrada exceder a sua capacidade, o que tem como consequência o desaparecimento das condições de *"free flow"* [@HCM_SpRep209], de circulação livre, com o surgimento de dificuldades que, em regra geral, se traduzem na diminuição das velocidades médias de circulação e correspondente aumento do tempo de deslocação, que pode ir desde um valor inexpressivo até uma demora substancial que retém e afasta o automobilista e passageiros das suas atividades.
+Seguindo as indicações dadas na secção \ref{chap:congest}, a análise empírica desta dissertação centra-se nos custos de congestionamento de tráfego, usualmente decorrentes do facto de, com o nível de motorização existente nos nossos dias, ser muito fácil e até habitual a procura por uma estrada exceder a sua capacidade, o que tem como consequência o desaparecimento das condições de *"free flow"* [@HCM_SpRep209], de circulação livre, com o surgimento de dificuldades que, em regra geral, se traduzem na diminuição das velocidades médias de circulação e correspondente aumento do tempo de deslocação, que pode ir desde um valor inexpressivo até uma demora substancial que retém e afasta o automobilista e passageiros das suas atividades.
 
 A análise empírica efectuada tem um carácter eminentemente espacial. 
 

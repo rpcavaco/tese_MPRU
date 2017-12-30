@@ -42,6 +42,15 @@ VAL = \sum_{i=0}^{n} \frac{E_{li}}{(1+t)^i}
 \end{center}
 
 
+\begin{center}
+\begin{equation}
+\label{CalcVAL}
+V_{ch} = \sum_{i=1}^{n} \frac{V_{i} * a_{I_i}}{a_{T_i}}
+\end{equation}
+\end{center}
+
+V_{ch}: valor a atribuir à célula hexagonal.
+
 
 
 
