@@ -47,7 +47,7 @@ A utilização deste software permite-nos caracterizar a rede viária, a distrib
 
 ## Licenciamento de dados e software
 
-Esta análise empírica é construída sobre software e dados disponíveis sob licenciamento aberto (excepto no caso dos dados de tráfego cedidos pela Infraestruturas de Portugal, I.P.). Pretende-se que, como outras, esta dissertação possa servir de apoio pedagógico de utilização aberta e, deste ponto de vista, parece-nos importante que, pelo facto de serem usados software e dados sem limitações de licenciamento, as hipóteses e os resultados aqui apresentados poderem ser livremente testadas (as hipóteses) e reproduzidos (os resultados) em qualquer contexto.
+Esta análise empírica é construída sobre software e dados disponíveis sob licenciamento aberto (excepto no caso dos dados de tráfego cedidos pela Infraestruturas de Portugal SA). Pretende-se que, como outras, esta dissertação possa servir de apoio pedagógico de utilização aberta e, deste ponto de vista, parece-nos importante que, pelo facto de serem usados software e dados sem limitações de licenciamento, as hipóteses e os resultados aqui apresentados poderem ser livremente testadas (as hipóteses) e reproduzidos (os resultados) em qualquer contexto.
 
 Caso se pretenda usar ou reproduzir os dados abaixo indicados como fornecidos pela Infraestruturas de Portugal, esta entidade deverá ser previamente contactada para devidamente contextualizar e autorizar essa utilização.
 
@@ -89,7 +89,7 @@ Interessa-nos, para já:
 - caracterizar o relevo atravessado e as limitações à circulação que daí podem advir (inclinações acentuadas, quantidade de curvas, curvas muito acentuadas);
 - caracterizar o tipo de ocupação humana das áreas atravessadas pela via e as implicações da mesma na circulação (exemplos: elevada procura, obstruções à livre circulação, passadeiras, semáforos, medidas de acalmia de tráfego, etc.;
  
-![Contexto geográfico\label{imgref}](../src/images/mapa1.png)
+![Contexto geográfico\label{imgref}](../src/images/mapa1.png){ width=550px height=824px }
 
 Na \autoref{imgref}, criada a partir de dados abertos dos serviços OpenStreetMap (OSM) e Shuttle Radar Topography Mission (SRTM) [^fnJAG], vemos o contexto geográfico da área do caso de estudo sobre o fundo de hipsometria da região (retirada do SRTM). Vemos também alguns polígonos OSM para nos dar algumas pistas visuais da ocupação de solo na área de interesse. Neste mapa temos não só os traçados das duas estradas a analisar mas também alguma da restante rede viária envolvente. A hierarquia viária está caracterizada por um código de cores. Identificados com estilos diferentes do restante da rede viária, estão identificadas as vias em análise:
 
@@ -100,9 +100,9 @@ Na \autoref{imgref}, criada a partir de dados abertos dos serviços OpenStreetMa
 
 ## Enquadramento geográfico: densidade de ocupação
 
-A caraterização da ocupação humana baseia-se na informação dos Censos 2011 do Instituto Nacional de Estatística, obtida atráves da Base Geográfica de Referenciação de Informação (BGRI). 
+A caracterização da ocupação humana baseia-se na informação dos Censos 2011 do Instituto Nacional de Estatística, obtida através da Base Geográfica de Referenciação de Informação (BGRI). 
 
-Os polígonos de subsecção estatística contidos na BGRI têm a configuração necessária à gestão conveniente do trabalho de recolha de campo, que não é conveniente à espacialização na forma de uma superfície analítica que descreva grandezas como a distribuição espacial da densidade populacional. Entre vários outros aspectos problemáticos, estes polígonos tem uma grande variabilidade de áreas, cobrindo o espaço em análise de uma forma muito irregular e espacialmente desequilibrada. Assim torna-se necessário transformar os polígonos da BGRI numa matriz de figuras geométricas regulares à qual os valores de população possam ser distribuídos e fazer-se a sua espacialização de uma forma mais hoogénea.
+Os polígonos de subsecção estatística contidos na BGRI têm a configuração necessária à gestão conveniente do trabalho de recolha de campo, que não é conveniente à espacialização na forma de uma superfície analítica que descreva grandezas como a distribuição espacial da densidade populacional. Entre vários outros aspectos problemáticos, estes polígonos tem uma grande variabilidade de áreas, cobrindo o espaço em análise de uma forma muito irregular e espacialmente desequilibrada. Assim torna-se necessário transformar os polígonos da BGRI numa matriz de figuras geométricas regulares à qual os valores de população possam ser distribuídos e fazer-se a sua espacialização de uma forma mais homogénea.
 
 Seguindo os trabalhos que tem vindo a ser desenvolvidos no âmbito das chamados *Discrete Global Grid Systems* [@sahr] foi decidido usar uma matriz regular de hexágonos. Segundo Sahr, as matrizes de hexágonos são visualmente mais apelativas e são mais eficientes na amostragem dos dados, quer como cobertura única quer como hierarquia de matrizes sobrepostas, por exemplo para representar a informação espacializada a diferentes escalas.
 
@@ -126,11 +126,11 @@ Na \autoref{CalcCH}, temos que cada célula hexagonal intersecta $n$ polígonos 
 - $a_{I_i}$ representa a área do polígono resultante da intersecção entre o polígono BGRI $i$ e a célula hexagonal;
 - $a_{T_i}$ representa a área total do polígono BGRI $i$.
 
-Vemos assim que o valor da população de cada polígono BGRI (subsecção) é proporcionalmente distribuído pelas células hexagonais que o cobrem, proporcionalmente à razão entre a área de intersecção entre polígono BGRi e célula hexagonal, sobre o total da área do polígono de BGRI.
+Vemos assim que o valor da população de cada polígono BGRI (subsecção) é proporcionalmente distribuído pelas células hexagonais que o cobrem, proporcionalmente à razão entre a área de intersecção entre polígono BGRI e célula hexagonal, sobre o total da área do polígono de BGRI.
 
 Na \autoref{popdens}, vemos uma representação temática da malha hexagonal de células já com a população atribuída e com a densidade populacional calculada. A classificação de cores corresponde a classes de densidade populacional, em habitantes por quilómetro quadrado. A classe dos valores de densidade mais baixos, menos de 20 hab/km^2^, foi removida para maior clareza de visualização.
 
-![Contexto geográfico: densidade populacional\label{popdens}](../src/images/mapa2.png)
+![Contexto geográfico: densidade populacional\label{popdens}](../src/images/mapa2.png){ width=550px height=824px }
 
 ## Um primeiro produto: cálculo de custo de oportunidade
 
@@ -186,7 +186,7 @@ A análise a efectuar continuará pelos seguintes passos:
 
 Manipulando a informação de base de geográfica em software adequado de Sistema de Informação Geográfica (SIG) e de base de dados geográfica relacional (BDGR), executou-se o carregamento dos dados de volume de tráfego disponíveis. Antes, as vias, autoestrada e estrada alternativas, foram geometricamente seccionadas de acordo com os troços para os quais estão disponíveis os dados de tráfego e, no caso da autoestrada, os dados de taxa de portagem.
 
-Os dados de volume de tráfego são habitualmente expressos em tráfego médio diário anual (TMDA) [^fnTMDA]. Para as autoestradas,  existem valores publicados desde há vários anos. Para a estrada nacional foram fornecidos, a pedido, pela empresa Infraestruturas de Portugal, I.P. para troços e janela temporal bem definidos. Foi possível obter para os troços em causa os anos de 2013 a 2015 com algumas descontinuidades, com ausência de dados de 2013 para os troços de Benagouro-Flores, PAguiar-Benagouro e VPAguiar-PedrasSalgadas.
+Os dados de volume de tráfego são habitualmente expressos em tráfego médio diário anual (TMDA) [^fnTMDA]. Para as autoestradas,  existem valores publicados desde há vários anos. Para a estrada nacional foram fornecidos, a pedido, pela empresa Infraestruturas de Portugal, SA para troços e janela temporal bem definidos. Foi possível obter para os troços em causa os anos de 2013 a 2015 com algumas descontinuidades, com ausência de dados de 2013 para os troços de Benagouro-Flores, PAguiar-Benagouro e VPAguiar-PedrasSalgadas.
 
 Por lapso, não foi obtido o ano de 2009 para a estrada nacional. Este foi o último ano de funcionamento do acesso livre nas ex-SCUT e iremos considerar os respectivos valores de tráfego na autoestrada como referência para a procura sem portagem. Seria interessante possuir os valores correspondentes na estrada nacional nesse ano.
 
@@ -287,7 +287,7 @@ urbano     & plano      & 50                                                    
 
 ### Cálculo de capacidade máxima 
 
-Este cálculo de capacidade máxima dos troços de estrada nacional baseia-se nas indicações metodológicas do Transportation Research Board norte-americano [@HCM_SpRep209].
+Este cálculo de capacidade máxima dos troços de estrada nacional baseia-se nas indicações metodológicas do Highway Capacity Manual do Transportation Research Board norte-americano [@HCM_SpRep209].
 
 A cada combinação de relevo e tipo de ocupação, atrás levantada, foi feita, como vimos, uma atribuição empírica de uma velocidade ideal. A velocidade "free flow" foi calculada de acordo com @HCM_SpRep209. Seguindo as tabelas 7-2 a 7-5 deste relatório técnico, foram calculadas várias reduções a aplicar, primeiro em milhas por hora (mph), depois devidamente convertidas para km/h. A redução geral aplicada foi assim de 7,24 km/h a todas as velocidades ideais.
 
@@ -299,19 +299,21 @@ As reduções específicas em mph (total: 4,5 mph) devem-se a:
 
 A partir dos valores da tabela \ref{ocup_relevo} podemos calcular a capacidade de tráfego para cada classe de troço. Primeiro iremos calcular o volume de tráfego de ponta horário diário VHPd. Deste iremos obter depois valores de TMDA comparáveis com os dados de entrada disponíveis.
 
-### Cálculo de capacidade
-
 Vamos calcular valores de capacidade de tráfego para cada tipo de troço de estrada nacional com base nos cálculos indicados nas secções anteriores seguindo as indicações de @HCM_SpRep209.
 
 O primeiro passo é calcular valores de volume de tráfego de ponta horário diário VHPd para a ausência de tráfego de veículos pesados.
 
-Para isso, fazemos um cálculo sobre o gráfico \ref{speed_flow} [@HCM_SpRep209]. Para um dado valor de velocidade "free flow" encontramos a abcissa correspondente no gráfico (valores em milhas por hora, mph). Em seguida seguimos no gráfico a linha horizontal correspondente ao valor seleccionado até encontrar a linha oblíqua correspondente ao nível de serviço pretendido (Level of service - LOS).
+Para isso, fazemos um cálculo sobre o gráfico \ref{speed_flow} [@HCM_SpRep209]. Para um dado valor de velocidade "free flow" da tabela \ref{ocup_relevo}, encontramos a abcissa correspondente no gráfico (convertendo primeiro os valores de velocidade de km/h em milhas por hora, mph). Em seguida seguimos no gráfico a linha horizontal correspondente ao valor seleccionado até encontrar a linha oblíqua correspondente ao nível de serviço pretendido (Level of service - LOS) (exemplo na figura \ref{graf_calc} ).
 
-![Velocidade vs. fluxos de tráfego\label{speed_flow}](../src/images/speed_flow.png)
+![Velocidade vs. fluxos de tráfego\label{speed_flow}](../src/images/speed_flow.png){ width=400px height=302px }
 
-No caso português o Plano Rodoviário Nacional prevê que as estradas nacionais tenham um nível de serviço C (LOS C).
+![Cálculo gráfico \label{graf_calc}](../src/images/LOS_C.png){ width=350px height=350px }
 
-Encontrado este ponto o fluxo pretendido é o valor das abcissas correspondente.
+No caso português, o Plano Rodoviário Nacional prevê que as estradas nacionais tenham um nível de serviço C (LOS C).
+
+Encontrado este ponto, o fluxo pretendido é o valor das abcissas correspondente.
+
+\newpage
 
 Este valor obtido é em VHPd e tem de ser convertido em TMDA. Para isso usamos a expressão
 
@@ -328,10 +330,10 @@ Os valores de K e D usados estão na tabela \ref{k_d} e baseiam-se em @corrtraf.
 \fontsize{10pt}{12pt}\selectfont
 \begin{threeparttable}[h]
 \centering
-\caption{Constantes K e D por troços da estrada nacional EN2}
+\caption{Constantes K, D por troços de estrada nacional}
 \label{k_d}
 
-\begin{tabular}{|l|l|l|l|}
+\begin{tabular}{|R{3cm}|R{3cm}|l|l|}
 \hline
 \rowcolor[HTML]{C0C0C0} 
 Ocupação   & Relevo     & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}K} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}D} \\ \hline
@@ -381,23 +383,25 @@ O resultado final está mostrado na tabela \ref{capacidade}.
 
 \end{center}
 
-### Cálculo dos custos de congestionamento existentes
+### Cálculo do estado de congestionamento existente
 
 \label{chap:bandas}
 
 Para este efeito baseamo-nos em @ricardo.
 
-Este relatório técnico define um conjunto de *bandas de congestionamento* definidas a partir do quociente tráfego / capacidade (v/h):
+Este relatório técnico define um conjunto de *bandas de congestionamento* definidas a partir do quociente tráfego / capacidade (v/c):
 
-- fluxo livre: v/c até 0.75
-- próximo do limite de capacidade: v/c acima de 0.75 e menor que 1.0
-- capacidade excedida: v/c maior que 1.0
+- fluxo livre: v/c até 0.75;
+- próximo do limite de capacidade: v/c acima de 0.75 e menor que 1.0;
+- capacidade excedida: v/c maior que 1.0.
 
-O mapa da figura \ref{bandas} mostra a expressão destas bandas nos troços da EN2. Podemos ver que existe uma extensão significativa para a qual o tráfego verificado excede a capacidade disponível.
+O mapa da figura \ref{bandas} mostra a expressão destas bandas nos troços da EN2. Podemos ver que existe uma extensão significativa para a qual o tráfego verificado em 2015 excede a capacidade disponível.
 
-![Bandas de congestionamento\label{bandas}](../src/images/mapa_bandas.png)
+![Bandas de congestionamento EN2\label{bandas}](../src/images/mapa_bandas.png){ width=550px height=824px }
 
 ### Estimativa do volume de tráfego sem portagem
+
+Pretendemos fazer o cálculo de *bandas de congestionamento* para o cenário de cessação da cobrança de portagem da autoestrada e consequente diminuição da procura na estrada nacional. Para isso iremos estimar um volume de tráfego na autoestrada sem portagem. A diferença entre esse tráfego estimado e o tráfego efetivamente verificado na autoestrada servirá para simular o decréscimo de procura na estrada nacional, pelo que assumiremos que as viagens adicionais esperadas na autoestrada corresponderiam todas elas a substituições de viagem na estrada nacional.
 
 Para estimarmos quais seriam os valores de volume de tráfego na autoestrada em 2015 se não existissem portagens, aplicamos aos valores de 2009 (ano antes da aplicação de portagens na A24) o crescimento médio que o mesmo tráfego tem sentido entre 2013 e 2015 (tabela \ref{aumentos}).
 
@@ -426,16 +430,16 @@ VPAguiar-A7                                         & 3.69       \\ \hline
 
 \end{center}
 
-Aplicando estas taxas de crescimento obtemos um conjunto de valores de tráfego por troço da A24. A estes foram subtraídos os valores, assumidos como correntes, de 2015. De seguida, simularemos a transferência desta diferença para os troços da estrada nacional, como efeito da aplicação das portagens. Assim os valores na tabela \ref{transferenciav} simulam diminuições esperadas em cada troço de estrada nacional caso as portagens da autoestrada fossem removidas.
+Aplicando estas taxas de crescimento obtemos um conjunto de valores de tráfego por troço da A24. A estes foram subtraídos os valores, assumidos como correntes, de 2015. De seguida, simularemos a transferência entre os troços da estrada nacional e a autoestrada, como efeito da aplicação das portagens. Assim os valores na tabela \ref{transferencia} simulam diminuições esperadas em cada troço de estrada nacional no caso de cessação de cobrança de portagem na autoestrada.
 
 \begin{center}
 \fontsize{10pt}{12pt}\selectfont
 \begin{threeparttable}[h]
 \centering
-\caption{Simulação transferência de tráfego EN2 > A24}
-\label{transferenciav}
+\caption{Simulação transferência tráfego EN2 > A24}
+\label{transferencia}
 
-\begin{tabular}{| R{6cm} |l|}
+\begin{tabular}{| R{8cm} |l|}
 \hline
 \rowcolor[HTML]{C0C0C0} 
 Troço EN2               & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Transferência\\ TMDA\end{tabular}} \\
@@ -451,13 +455,22 @@ VPAguiar-Benagouro      & 196                                                   
 
 \end{center}
 
+O mapa da figura \ref{bandas2} mostra a expressão destas bandas recalculadas nos troços da EN2, perante a diminuição de tráfego esperada pela cessação da cobrança de portagem na A24. Podemos ver que ainda existe uma extensão significativa para a qual o tráfego excede a capacidade disponível.
+
+![Bandas de congestionamento EN2, desvio de tráfego para A24 sem portagem\label{bandas2}](../src/images/mapa_bandas_reducao.png){ width=550px height=824px }
+
 ### Cálculo de custos de congestionamento na estrada nacional
 
 O ano de referência para os preços usados é 2015.
 
-Para medir o impacto da introdução de portagens sobre os custos de congestionamento, teremos de medir, não só, os custos correspondentes à simulação de transferência de tráfego da estrada nacional para a autoestrada mas também os custos de congestionamento já existentes. O impacto da portagem corresponderá à diferença entre ambos os custos.
+Para medir o impacto da introdução de portagens sobre os custos de congestionamento, teremos de medir:
 
-Assim, às bandas de congestionamento calculadas em \autoref{chap:bandas} foram aplicados os custos genéricos por unidade de volume de tráfego (em veículos * quilómetro), adaptados de @ricardo e ajustados a 2015, apresentados em \label{custos_vkm}.
+- os custos do congestionamento existentes na estrada nacional (2015);
+- os custos de congestionamento esperados na estrada nacional, simulando a supressão da portagem e a correspondente transferência entre estrada nacional e autoestrada.
+
+O impacto corresponderá então à diferença entre estes dois valores.
+
+Assim, às bandas de congestionamento calculadas na subsecção \ref{chap:bandas} foram aplicados os custos genéricos por unidade de volume de tráfego (em veículos * quilómetro, vkm), adaptados de @ricardo e ajustados a 2015, apresentados na \autoref{custos_vkm}.
 
 \begin{center}
 \fontsize{10pt}{12pt}\selectfont
@@ -466,7 +479,7 @@ Assim, às bandas de congestionamento calculadas em \autoref{chap:bandas} foram 
 \caption{Custos de congestionamento por unidade de volume de tráfego (vkm)}
 \label{custos_vkm}
 
-\begin{tabular}{|l|l|l|}
+\begin{tabular}{| R{8cm} |l|l|}
 \hline
 \rowcolor[HTML]{C0C0C0} 
 Banda congestionamento      & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Custo ligeiros \\ €/vkm\end{tabular}} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Custo pesados \\ €/vkm\end{tabular}} \\ \hline
@@ -479,14 +492,13 @@ excedida capacidade  & 0.649                                                    
 
 \end{center}
 
-Da aplicação destes custos aos volumes de tráfego obtidos por conversão dos fluxos de tráfego TMDA disponíveis, temos que existe um custo diário de cerca de €126700. Dividindo pelo número de veículos, teríamos uma "portagem" de €0.85 para ligeiros e de €1.61 para pesados, a aplicar na estrada nacional.
+Da aplicação destes custos aos volumes de tráfego obtidos por conversão dos fluxos de tráfego TMDA disponíveis para valores em vkm, temos que existe um custo diário de cerca de €126700. Dividindo pelo número de veículos, poderíamos ter uma "portagem" de €0.85 para ligeiros e de €1.61 para pesados, a aplicar na estrada nacional.
 
 ### Cálculo da diferença de custos de congestionamento
 
-Aplicando os custos unitários de congestionamento de \label{custos_vkm} aos valores de tráfego de estrada nacional subtraídos dos valores da simulação de transferência indicados na tabela \label{transferencia}, obtêm-se um custo de congestionamento diário de cerca de €92700. 
-A diferença é de €34000, é este o custo de congestionamento diário induzido na EN2 pela colocação de portagem na autoestrada próxima.
+Aplicando os custos unitários de congestionamento da tabela \ref{custos_vkm} aos valores de tráfego de estrada nacional subtraídos dos valores da simulação de transferência indicados na tabela \ref{transferencia}, obtêm-se um custo de congestionamento diário de cerca de €92700. Tendo em conta que existirá um custo diário de cerca de €126700 (calculado na subsecção anterior) a diferença é de €34000, é este o custo de congestionamento diário induzido na EN2 pela existência de portagem na autoestrada próxima.
 
-Falta apenas comparar este valor com a receita diária de portagem. Dos valores de tráfego registados a média TMDA da autoestrada A24 em 2015 era de cerca de 4390 veículos. Multiplicando este valor por € 4.5 de portagem temos uma receita diária de cerca de € 19755.
+Falta apenas comparar este valor com a receita diária de portagem. Dos valores de tráfego registados a média TMDA da autoestrada A24 em 2015 era de cerca de 4390 veículos. Multiplicando este valor por €4.5 de portagem temos uma receita diária de cerca de €19755.
 
 Assim temos que o custo de congestionamento diário calculado é quase o dobro da receita de portagem.
 
@@ -503,8 +515,8 @@ Estes custos não entram em linha de consideração com outras possibilidades de
 
 Dos resultados da análise empírica, podemos fazer as seguintes sugestões, no caso da A24 e da estrada nacional EN2:
 
-1. a portagem na autoestrada deveria ser abolida;
+1. a portagem na autoestrada A24 deveria ser abolida;
 2. poderia ser considerado um sistema de cobrança de custos de congestionamento implementado sobre sistemas de cobrança eletrónica como os usados na autoestrada;
-3. O pagamento dos custos do investimento inicial na construção da A24 devem ser arrecadados de outra forma a partir das taxas e impostos ligados ao tráfego automóvel.
+3. O pagamento dos custos, do investimento inicial e outros, da A24 devem ser arrecadados de outra forma que não pela cobrança de portagens, nomeadamente a partir das taxas e impostos ligados ao tráfego automóvel.
 
 Como foi referenciado, a forma como o custo de congestionamento foi aqui calculado é simplista e esta análise deveria ser reproduzida de forma mais sustentada, baseada em modelos de simulação de tráfego.

@@ -51,6 +51,29 @@ V_{ch} = \sum_{i=1}^{n} \frac{V_{i} * a_{I_i}}{a_{T_i}}
 
 V_{ch}: valor a atribuir à célula hexagonal.
 
+\begin{center}
+\fontsize{10pt}{12pt}\selectfont
+\begin{threeparttable}[h]
+\centering
+\caption{Constantes K e D por troços da estrada nacional EN2}
+\label{k_d}
 
+\begin{tabular}{|R{3cm}|R{3cm}|l|l|}
+\hline
+\rowcolor[HTML]{C0C0C0} 
+Ocupação   & Relevo     & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}K} & \multicolumn{1}{c|}{\cellcolor[HTML]{C0C0C0}D} \\ \hline
+periurbano & misto      & 0,2                                            & 0,72                                           \\
+periurbano & montanhoso & 0,2                                            & 0,72                                           \\
+periurbano & plano      & 0,2                                            & 0,72                                           \\
+rural      & misto      & 0,14                                           & 0,6                                            \\
+rural      & montanhoso & 0,14                                           & 0,6                                            \\
+rural      & plano      & 0,1                                            & 0,57                                           \\
+urbano     & misto      & 0,14                                           & 0,6                                            \\
+urbano     & plano      & 0,1                                            & 0,57                                           \\ \hline
+\end{tabular}
+
+\end{threeparttable}
+
+\end{center}
 
 

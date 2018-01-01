@@ -1,5 +1,5 @@
 
+\clearpage
+\pagestyle{plain}
 
-\chapter*{Bibliografia}
-
-\singlespacing
+# Bibliografia

@@ -47,9 +47,7 @@ Esta dissertação desenvolve-se ao longo dos seguintes pontos:
 Ao final destes pontos é efetuada uma análise empírica com o objetivo de dar expressão prática aos argumentos desta dissertação.
 
 
-# Enquadramento teórico
-
-## Perspectiva histórica
+# Enquadramento teórico e perspectiva histórica
 
 \label{chap:persphist}
 
@@ -66,7 +64,7 @@ Até chegarmos às décadas finais do século XX, o investimento no modo rodovi�
 A intensidade desta aposta e o esforço aplicado neste desígnio foram de tal ordem que hoje existe, em volta das principais áreas metropolitanas do nosso país periférico, uma densidade de vias da melhor qualidade, as chamadas "autoestradas", que rivaliza com a densidade das mesmas nas áreas metropolitanas mais ricas e populosas do centro da Europa Ocidental, centro económico da União Europeia a que hoje pertencemos [@gleave].
 
 
-### Um esforço intenso
+## Um esforço intenso
 
 Contudo, o esforço aplicado no crescimento das infraestruturas rodoviárias sujeitou as contas do Estado a um esforço financeiro elevado, baseado em dívida e na preocupação de um suposto "custo zero": entidades privadas assumiram elevados custos fixos, na expectativa da cobrança ao erário público de variadas rendas e compensações ao longo de décadas. Dessa forma, o impacto desses custos nas contas do Estado vai sendo diferido no tempo e suavizado, mesmo que à custa do pagamento de substanciais juros bancários.
 
@@ -164,7 +162,7 @@ Contudo, Moreno calculava para a globalidade das PPPR um valor de encargos pluri
 Convém salientar, como é demonstrado mais à frente no \autoref{chap:fundpol}, que parte da derrapagem nos encargos do Estado no provimento de infraestrutura rodoviária vem de empreendimentos completamente fora do universo SCUT, em autoestradas que foram abertas já com cobrança de portagem como é o caso da A10 Arruda - Benavente.
 
 
-### Súbita mudança de orientação política
+## Súbita mudança de orientação política
 
 \label{chap:subitamudanca}
 
@@ -365,6 +363,8 @@ Com o fim do regime SCUT e a imposição de portagens, uma parte significativa d
 O novo carácter de via urbana de algumas das vias pré-existentes faz com que as baixas velocidades, demasiadamente baixas para quem está numa viagem de médio ou longo curso, produzam novamente um congestionamento assinalável. Dantes, o congestionamento era resultado do excesso de procura, agora resulta das já referidas medidas de acalmia de tráfego às quais se junta uma procura inesperadamente elevada, resultante do tráfego que não segue pelas autoestradas, face à aplicação de portagens.
 
 O estudo do verdadeiro impacto destas alterações no tecido sócio económico é um trabalho ainda largamente incompleto.
+
+\newpage
 
 ## O dilema da aplicação de portagens
 

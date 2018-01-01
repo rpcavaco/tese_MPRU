@@ -113,7 +113,7 @@ Professor Associado, Universidade de Aveiro \\
 \textbf{agradecimentos} & \fontsize{10pt}{12pt}\selectfont
 Um agradecimento especial ao orientador Doutor Eduardo Anselmo Moreira Fernandes de Castro pelo apoio e inspiração prestados e ao co-orientador Doutor João José Lourenço Marques pelos esforços no sentido desta disssertação poder chegar a bom porto. \\
 & \fontsize{10pt}{12pt}\selectfont
-Um agradecimento à Infraestruturas de Portugal I.P. pela contribuição com um importante e indispensável conjunto de dados de tráfego. \\
+Um agradecimento à Infraestruturas de Portugal SA pela contribuição com um importante e indispensável conjunto de dados de tráfego. \\
 
 \end{tabular}
 
